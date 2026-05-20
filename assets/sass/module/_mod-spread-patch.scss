@@ -1,0 +1,134 @@
+.mod-spread-patch{
+    position: relative;
+    margin-top: 80px;
+    .inner-sec{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 295px;
+        // lcss
+        width: 80%;
+        margin: 0 auto;
+        &.set-bg{
+            background-size: contain !important;
+            background-repeat: no-repeat !important;
+             background-position: center !important;
+        }
+        .content{
+            display: block;
+            text-align: right;
+            position: absolute;
+            bottom: 45px;
+            // bottom: 25px;
+            p{
+                color: $clr-white;
+                font-size: 30px;
+                font-family: $fnt1;
+                // margin-bottom: 20px;
+                margin-bottom: 50px;
+                span{
+                    display: block;
+                    &.mob{
+                        display: contents;
+                    }
+                }
+
+            }
+        }
+       
+    }
+    &.typ-small{
+        margin-top: -50px;
+        .inner-sec {
+            min-height: 295px;
+            max-width: 66%;
+            margin: 0 auto;
+           
+            p{
+                text-align: left;
+            }
+          
+        }        
+    }
+    &.typ-films{
+        .inner-sec {
+            max-width: 100%;
+            .content{
+                position: relative;
+                bottom: 0;
+                text-align: center;
+                padding-top: 25px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $desktop-breakpoint) { 
+    .mod-spread-patch{
+        .inner-sec{
+            .content{
+                bottom: 50px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: $tablet-breakpoint) { 
+    .mod-spread-patch {
+        .inner-sec {
+            // min-height: auto;
+            .content {
+                bottom: -45px;
+                position: relative;
+            }
+        }
+        &.typ-small{                
+            margin-top: -25px;
+            .inner-sec{
+                // min-height: 195px;
+                .content{
+                    bottom: -35px;
+                }
+                
+                
+            }
+        }
+    }
+}
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .mod-spread-patch {
+        margin-top: -25px;
+        .inner-sec{
+            .content{
+                bottom: -20px;
+                p{
+                    font-size: 13px;
+                    margin-bottom: 5px;
+                    margin-top: 0;
+                    span{
+                        &.mob{
+                            display: block;
+                        }
+                    }
+                }
+            }
+        }
+        &.typ-small{
+            margin-top: -50px;
+            .container{
+                padding: 0;
+            }
+            .inner-sec{                
+                max-width: 100%;
+                min-height: 142px;
+                margin-top: 80px;
+               .content{
+                bottom: inherit;
+               }
+               &.set-bg{
+                // background-size: inherit !important;
+                // background-size: cover !important;
+            }
+            }
+        }
+    }
+}

@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        <!-- section page heading start -->
+        <section class="lyt-section typ-bmt-p-0 typ-section-one">
+            <div class="container">
+                <h2 class="bs-heading with-btm-line typ-brown-heading">films</h2>
+            </div>
+        </section>
+        <!-- section page heading end -->
+
+        <!-- section full banner start -->
+        <!-- <section class="mb-100">
+            <div class="container-fluid ctm-container">
+                <div class="bs-banner typ-films set-bg" data-img="assets/images/films/bnnr.jpg">
+                    <div class="container">
+                        <p class="bnnr-title">our approach to make wedding films</p>
+                    </div>
+                </div>
+                <img src="assets/images/films/vector-flower.png" alt="flower" class="fullbnnr-btm-vector">
+            </div>
+        </section> -->
+        <!-- section full banner end -->
+
+
+        <!-- section full banner start -->
+        <section class="lyt-section mob-padding-0 fullbnnr">
+            <div id="hidediv" class="bs-banner typ-full set-bg" data-img="assets/images/fullbnnr.jpg"
+                data-mob-img="assets/images/mob-bnnr.jpg">
+                <div class="container">
+                    <div class="titlebx">
+                        <h2 class="bs-heading typ-big">ishaan <br>katie</h2>
+                        <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                            data-src="https://player.vimeo.com/video/1174259415?h=9a59a4749a" data-target="#myModal"><span>play<i
+                                    class="icon icon-down-arrow"></i></span></a>
+                        <!-- <button class="button button--dione"><span>Resize</span></button> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section full banner end -->
+
+        <!-- section paragraph start -->
+        <section class="lyt-section mob-padding-0 typ-center-para typ-pb-0 typ-pb-100" data-color="mariner">
+            <div class="container">
+                <p class="cm-para">
+                    This is easily among our favorite things to do, <br>
+                    to be able to capture the memories and with them, weave timeless tales. <br>
+                    Our films cherish raw emotions and indulge in the unnoticed stories that <br>
+                    preserve the moments, relationships, and soul of the wedding. <br>
+                    Years later, travel back in time and relive the same joy… <br>
+                    the joy of becoming soulmates. <br>
+                    <span>
+                        Eternal, Elegant & Indulgent - our body of work.
+                    </span>
+                </p>
+            </div>
+        </section>
+
+        <!-- section weeding films start -->
+        <section class="lyt-section mob-padding-0 fluid-sec">
+            <div class="container-fluid ctm-containerfluid">
+                <img src="assets/images/vector6.png" alt="img" class="vector6" data-500-top="transform:translateY(100px)"
+                    data-0-top="transform:translateY(0px)">
+                <div class="mod-borderbox">
+                    <div class="seperator"></div>
+                    <div class="row bs-img-txt align-items-center">
+                        <div class="col-7 col-lg-6 albumpic first-img">
+                            <p class="fixedtxt typ-bg-img">wedding film</p>
+                            <img src="assets/images/films-nidhi-ranjeev.jpg" alt="Nidhi Ranjeev" data-500-top="transform:translateY(160px)"
+                                data-0-top="transform:translateY(0px)">
+                            <h2 class="bs-heading typ-white">nidhi <br>ranjeev</h2>
+                        </div>
+                        <div class="col-5 col-lg-6">
+                            <div class="container">
+                                <div class="action-btn left-align">
+                                    <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                                        data-src="https://player.vimeo.com/video/864778224"
+                                        data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"
+                                                            allowscriptaccess="always"></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row bs-img-txt align-items-center">
+                        <div class="col-5 col-lg-6">
+                            <div class="container">
+                                <p class="fixedtxt typ-bg-img md-none">wedding film</p>
+                                <div class="action-btn rightalign">
+                                    <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                                        data-src="https://player.vimeo.com/video/1032267387?h=9d88b5abda"
+                                        data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"
+                                                            allowscriptaccess="always"></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-7 col-lg-6 albumpic sec-img">
+                            <img src="assets/images/films-kaajal-utkarsh.jpg" alt="Kaajal Utkarsh" data-500-top="transform:translateY(170px)"
+                                data-0-top="transform:translateY(0px)">
+                            <h2 class="bs-heading typ-white typ-reverse brder-div">kaajal <br>utkarsh</h2>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="mod-spread-patch typ-small typ-films">
+                    <div class="container">
+                        <div class="inner-sec set-bg" data-img="assets/images/spreadpatchtwo.png">
+                            <div class="content">
+                                <a href="films-listing.html" class="bs-btn typ-view typ-large"><span>view all films<i
+                                            class="icon icon-down-arrow"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- <div class="mod-spread-patch typ-small">
+                            <div class="container">
+                                <div class="inner-sec set-bg" data-img="assets/images/spreadpatchtwo.png">
+                                    <div class="content">
+                                        <p>have a look at<span> more wedding films</span></p>
+                                        <a href="#" class="bs-btn typ-view"><span>view <i class="icon icon-down-arrow"></i></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+            </div>
+        </section>
+        <!-- section weeding films end -->
+
+<!-- section weeding films start -->
+        <!-- <section class="lyt-section mob-padding-0 fluid-sec p-non">
+            <div class="container-fluid ctm-containerfluid">
+                <img src="assets/images/vector6.png" alt="img" class="vector6" data-500-top="transform:translateY(100px)"
+                    data-0-top="transform:translateY(0px)">
+                <div class="mod-borderbox">
+                    <div class="seperator"></div>
+                    <div class="row bs-img-txt align-items-center">
+                        <div class="col-7 col-lg-6 albumpic first-img">
+                            <p class="fixedtxt typ-bg-img">wedding film</p>
+                            <img src="assets/images/films/pic1.jpg" alt="img">
+                            <h2 class="bs-heading typ-white">suharsha <br> pranoy</h2>
+                        </div>
+                        <div class="col-5 col-lg-6">
+                            <div class="container">
+                                <div class="description-bx">
+                                    <p class="para">audio film.
+                                        <span>here we will talk</span>
+                                        <span>about mainly sound, music</span>
+                                        <span>which we have created originally</span>
+                                        <span>for the wedding films</span>
+                                        <span>(link to blog page for more info)</span>
+                                    </p>
+                                    <div class="action-btn">
+                                        <a href="#" class="bs-btn typ-view"><span>play <i
+                                                    class="icon icon-down-arrow"></i></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row bs-img-txt align-items-center">
+                        <div class="col-5 col-lg-6">
+                            <div class="container">
+                                <p class="fixedtxt typ-bg-img md-none">wedding film</p>
+                                <div class="description-bx typ-left">
+                                    <p class="para"> <strong>featured film.</strong>
+                                        <span>here we will talk</span>
+                                        <span>about mainly sound, music</span>
+                                        <span>which we have created originally</span>
+                                        <span>for the wedding films</span>
+                                        <span>(link to blog page for more info)</span>
+                                    </p>
+                                    <div class="action-btn">
+                                        <a href="#" class="bs-btn typ-view"><span>play <i
+                                                    class="icon icon-down-arrow"></i></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-7 col-lg-6  albumpic sec-img">
+                            <img src="assets/images/films/pic2.jpg" alt="img">
+                            <h2 class="bs-heading typ-white typ-reverse brder-div">varuni prashanth</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mod-spread-patch typ-small typ-films">
+                    <div class="container">
+                        <div class="inner-sec set-bg" data-img="assets/images/spreadpatchtwo.png">
+                            <div class="content">
+                                <a href="films-listing.html" class="bs-btn typ-view typ-large"><span>view all films<i
+                                            class="icon icon-down-arrow"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!-- section weeding films end -->
+
+        <section class="lyt-section mob-padding-0 artists-sec typ-teasers-sec typ-mt-200">
+            <img src="assets/images/short-video.png" alt="img" class="short-video">
+            <div class="container cust-cont">
+                <div class="row typ-teasers-layout align-items-center">
+                    <div class="col-lg-4 col-md-5 typ-teasers-title">
+                        <h2 class="bs-heading">Teasers</h2>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="row typ-teasers-grid">
+                            <div class="col-6 ctm-cols">
+                                <div class="popup-gallery mb-20">
+                                    <a href="https://vimeo.com/888594256" class="video">
+                                        <img src="assets/images/teasers/sravya-siddharath.jpg" alt="Sravya Siddharath">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-6 ctm-cols">
+                                <div class="popup-gallery mb-20">
+                                    <a href="https://vimeo.com/888594256" class="video">
+                                        <img src="assets/images/teasers/katherine-ishaan.jpg" alt="Katherine Ishaan">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-6 ctm-cols">
+                                <div class="popup-gallery mb-20">
+                                    <a href="https://vimeo.com/888594256" class="video">
+                                        <img src="assets/images/teasers/kaajal-utkarsh.jpg" alt="Kaajal Utkarsh">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-6 ctm-cols">
+                                <div class="popup-gallery mb-20">
+                                    <a href="https://vimeo.com/888594256" class="video">
+                                        <img src="assets/images/teasers/nidhi-ranjeev.jpg" alt="Nidhi Ranjeev">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- section micro videos start -->
+        <section class="lyt-section typ-microvideo">
+            <div class="container ctm-microvideo">
+                <h2 class="bs-heading typ-sml-title microvideo-title">Reels</h2>
+                <div class="bs-swiper typ-microvid popup-gallery">
+                    <div class="swiper-container video-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="https://vimeo.com/968638491" class="video">
+                                    <figure>
+                                        <img src="assets/images/reels/kaajal-utkarsh-1.png" alt="Kaajal Utkarsh">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="https://vimeo.com/968638223" class="video">
+                                    <figure>
+                                        <img src="assets/images/reels/kaajal-utkarsh-2.png" alt="Kaajal Utkarsh">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="https://vimeo.com/788244226" class="video">
+                                    <figure>
+                                        <img src="assets/images/reels/namrata-pahal.png" alt="Namrata Pahal">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="https://vimeo.com/788244704" class="video">
+                                    <figure>
+                                        <img src="assets/images/reels/samyukta-marcel.png" alt="Samyukta Marcel">
+                                    </figure>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-next"><i class="icon icon-down-arrow"></i></div>
+                    <div class="swiper-button-prev"><i class="icon icon-down-arrow"></i></div>
+                </div>
+                <div class="action-btn">
+                    <a href="https://www.instagram.com/onefinedaypictures/" target="_blank"
+                        class="bs-btn typ-view"><span>view<i class="icon icon-icon_insta"></i></span></a>
+                </div>
+            </div>
+        </section>
+        <!-- section micro videos end -->
+
+        <!-- section artists swiper start -->
+        <section class="lyt-section mob-padding-0 artists-sec typ-film-artists-sec">
+            <div class="container">
+                <h2 class="artists">the artists</h2>
+                <div class="bs-swiper artists-swiper-parent">
+                    <h1 class="sticky-letter">we are a bunch <span class="stickyblock"><span class="singletxt">of</span>
+                            creative guys</span></h1>
+                    <div class="swiper-container artists-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists1.png" alt="img">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists2.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists3.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists4.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists5.png" alt="artists">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists6.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists7.png" alt="artists">
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- Add Arrows -->
+                    <!-- <div class="swiper-button-next">
+                        <span class="icon-button_next"><span class="path1"></span><span class="path2"></span><span
+                                class="path3"></span></span>
+                    </div>
+                    <div class="swiper-button-prev">
+                        <span class="icon-button_previous"><span class="path1"></span><span class="path2"></span><span
+                                class="path3"></span></span>
+                    </div> -->
+                </div>
+                <div class="action-txt">
+                    <h2>you can spot us in a crowd,<span>we look happier.</span></h2>
+                    <!-- <a href="#" class="bs-btn typ-view typ-abs typ-all"><span>view all <i
+                                class="icon icon-down-arrow"></i></span></a> -->
+                </div>
+            </div>
+        </section>
+        <!-- section artists swiper end -->
+
+        <!-- section we provide start -->
+        <section class="lyt-section typ-weprovide">
+            <div class="container">
+                <h2 class="bs-heading typ-sml-title text-center we-provide">our films</h2>
+                <div class="row ctm-row">
+                    <div class="col-md-4">
+                        <div id="curly-brace-left">
+                            <div id="left" class="brace"></div>
+                            <div id="right" class="brace"></div>
+                        </div>
+                        <div class="mod-service-provided">
+                            <div class="content">
+                                <p>Approach</p>
+                                <ul>
+                                    <li>Indulgent</li>
+                                    <li>Tailored</li>
+                                    <li>Stylised</li>
+                                </ul>
+                            </div>
+                            <figure class="first-pic">
+                                <img src="assets/images/films/serv-one.png" alt="img">
+                            </figure>
+                        </div>
+                    </div>
+                    <!-- <div class="col-md-3">
+                        <div class="mod-service-provided">
+                            <p>insta <span>videos</span></p>
+                            <figure>
+                                <img src="assets/images/films/serv-two.png" alt="img">
+                            </figure>
+                        </div>
+                    </div> -->
+                    <div class="col-md-4 middle-sec">
+                        <div class="mod-service-provided">
+                            <div class="content">
+                                <p>Value</p>
+                                <ul>
+                                    <li>Sound Design</li>
+                                    <li>Original Track</li>
+                                    <li>Audio Stories</li>
+                                </ul>
+                            </div>
+                            <figure>
+                                <img src="assets/images/films/serv-three.png" alt="img">
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mod-service-provided typ-brder-non">
+                            <div class="content">
+                                <p>Runtime</p>
+                                <ul>
+                                    <li>15 - 45 min</li>
+                                    <li>1 - 3 min</li>
+                                    <li>10 - 15 Sec</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="curly-brace-right">
+                            <div id="left" class="brace"></div>
+                            <div id="right" class="brace"></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- section we provide end -->
+
+        <!-- section bottom start -->
+        <section class="lyt-section btm-sticky">
+            <figure class="btm-vector">
+                <img src="assets/images/films/btm-vector.png" alt="Flowers">
+            </figure>
+        </section>
+        <!-- section bottom end -->
+
+
+
+
+
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

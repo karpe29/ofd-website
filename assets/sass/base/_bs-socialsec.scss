@@ -1,0 +1,52 @@
+.bs-socialsec{
+    position: relative;
+    .hashtag{
+        font-size: 72px;
+        color: $clr-theme;
+        margin: 0;
+        font-family: $fnt1;
+        text-align: center;
+        margin-bottom: 80px;
+        line-height: 1;
+        font-weight: $font-regular;
+    }
+   
+}
+.btm-vector{
+    margin-top: 80px;
+    text-align: center;
+    &.typ-cont-btm-vector{
+        margin-top: 0;
+    }
+}
+.btn-sunflower{
+    margin-top:-110px;
+    position: relative;
+    z-index: 1;
+}
+.abtfairy{
+    margin-bottom:-60px;
+}
+@media only screen and (max-width: $desktop-breakpoint) {
+    .btm-vector{
+        margin-top: 0;
+    }
+}
+@media only screen and (max-width: $tablet-breakpoint) {
+    .btn-sunflower{
+        margin-top: 75px;
+    }
+}
+@media only screen and (max-width: $mobile-breakpoint) {
+    .bs-socialsec{
+        .hashtag{
+            font-size: 50px;
+            margin-bottom: 50px;
+        }
+    }
+    .btn-sunflower{
+        margin-top:-80px;
+        margin-right: -100px;
+    }
+    
+}

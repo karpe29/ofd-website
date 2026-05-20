@@ -1,0 +1,54 @@
+.mod-chat-box{
+    background-image: url("../images/chatbg.png");
+    background-repeat: no-repeat;
+    min-height: 192px;
+    position: relative;
+    margin-top: -150px;
+    margin-left: 80px;
+    p{
+        position: absolute;
+        left: 50%;
+        transform: translate(-43%);
+        top: 50%;
+        width: 80%;
+        margin: 0 auto;
+        margin-top: -57px;
+        font-size: 24px;
+        color: $clr-white;
+    }
+    &.typ-thankyou{
+        margin:0;
+        background-position: center;
+        p{
+            position: relative;
+            left: 0;
+            top: 0;
+            transform: inherit;
+            width: 100%;
+            margin: 0;
+            text-align: center;
+            padding-top: 64px;
+        }
+    }
+}
+@media only screen and (max-width: $desktop-breakpoint) { 
+    .mod-chat-box{
+        margin-left: 0;
+        margin-top: -120px;
+    }
+}
+@media only screen and (max-width: $tablet-breakpoint) { 
+    .mod-chat-box{
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .mod-chat-box{
+        margin-top: 0;
+        margin-left: 0;
+        p{
+            transform: translate(-50%);
+        }
+        
+    }
+}

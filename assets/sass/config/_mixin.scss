@@ -1,0 +1,67 @@
+//box-shadow
+@mixin box-shadow($left, $top, $radius, $color) {
+    box-shadow: $left $top $radius $color;
+    -webkit-box-shadow: $left $top $radius $color;
+    -moz-box-shadow: $left $top $radius $color;
+}
+
+@mixin rotate($deg){
+    -ms-transform: rotate($deg); /* IE 9 */
+    -webkit-transform: rotate($deg); /* Safari 3-8 */
+    transform: rotate($deg);
+}
+
+//transition
+@mixin transition($property, $duration, $easing: linear) {
+    transition: $property $duration $easing;
+    -webkit-transition: $property $duration $easing;
+    -moz-transition: $property $duration $easing;
+}
+
+//border-radius
+@mixin border-radius($radius) {
+    border-radius: $radius;
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+}
+/*asif*/
+@mixin opacity($value){
+  $IEValue: $value*100;
+  opacity: $value;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity="+$IEValue+")";
+  filter: alpha(opacity=$IEValue);
+}
+/*asif end*/
+//input-placeholder 
+@mixin input-placeholder {
+    &.placeholder {
+        @content;
+    }
+    &:-moz-placeholder {
+        @content;
+    }
+    &::-moz-placeholder {
+        @content;
+    }
+    &:-ms-input-placeholder {
+        @content;
+    }
+    &::-webkit-input-placeholder {
+        @content;
+    }
+}
+
+@mixin media($point) {
+  @if $point == mobile {
+    @media (max-width: 1024px) { @content; }
+  }
+  @else if $point == smallScreen {
+    @media (max-width: 768px) { @content; }
+  }
+  @else if $point == smallMobile {
+    @media (max-width: 500px) { @content; }
+  }
+  @else if $point == only-tab {
+    @media (max-width: 1024px) and (min-width: 768px)  { @content; }
+  }
+}

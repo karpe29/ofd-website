@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+    <meta name="google-site-verification" content="hj9V9bv83TZlSK-iixYy_bp9WVIkv6CEEhyj5D-AqAs" />
+</head>
+
+<body class="wh-min home">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <main class="artist">
+        <section class="lyt-section typ-artist-top">
+            <div class="artist-heading">
+                <div class="bs-heading typ-center typ-fnt5 typ-artist">
+                    we are a bunch
+                    <span class="block">of <span class="normal">creative guys</span></span>
+                    <div class="action-txt">
+                        <h2>
+                            the artists, <br>
+                            you can spot us in a crowd, <br>
+                            we look happier.
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="lyt-section p-non">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <div class="bs-artist-list typ-top">
+                            <div class="artist-img">
+                                <img src="assets/images/artist-landing/rushi.png" alt="Rushi">
+                                <div class="tape rushi">
+                                    <img src="assets/images/artist-landing/rushi-tape.png" alt="">
+                                </div>
+                            </div>
+                            <div class="artist-info">
+                                <div class="artist-name rushi">Rushi</div>
+                                <div class="artist-designation">~ lead Photographer ~ traveller</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <div class="bs-artist-list typ-right">
+                            <div class="artist-img">
+                                <img src="assets/images/artist-landing/sumeet.png" alt="Sumit">
+                                <div class="tape sumeet">
+                                    <img src="assets/images/artist-landing/sumeet-tape.png" alt="">
+                                </div>
+                            </div>
+                            <div class="artist-info">
+                                <div class="artist-name rushi">Sumit</div>
+                                <div class="artist-designation">~ lead Photographer ~ story teller</div>
+                                <div class="artist-social">
+                                    <a href="sumit-portfolio1.html">View portfolio</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <div class="bs-artist-list">
+                            <div class="artist-img">
+                                <img src="assets/images/artist-landing/nandi.png" alt="Nandi">
+                                <div class="tape nandi">
+                                    <img src="assets/images/artist-landing/nandi-tape.png" alt="">
+                                </div>
+                            </div>
+                            <div class="artist-info">
+                                <div class="artist-name rushi">Nandi</div>
+                                <div class="artist-designation">~ lead Photographer ~ fashion</div>
+                                <div class="artist-social">
+                                    <a href="nandi-portfolio1.html">View portfolio</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <div class="bs-artist-list typ-right typ-last">
+                            <div class="artist-img">
+                                <img src="assets/images/artist-landing/chinmayee.png" alt="Chinmayee">
+                            </div>
+                            <div class="artist-info">
+                                <div class="artist-name rushi">Chinmayee</div>
+                                <div class="artist-designation">~ photographer</div>
+                                <div class="artist-social">
+                                    <a href="Chinmayee.html">View portfolio</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <figure class="btm-vector">
+                <img src="assets/images/artist-landing/flower.png" alt="Flowers">
+            </figure>
+        </section>
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+.bs-breadcrum{
+    padding-top: 15px;
+    a{
+        font-weight: $font-regular;
+        color: $clr-white;
+        font-size: 20px;
+        font-family: $fnt2;
+        z-index: 1;
+        position: relative;
+        text-transform: uppercase;
+        letter-spacing: 2.5px;
+    }
+  
+    i{
+        display: inline-block;
+        color: $clr-white;
+        font-size: 15px;
+        transform: rotate(90deg);
+    }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .bs-breadcrum{
+        padding-top: 10px;
+        a{
+            font-size: 14px;
+        }
+        i{
+            font-size: 10px;
+        }
+    }
+}

@@ -1,0 +1,226 @@
+.bs-cards{
+    margin-top: 80px;
+    .sec-title{
+        font-size: 28px;
+        color: $clr-theme;
+        margin-bottom: 0;
+        font-weight: $font-semibold;
+        font-family: $fnt1;
+    }
+    .name{
+        font-size: 58px;
+        font-weight: $font-bold;
+        font-family: $fnt1;
+        line-height: 0.8;
+        color: $clr-black;
+        margin-top: 0;
+        // margin-bottom: 30px;
+        margin-bottom: 10px;
+
+    }
+    .pics{
+        margin-bottom: 15px;
+    
+    }
+    .description{
+        p{
+            font-size: 16px;
+            font-weight: $font-regular;
+            font-family: $fnt1;
+            color: $clr-black;
+            margin-bottom: 15px;
+            &:last-child{
+                margin-bottom: 0;
+                padding-bottom: 15px;
+               border-bottom: 1px solid $clr-theme;
+            }
+        }
+    }
+    &.typ-blog-landing-posts{
+        margin-top: 0;
+    }
+    &.with-top-space{
+        padding-top: 170px;
+    }
+    &.hashtags{
+        min-height: 659px;
+        .tag{
+            font-family: $fnt1;
+            color: $clr-theme;
+            line-height: 1;
+            &.tag1{
+                font-size: 65px;
+                font-weight: $font-semibold;
+            }
+            &.tag2{
+                font-size: 36px;
+                font-weight: $font-regular;
+            }
+            &.tag3{
+                span{
+                    font-size: 48px;
+                }
+                font-size: 36px;
+            }
+            &.tag4{
+                font-size: 24px;
+            }
+            &.tag5{
+                font-size: 60px;
+                span{
+                    display: block;
+                    &.two{
+                        font-size: 45px;
+                    }
+                }
+            }
+            &.tag6{
+                font-size: 36px;
+            }
+            &.tag7{
+                font-size: 60px;
+                border-bottom: 1px solid $clr-theme;
+                padding-bottom: 15px;
+            }
+        }
+        
+    }
+    &.typ-simple-text{
+        margin-top: 0;
+        background-color: $clr-white;
+        border-radius: 10px;
+        box-shadow: none;
+        border: none;
+        padding: 25px;
+        cursor: pointer;
+            .trigger{
+                font-size: 26px;
+                color: $clr-theme;
+                white-space: normal;
+                word-wrap: break-word;
+            }
+            .content{
+                font-size: 18px;
+                color: #666666;
+                padding-top: 15px;
+            }
+    }
+    &:hover{
+        position: relative;
+        z-index: 1;
+    }
+}
+@media only screen and (min-width: $lgdesktop-breakpoint) { 
+    .bs-cards {
+        .name{
+            font-size: 60px;
+        }
+        .sec-title{
+            font-size: 30px;
+        }
+        .description{
+            p{
+                font-size: 18px;
+            }
+        }
+        &.typ-simple-text{
+            .trigger{
+                font-size: 32px;
+            }
+            .content{
+                font-size: 24px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: $tablet-breakpoint) { 
+    .bs-cards {
+        margin-top: 30px;
+        .sec-title {
+            font-size: 22px;
+        }
+        .name{
+            font-size: 35px;
+        }
+        .pics{
+            img{
+                width: 100%;
+            }
+        }
+        .description{
+            p{
+                &:last-child{
+                    padding-bottom: 30px;
+                }
+            }
+        }
+        &.typ-simple-text{
+            .trigger{
+                font-size: 22px;
+            }
+        } 
+    }
+}
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .bs-cards{
+        &.with-top-space{
+            padding-top:0;
+        }
+        &.typ-blog-landing-posts{
+            .sec-title {
+                font-size: 20px;
+                display: none;
+            }
+            .name {
+                font-size: 28px;
+            }
+            .description {
+                p{
+                    font-size: 14px;
+                }
+            }
+        }
+        &.hashtags {
+            .tag{
+                &.tag1{
+                    font-size: 43px;
+                }
+                &.tag2 {
+                    font-size: 30px;
+                }
+                &.tag5 {
+                    font-size: 35px;
+                }
+                &.tag7 {
+                    font-size: 33px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $smlmobile-breakpoint) { 
+    .bs-cards{
+        &.hashtags {
+            .tag{
+                &.tag1{
+                    font-size: 35px;
+                }
+                &.tag3 {
+                    span{
+                        font-size: 32px;
+                    }
+                }
+                &.tag5 {
+                    font-size: 27px;
+                }
+                &.tag7 {
+                    font-size: 27px;
+                }
+            }
+        }
+    }
+}
+
+
+

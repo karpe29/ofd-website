@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding | Contact Us</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <style>
+        .errorColor {
+            color: #D30000;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="./assets/js/contact-us-form-validation.js"></script>
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        <!-- section page heading start -->
+        <!-- <section class="lyt-section typ-bmt-p-0 typ-section-one">
+            <div class="container">
+                <h2 class="bs-heading with-btm-line typ-brown-heading typ-contmob">contact us</h2>
+            </div>
+        </section> -->
+        <!-- section page heading end -->
+
+
+        <section class="lyt-section typ-bmt-p-0 typ-section-one">
+            <div class="container">
+                <h2 class="bs-heading with-btm-line typ-brown-heading typ-contmob">contact us</h2>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="bs-pagecontact">
+                            <!-- <div class="confileds ">
+                                <p class="con-name">Emmanuel</p>
+                                <p class="cont-tel"><a href="https://api.whatsapp.com/send?phone=+919959364642&text=Hi">
+                                        9959364642 <i class="icon-whats-app"></i></a></p>
+                            </div> -->
+                            <div class="confileds ">
+                                <p class="con-name">Arpita</p>
+                                <p class="cont-tel"><a href="tel:+917226009343"> 7226009343 <i class="icon-whats-app"></i></a></p>
+                            </div>
+                            <!-- <div class="confileds ">
+                                <p class="con-name">sandeep</p>
+                                <p class="cont-tel"><a href="tel:+919696619858"> +91 96-96-619858</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">rushi</p>
+                                <p class="cont-tel"><a href="tel:+919503959358"> +91 95-03-959358</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">bhaskar</p>
+                                <p class="cont-tel"><a href="tel:+919550501094"> +91 95-50-501094</a></p>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div>
+                            <figure class="btn-sunflower">
+                                <img src="assets/images/sunflower-banner.png" alt="Flowers">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <span class="cm-seprator typ-contact"></span>
+            </div>
+        </section>
+
+        <!-- <section class="lyt-section typ-contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="mod-chat-box">
+                            <p>Feeling chatty? <br>We're all ears! </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="bs-form typ-contact-form">
+                            <form id="contact-form" method="post"name="contact">
+                                <div class="form-group">
+                                    <input type="text" name="name" id="name" class="form-control" placeholder="Your Name*">
+                                    
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" id="email" class="form-control" placeholder="Email address*">
+                                    
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Mobile no.*">
+                                   
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" name="enquiry" id="enquiry" rows="3"
+                                        placeholder="Message*"></textarea>
+                                    
+                                </div> -->
+        <!-- Notifications for 'error' Or 'successfully'-->
+        <!-- <div class="col-md-12 mailResponse" style="display:none;">
+                                    <div class="alert alert-dismissible" role="alert">
+                                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                        <p class="mailResponseText"></p>
+                                    </div>
+                                </div> -->
+        <!-- <button type="submit" value="submit" class="bs-btn typ-submit">Submit</button> -->
+        <!-- <button class="bs-btn typ-submit submit-btn">Submit</button> -->
+        <!-- </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section> -->
+
+        <!-- section bottom start -->
+        <section class="lyt-section btm-sticky">
+            <figure class="btm-vector typ-cont-btm-vector">
+                <img src="assets/images/sunflower.png" alt="Flowers">
+            </figure>
+        </section>
+        <!-- section bottom end -->
+
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

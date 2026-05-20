@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Photo Project 1</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mb-10 typ-mob-mt-150">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final001.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final002.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final004.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final005.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final006.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final007.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final009.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final010.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final012.jpg" />
+                                </div>
+                                <iframe class="video-54" title="vimeo-player" src="https://player.vimeo.com/video/788245010?h=3e527543a0"     allowfullscreen></iframe>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final013.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final014.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final016.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final017.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final019.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final020.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final021.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final022.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final023.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final024.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final025.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio026.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final027.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final028.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final029.jpg" />
+                                </div>
+                                <iframe class="video-54" title="vimeo-player" src="https://player.vimeo.com/video/788244411?h=b4eb28be2d"     allowfullscreen></iframe>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final030.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final032.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final033.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final034.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final036.jpg" />
+                                </div>
+                                <iframe class="video-54" title="vimeo-player" src="https://player.vimeo.com/video/788244968?h=804963e80b"  allowfullscreen></iframe>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final037.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final038.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final040.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final042.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final044.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final045.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final046.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final047.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final048.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio049.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final049.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final050.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final051.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final052.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final053.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final054.jpg" />
+                                </div>
+                                <iframe class="video-54" title="vimeo-player" src="https://player.vimeo.com/video/788244895?h=0c4acecf75"     allowfullscreen></iframe>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final055.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final056.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final057.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final058.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio059.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final059.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final060.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final061.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final063.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final064.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final066.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final068.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final070.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final071.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final072.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final073.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final074.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final076.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final077.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio079.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final079.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final080.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final081.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final082.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final083.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final085.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final086.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final087.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final088.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final089.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final090.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final091.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final092.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final094.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final095.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final097.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio098.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final099.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final100.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final102.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final103.jpg" />
+                                </div>
+                                <iframe class="video-103" title="vimeo-player" src="https://player.vimeo.com/video/788243943?h=39f15e1753"     allowfullscreen></iframe>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final104.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final105.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio107.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final107.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final108.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final109.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final110.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final111.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final112.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final113.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final115.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final116.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final117.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final118.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD-Portfolio120.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final120.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final121.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final123.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final133.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final135.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final137.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final139.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final140.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final141.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final142.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final144.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_North_Indian_Portfolio_Final146.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD North Indian Portfolio Final147.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_Portfolio152.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio-img" src="assets/images/images-two/OFD_Portfolio153.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="center-para">
+                <p>Photographs:
+                    <span class="mob-newline">
+                        Purushottam, Vishakha, Shashank, Naman
+                    </span>
+                </p>
+                <p>
+                    Wedding Portraits:
+                    <span>
+                        Apeksha - House of Pixels
+                    </span>
+                </p>
+                <p>
+                    Outfits:
+                    <span>
+                        Gaurav Gupta, Anamika Khanna, Tarun
+                        Tahiliani, Kshitij Jalori
+                    </span>
+                </p>
+                <p>
+                    Makeup:
+                    <span>
+                        Deepa Verma
+                    </span>
+                </p>
+                <p>
+                    Entertainment:
+                    <span>
+                        Sukhbir, Dj AJ
+                    </span>
+                </p>
+            </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post1.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post2.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post3.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+.bs-video{
+  .video-wrapper{
+    .poster-image {
+      position: relative;
+      margin: 0;
+      padding: 0;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+      cursor: pointer;
+      // background-image:url('../images/video-bnnr.jpg');
+    }
+    .poster-image iframe {
+      border-style: none;
+      height: 100%;
+      width: 100%;
+    }
+    .playbutton {
+      position: absolute;
+      top: 50%;
+      margin-top: -50px;
+      left: 50%;
+      transform: translate(-50%);
+      z-index: 10;
+      span{
+        font-size: 100px;
+        color: rgba(0,0,0,0.5);
+      }
+    }
+  }  
+}

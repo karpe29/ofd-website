@@ -1,0 +1,256 @@
+.bs-heading {
+    font-size: 130px;
+    font-family: $fnt4;
+
+    &.typ-big {
+        font-size: 150px;
+    }
+
+    &.typ-sml {
+        // font-size: 70px;
+        font-size: 55px;
+        color: $clr-theme;
+        border: 1px solid $clr-theme;
+        // padding: 34px 15px;
+        padding: 15px;
+        line-height: 1;
+        text-align: center;
+    }
+
+    &.typ-white {
+        color: $clr-white;
+        border: 1px solid $clr-white;
+    }
+
+    &.sml-width {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    &.with-btm-line {
+        position: relative;
+        border: none;
+        border-bottom: 1px solid $clr-white;
+        font-size: 90px;
+        font-family: $fnt1;
+        font-weight: $font-bold;
+        margin: 0;
+        z-index: 1;
+    }
+
+    &.typ-brown-heading {
+        font-size: 60px;
+        color: $clr-theme;
+        border-bottom: 1px solid $clr-theme;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+    }
+
+    &.typ-sml-title {
+        color: $clr-theme;
+        font-size: 50px;
+        font-family: $fnt1;
+        font-weight: $font-bold;
+        margin: 0;
+    }
+
+    &.we-provide {
+        margin-bottom: 35px;
+    }
+
+    &.typ-aboutus {
+        font-size: 60px;
+    }
+
+    &.typ-fnt5 {
+        font-family: $fnt5;
+        font-size: 234px;
+        line-height: 70%;
+        color: $clr-white;
+
+        span {
+            &.normal {
+                font-size: 234px;
+            }
+            &.block{
+                display: block;
+                font-size: 130px;
+            }
+        }
+    }
+
+    &.typ-center {
+        text-align: center;
+    }
+
+    &.typ-artist {
+        position: relative;
+
+        .action-txt {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+
+            h2 {
+                color: #cfa04d;
+                font-size: 70px;
+                text-align: left;
+                font-family: $fnt5;
+                font-weight: $font-medium;
+                line-height: 1;
+
+                span {
+                    display: block;
+                }
+            }
+        }
+    }
+    &.typ-brands{
+        color: $clr-theme-dark;
+        font-size: 28px;
+        font-family: $fnt6;
+        font-weight: $font-bold;
+        text-transform: uppercase;
+        &.typ-large{
+            font-size: 36px;
+        }
+        &.typ-medium{
+            font-weight: $font-medium;
+            text-transform: none;
+        }
+    }
+    &.typ-right{
+        text-align: right;
+    }
+}
+
+@media only screen and (min-width: $lgdesktop-breakpoint) {
+    .bs-heading {
+        &.typ-brown-heading {
+            font-size: 65px;
+        }
+
+        &.typ-sml-title {
+            font-size: 60px;
+        }
+
+        &.typ-sml {
+            font-size: 60px;
+        }
+    }
+}
+
+@media only screen and (max-width: $desktop-breakpoint) {
+    .bs-heading {
+        &.typ-sml {
+            font-size: 48px;
+        }
+        &.typ-fnt5{
+            font-size: 160px;
+            span{
+                &.normal{
+                    font-size: 154px;
+                }
+            }
+        }
+        &.typ-artist{
+            .action-txt{
+                h2{
+                    font-size: 40px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $tablet-breakpoint) {
+    .bs-heading {
+        font-size: 100px;
+
+        &.typ-sml {
+            font-size: 42px;
+        }
+        &.typ-fnt5{
+            font-size: 120px;
+            span{
+                &.normal{
+                    font-size: 120px;
+                }
+                &.block{
+                    font-size: 70px;
+                }
+            }
+        }
+        &.typ-artist{
+            .action-txt{
+                h2{
+                    font-size: 30px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) {
+    .bs-heading {
+        font-size: 58px;
+
+        &.sml-width {
+            font-size: 30px;
+            // width: 100%;
+        }
+
+        &.typ-sml {
+            font-size: 30px;
+        }
+
+        &.we-provide {
+            margin-bottom: 10px;
+        }
+
+        &.microvideo-title {
+            text-align: center;
+            font-size: 45px;
+            margin-bottom: 20px;
+        }
+
+        &.typ-contmob {
+            font-size: 50px;
+        }
+
+        &.typ-mob-fnt {
+            font-size: 50px;
+        }
+        &.typ-fnt5{
+            font-size: 50px;
+            span{
+                &.normal{
+                    font-size: 50px;
+                }
+                &.block{
+                    font-size: 30px;
+                }
+            }
+        }
+        &.typ-artist{
+            .action-txt{
+                h2{
+                    font-size: 22px;
+                    margin-bottom: 0;
+                }
+            }
+            .action-txt{
+                width: 71%;
+            }
+        }
+        &.typ-right{
+            text-align: left;
+        }
+        &.typ-brands{
+            &.typ-medium{
+                font-size: 20px;
+            }
+        }
+    }
+}

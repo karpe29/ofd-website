@@ -1,0 +1,1864 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Saloni & Rishab</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mob-mt-150">
+                                    <img src="assets/images/blog/salonirishab/popup/saloni-rishab019.jpg" />
+                                    <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                    <a href="#" class="bs-btn typ-view bann-btn video-btn" data-toggle="modal" src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>view <i class="icon icon-down-arrow"></i></span></a>
+                                </div>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab001.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab001.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab002.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab002.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab003.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab003.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab004.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab004.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab005.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab005.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab006.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab006.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab007.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab007.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab008.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab008.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab009.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab009.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab010.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab010.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab011.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab011.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab012.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab012.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab013.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab013.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab014.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab014.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab015.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab015.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab016.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab016.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab017.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab017.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab018.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab018.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab019.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab019.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab020.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab020.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab021.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab021.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab022.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab022.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab023.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab023.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab024.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab024.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab025.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab025.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab026.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab026.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab027.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab027.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab028.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab028.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab029.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab029.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab030.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab030.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab031.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab031.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab032.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab032.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab033.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab033.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab034.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab034.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab035.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab035.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab036.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab036.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab037.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab037.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab038.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab038.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab039.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab039.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab040.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab040.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab041.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab041.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab042.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab042.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab043.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab043.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab044.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab044.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab045.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab045.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab046.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab046.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab047.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab047.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab048.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab048.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab049.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab049.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab050.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab050.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab051.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab051.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab052.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab052.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab053.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab053.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab054.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab054.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab055.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab055.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab056.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab056.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab057.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab057.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab058.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab058.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab059.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab059.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab060.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab060.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab061.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab061.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab062.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab062.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab063.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab063.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab064.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab064.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab065.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab065.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab066.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab066.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab067.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab067.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab068.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab068.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab069.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab069.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab070.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab070.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab071.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab071.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab072.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab072.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab073.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab073.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab074.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab074.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab075.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab075.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab076.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab076.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab077.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab077.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab078.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab078.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab079.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab079.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab080.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab080.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab081.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab081.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab082.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab082.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab083.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab083.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab084.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab084.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab085.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab085.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab086.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab086.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab087.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab087.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab088.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab088.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab089.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab089.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab090.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab090.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab091.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab091.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab092.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab092.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab093.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab093.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab094.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab094.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab095.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab095.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab096.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab096.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab097.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab097.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab098.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab098.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab099.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab099.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab100.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab100.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab101.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab101.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab102.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab102.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab103.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab103.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab104.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab104.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab105.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab105.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab106.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab106.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab107.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab107.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab108.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab108.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab109.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab109.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab110.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab110.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab111.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab111.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab111.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab111.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab112.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab112.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab113.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab113.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab114.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab114.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab115.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab115.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab116.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab116.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab117.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab117.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab118.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab118.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab119.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab119.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab120.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab120.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab121.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab121.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab122.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab122.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab123.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab123.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab124.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab124.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab125.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab125.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab126.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab126.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab127.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab127.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab128.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab128.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab129.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab129.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab130.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab130.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab131.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab131.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab132.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab132.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab133.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab133.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab134.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab134.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab135.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab135.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab136.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab136.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab137.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab137.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab138.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab138.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab139.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab139.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab140.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab140.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab141.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab141.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab142.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab142.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab143.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab143.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab144.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab144.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab145.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab145.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab146.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab146.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab147.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab147.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab148.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab148.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab149.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab149.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab150.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab150.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab151.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab151.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab152.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab152.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab153.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab153.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab154.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab154.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab155.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab155.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab156.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab156.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab157.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab157.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab158.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab158.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab159.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab159.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab160.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab160.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab161.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab161.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab162.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab162.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab163.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab163.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab164.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab164.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab165.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab165.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab166.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab166.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab167.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab167.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab168.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab168.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab169.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab169.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab170.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab170.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab171.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab171.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab172.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab172.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab173.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab173.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab174.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab174.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab175.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab175.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab176.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab176.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab177.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab177.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab178.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab178.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab179.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab179.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab180.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab180.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab181.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab181.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab182.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab182.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab183.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab183.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab184.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab184.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab185.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab185.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab186.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab186.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab187.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab187.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab188.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab188.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab189.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab189.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab190.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab190.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab191.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab191.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab192.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab192.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab193.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab193.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab194.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab194.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab195.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab195.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab196.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab196.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab197.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab197.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab198.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab198.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab199.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab199.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab200.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab200.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab201.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab201.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab202.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab202.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab203.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab203.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab204.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab204.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab205.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab205.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/salonirishab/popup/saloni-rishab206.jpg" class="img-popup">
+                                        <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab206.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab207.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab207.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab208.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab208.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab209.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab209.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab210.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab210.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab211.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab211.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab212.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab212.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab213.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab213.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab214.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab214.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab215.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab215.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab216.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab216.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/salonirishab/popup/saloni-rishab217.jpg" class="img-popup">
+                                            <img src="assets/images/blog/salonirishab/thumnail/saloni-rishab217.jpg" />
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="center-para">
+                    <p>Photographs:
+                        <span class="mob-newline">
+                            Purushottam, Vishakha, Shashank, Naman
+                        </span>
+                    </p>
+                    <p>
+                        Wedding Portraits:
+                        <span>
+                            Apeksha - House of Pixels
+                        </span>
+                    </p>
+                    <p>
+                        Outfits:
+                        <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun
+                            Tahiliani, Kshitij Jalori
+                        </span>
+                    </p>
+                    <p>
+                        Makeup:
+                        <span>
+                            Deepa Verma
+                        </span>
+                    </p>
+                    <p>
+                        Entertainment:
+                        <span>
+                            Sukhbir, Dj AJ
+                        </span>
+                    </p>
+                </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post1.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post2.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post3.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+<!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

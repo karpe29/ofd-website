@@ -1,0 +1,39 @@
+.lyt-blog{
+    position: relative;
+    overflow: hidden;
+    background-color: $clr-base;
+    padding-top: 80px;
+    .top-sticky-patch{
+        position: absolute;
+        left: 0;
+        top: -80px;
+    }
+    .bs-heading.with-btm-line{
+        margin-bottom: 20px;
+    }
+    &.typ-section-one{
+        margin-top: -40px;
+      }
+}
+@media only screen and (max-width: $desktop-breakpoint) { 
+    .lyt-blog{
+        .top-sticky-patch{
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    }
+}
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .lyt-blog{
+        .top-sticky-patch{
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        .bs-heading.with-btm-line{
+            margin-top: -50px;
+        }
+    }
+    
+}

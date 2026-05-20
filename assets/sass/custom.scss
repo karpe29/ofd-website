@@ -1,0 +1,70 @@
+/*
+  @Author : CreativeWebo
+  @Project : SuiiNuii
+  @Dev : Sagar
+  @Date : 29/01/2019;
+*/
+
+// Core variables and mixins
+@import "plugins/bootstrap/bootstrap";
+
+/*font awesome 5.7.1*/
+
+// @import "fonts/font";
+
+@import "fonts/font";
+
+/* config */
+
+@import "config/mixin";
+@import "config/variables";
+
+/* common */
+
+@import "common/common";
+
+/* base include */
+
+@import "base/bs-header";
+@import "base/bs-footer";
+@import "base/bs-socialsec";
+@import "base/bs-swiper";
+@import "base/bs-divider";
+@import "base/bs-banner";
+@import "base/bs-heading";
+@import "base/bs-btn";
+@import "base/bs-modal";
+@import "base/bs-collage";
+@import "base/bs-img-txt";
+@import "base/bs-instapic";
+@import "base/bs-cards";
+@import "base/bs-masonary";
+@import "base/bs-breadcrum";
+@import "base/bs-pagecontact";
+@import "base/bs-aboutme";
+@import "base/bs-form";
+@import "base/bs-list";
+@import "base/bs-video";
+@import "base/bs-artist-list";
+
+/* layout */
+@import "layout/lyt-section";
+@import "layout/lyt-blog";
+
+/* pages */
+
+/* font */
+@import "font/icon";
+
+/* modules */
+@import "module/mod-vectorpic";
+@import "module/mod-spread-patch";
+@import "module/mod-borderbox";
+@import "module/mod-social-links";
+@import "module/mod-service-provided";
+@import "module/mod-chat-box";
+
+
+/* plugins */
+@import "plugins/swiper";
+@import "plugins/magnific-popup";

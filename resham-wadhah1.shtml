@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        
+            <section class="lyt-section typ-blog typ-section-one">
+                <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+                <div class="container">
+                    <div class="bs-banner typ-blog-bnnr">
+                        <div class="bs-breadcrum">
+                            <div class="container">
+                                <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                            </div>
+                        </div>
+                        <h2 class="bs-heading typ-white">Resham & Wadhah</h2>
+                    </div>
+                    <div class="bs-masonary">
+                        <!-- begin masonry grid-->
+                        <div id="masonryGrid">
+                            <div class="grid">
+                                <div class="grid-item large-pic">
+                                    <div class="inner-element typ-mob-mt-150">
+                                        <img src="assets/images/blog/reshamwadhah/popup/resham-wadhah006.jpg"/>
+                                        <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                         <!-- <a href="#" class="bs-btn typ-view bann-btn video-btn"  data-toggle="modal" src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>Play<i class="icon icon-down-arrow"></i></span></a> -->
+                                    </div>
+                                    
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">      
+                                            <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                    </button>        
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always"></iframe>
+                                                    </div>        
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                   
+                            </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah001.jpg" class="img-popup">
+                                            <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah001.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah002.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah002.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah003.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah003.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah004.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah004.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah005.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah005.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah006.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah006.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah007.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah007.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah008.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah008.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah009.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah009.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div><div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah010.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah010.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah011.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah011.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah012.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah012.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah013.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah013.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah014.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah014.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah015.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah015.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah016.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah016.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah017.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah017.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah018.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah018.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah019.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah019.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah020.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah020.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah021.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah021.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah022.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah022.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah023.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah023.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah024.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah024.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah025.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah025.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah026.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah026.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah027.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah027.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah028.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah028.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah029.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah029.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah030.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah030.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah031.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah031.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah032.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah032.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah033.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah033.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah034.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah034.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah035.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah035.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah036.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah036.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah037.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah037.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah038.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah038.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah039.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah039.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah040.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah040.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah041.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah041.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah042.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah042.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah043.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah043.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah044.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah044.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah045.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah045.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah046.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah046.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah047.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah047.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah048.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah048.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah049.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah049.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah050.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah050.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah051.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah051.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah052.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah052.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah053.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah053.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah054.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah054.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah055.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah055.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah056.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah056.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah057.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah057.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah058.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah058.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah059.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah059.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah060.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah060.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah061.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah061.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah062.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah062.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah063.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah063.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah064.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah064.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah065.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah065.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah066.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah066.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah067.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah067.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah068.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah068.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah069.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah069.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah070.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah070.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah071.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah071.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah072.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah072.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah073.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah073.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah074.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah074.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah075.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah075.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah076.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah076.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah077.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah077.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah078.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah078.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah079.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah079.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah080.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah080.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah081.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah081.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah082.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah082.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah083.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah083.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah084.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah084.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah085.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah085.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah086.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah086.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah087.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah087.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah088.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah088.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/reshamwadhah/popup/resham-wadhah089.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/reshamwadhah/thumnail/resham-wadhah089.jpg" alt="Resham & Wadhah" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="center-para">
+                        <p>Photographs:
+                            <span class="mob-newline"> 
+                                Purushottam, Vishakha, Shashank, Naman
+                            </span>
+                        </p>
+                        <p>
+                                Wedding Portraits:
+                            <span>
+                                Apeksha - House of Pixels
+                            </span>
+                        </p>
+                        <p>
+                            Outfits:
+                            <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun 
+                            Tahiliani, Kshitij Jalori
+                            </span>
+                        </p>
+                        <p>
+                            Makeup:
+                            <span>
+                            Deepa Verma
+                            </span>
+                        </p>
+                        <p>
+                            Entertainment:
+                            <span>
+                            Sukhbir, Dj AJ
+                            </span>
+                        </p>
+                    </div> -->
+                </div>
+            </section>
+
+         <!-- section blog post start -->
+            <section class="lyt-section mob-padding-0 typ-social">
+                <div class="container">
+                    <!-- <div class="bs-divider">
+                        <h2 class="divider line one-line">have a look at these too...</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">film</p>
+                                <h2 class="name">manvitha sanjith</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post1.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                        <a href="#" class="bs-btn typ-link">Read more....</a>
+                                    </p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">wedding story</p>
+                                <h2 class="name">mangal- snanam</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post2.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">director’s cut</p>
+                                <h2 class="name">beautiful brides</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post3.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                    </div> -->
+                    <figure class="btm-vector">
+                        <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+         <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

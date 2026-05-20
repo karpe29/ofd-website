@@ -1,0 +1,210 @@
+.mod-borderbox{
+    &::after{
+        content: ' ';
+    z-index: 2;
+    top: 0;
+    border: 1px solid #f0596e;
+    height: 80%;
+    width: 65%;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    }
+    .seperator{
+        height: 30px;
+        width: 65%;
+        // background: red;
+        border: 1px solid #f0596e;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%);
+        z-index: 3;
+        margin-top: -129px;
+    }
+    &.typ-film-listing{
+        padding-bottom: 15px;
+        &::after{
+            // height: 100%;
+            height: 99.5%;
+        }
+        .sec{
+            position: relative;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            .seperator{
+                margin-top: -20px;
+            }
+            .btm-line{
+                border-bottom: 1px solid #f0596e;
+                width: 65%;
+                position: absolute;
+                bottom: 0;
+                left: 50%;
+                transform: translate(-50%)
+            }
+            &.sec3{
+                margin-bottom: 0;
+                padding-bottom: 0;
+            }
+        }
+    }
+}
+@media only screen and (min-width: $lgdesktop-breakpoint) { 
+    .mod-borderbox{
+        &::after{
+            width: 75%;
+            height: 82%;
+        }
+        .seperator{
+            width: 75%;
+        }
+        &.typ-film-listing{
+            &::after{
+                width: 75%;
+            }
+            .seperator{
+                width: 75%;
+            }
+            .sec{
+                .btm-line{
+                    width: 75%;
+                }
+            }
+            
+        }
+      
+    }
+}
+
+@media only screen and (max-width: $desktop-breakpoint) { 
+    .mod-borderbox{
+        &::after{
+            height: 75%;
+            width: 90%;
+        }
+        .seperator{            
+            width: 90%;
+        }
+        &.typ-film-listing{
+            .sec{
+                .btm-line{
+                    width: 90%;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $tablet-breakpoint) { 
+    .mod-borderbox{
+        &::after{
+            content: ' ';
+            z-index: 2;
+            top: 15px;
+            border: 1px solid #f0596e;
+            height: 68%;
+            width: 90%;
+            margin: 0 auto;
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%);
+        }
+        .seperator{
+            height: 30px;
+            width: 90%;
+            border: 1px solid #f0596e;
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            transform: translate(-50%);
+            z-index: 3;
+            margin-top: -129px;
+        }
+        &.typ-film-listing{
+            padding-top: 15px;
+            padding-bottom: 15px;
+            &::after{
+                height: 100%;
+                width: 90%;
+                top: 0;
+            }
+            .sec{
+                .seperator{
+                    margin-top: -10px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .mod-borderbox {
+        &::after{
+            // display: none;
+            content: ' ';
+            z-index: 2;
+            top: 0;
+            border: 1px solid #f0596e;
+            height: 68%;
+            width: 98%;
+            margin: 0 auto;
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%);
+        }
+        .seperator{
+            // display: none;
+            // height: 30px;
+            height: 15px;
+            width: 98%;
+            border: 1px solid #f0596e;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%);
+            z-index: 3;
+            margin-top: -92px;
+        }
+        &.typ-film-listing{
+                &::after{
+                display: block;
+                width: 95%;
+            }
+            .sec{
+                .btm-line{
+                    width: 95%;
+                }
+                .seperator{
+                    display: block;
+                    width: 95%;
+                    margin-top: -10px;
+                }
+            }
+          
+        }
+    }
+}
+
+@media only screen and (max-width: 320px) { 
+    .mod-borderbox {
+        &.typ-film-listing{
+                &::after{
+                display: block;
+                width: 100%;
+            }
+            .sec{
+                .btm-line{
+                    width: 100%;
+                }
+                .seperator{
+                    display: block;
+                    width: 100%;
+                    margin-top: -3px;
+                    height: 18px;
+                }
+            }
+        }
+    }
+}

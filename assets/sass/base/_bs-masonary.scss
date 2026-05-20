@@ -1,0 +1,255 @@
+.bs-masonary{
+    position: relative;
+    max-width: 1080px;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: -300px;
+    #masonryGrid {
+        .grid {
+            margin: calc(var(--masonryGutter) * -1);
+            .grid-item {
+                width: 33.3%;
+                padding: 6px;
+                margin: calc(var(--masonryGutter) / 2);
+                img{
+                    width: 100%;
+                }
+                .video-103{
+                    width: 1070px;
+                    height: 600px;
+                    margin-bottom: 15px;
+                }
+                .video-54{
+                    width: 1080px;
+                    height: 600px;
+                    margin-bottom: 15px;
+                }
+                &.large-pic{
+                    width:100%;
+                }
+                .inner-element{
+                    position: relative;
+                    .bs-btn{
+                        position: absolute;
+                        left: 50%;
+                        transform: translate(-50%);
+                        top: 50%;
+                        margin-top: -20px;
+                    }
+                    &.typ-mb-10{
+                        margin-bottom: 18px;
+                    }
+                }
+                &.typ-content{
+                    p{
+                        font-size: 18px;
+                        color: $clr-theme;
+                        margin-bottom: 20px;
+                        max-width: 80%;
+                        margin-left: 30px;
+                    }
+                }
+            }
+        }
+     
+    }
+    &.typ-blog-landing{
+        margin: 0;
+        max-width: initial;
+        #bloglandingmasonryGrid{
+            .grid {
+                margin: calc(var(--masonryGutter) * -1);
+                .grid-item {
+                    width: 33.3%;
+                    padding: 7px;
+                    margin: calc(var(--masonryGutter) / 2);
+                    &.typ-large{
+                        width: 66.7%;
+                    }
+                }
+            }
+        }
+    }
+    &.typ-faq{
+        margin: 0;
+        max-width: initial;
+        overflow: inherit;
+        #faqgmasonryGrid{
+            .grid {
+                margin: calc(var(--masonryGutter) * -1);
+                .grid-item {
+                    width: 33.3%;
+                    padding: 12px;
+                    margin: calc(var(--masonryGutter) / 2);
+                    // &.parentdiv{
+                    //     height: 300px;
+                    // }
+                    .grid-item-content{
+                        .content{
+                            display: none;
+                        }
+                    }
+                    &.is-expanded{
+                        min-height: 300px;
+                        // background-color: red;
+                        z-index: 2;
+                        .grid-item-content{
+                            .content{
+                                display: block;
+                            }
+                        }
+                    }
+                    
+                }
+            }
+        }
+    }
+  
+}
+@media only screen and (min-width: $lgdesktop-breakpoint) { 
+    .bs-masonary{
+        max-width: 1200px;
+        &.typ-faq #faqgmasonryGrid .grid .grid-item{
+            padding: 15px;
+        }
+    }
+}
+
+@media only screen and (max-width:1182px){
+    .bs-masonary{
+        #masonryGrid{
+            .grid {
+                .grid-item {
+                    .video-103{
+                        width: 910px;
+                        height: 517px;
+                        margin-bottom: 15px;
+                    }
+                    .video-54{
+                        width: 910px;
+                        height: 545px;
+                        margin-bottom: 15px;
+                    }
+                }
+            }
+        } 
+    }
+}
+
+@media only screen and (max-width:$desktop-breakpoint){
+    .bs-masonary{
+        #masonryGrid{
+            .grid {
+                .grid-item {
+                    .video-103{
+                        width: 920px;
+                        height: 517px;
+                        margin-bottom: 15px;
+                    }
+                    .video-54{
+                        width: 910px;
+                        height: 545px;
+                    }
+                }
+            }
+        } 
+    }
+}
+@media only screen and (max-width:$tablet-breakpoint){
+    .bs-masonary{
+        #masonryGrid{
+            .grid {
+                .grid-item {
+                    &.typ-content{
+                        p{
+                            margin-left: 0px;
+                            max-width: 100%;
+                        }
+                    }
+                    .video-103{
+                        width: 678px;
+                        height: 378px;
+                    }
+                    .video-54{
+                        width: 710px;
+                        height: 520px;
+                    }
+                }
+            }
+        } 
+    }
+}
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .bs-masonary{
+        max-width: 100%;
+        #masonryGrid{
+            .grid {
+                .grid-item {
+                    width: 49.5%;
+                    &.typ-content{
+                        p{
+                            margin-left: 0px;
+                            max-width: 100%;
+                        }
+                    }
+                    .video-103{
+                        width: 100%;
+                        height: 230px;
+                    }
+                    .video-54{
+                        width: 100%;
+                        height: 600px;
+                    }
+                    .inner-element{
+                        &.typ-mob-mt-150{
+                            margin-top: 100px;
+                        }
+                    }
+                }
+            }
+        } 
+        &.typ-blog-landing{
+            #bloglandingmasonryGrid{
+                .grid {
+                    .grid-item {
+                        width: 49.5%;
+                        &.typ-large{
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
+        &.typ-faq{
+            #faqgmasonryGrid{
+                .grid {
+                    .grid-item {
+                        width: 100%;
+                        padding: 7px 0;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 420px){
+    .bs-masonary{
+        #masonryGrid{
+            .grid {
+                .grid-item {
+                    .video-103{
+                        width: 100%;
+                        height: 210px;
+                    }
+                    .video-54{
+                        width: 100%;
+                        height: 650px;
+                    }
+                }
+            }
+        }
+    }               
+}  
+
+

@@ -1,0 +1,26 @@
+.mod-social-links{
+    &.social-icons{
+        a{
+            .icon{
+                // font-weight: bold;
+                font-size: 34px;
+            }
+            &.typ-ytube{
+                color: #ae262a;
+            }
+            &.typ-insta{
+                color: #c350a9 ;
+            }
+            &.typ-fb{
+                color: #485e8e ;
+            }
+            &.typ-twitter{
+                color: #638bb9 ;
+            }
+            &.typ-linkedin{
+                color: #1673a3 
+            }
+        }
+        
+    }
+}

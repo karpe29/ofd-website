@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Chinmayee</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mb-10 typ-mob-mt-150">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_001.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_002.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio003.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio005.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio006.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_006.jpg" />
+                                </div> -->
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_007.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_008.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_009.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_010.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_011.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_012.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_013.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_014.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_013.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_016.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_017.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio016.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_019.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_020.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_021.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_022.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_023.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_024.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio023.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_026.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_027.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_028.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_029.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_030.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio029.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_032.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_033.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio031.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_034.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_035.jpg" />
+                                </div> -->
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_036.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_037.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_038.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio035.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_040.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_041.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_042.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_043.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_044.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_045.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_046.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_047.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_048.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_049.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio046.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_051.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_052.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_053.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_054.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_055.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio052.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_057.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_058.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio055.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_060.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_061.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_062.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_063.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio060.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_065.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_066.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_067.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_068.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_069.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_070.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_071.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_072.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_073.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_074.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio071.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_076.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_077.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_078.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_079.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_080.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_081.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_082.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio079.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio080.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_085.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_086.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_087.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio084.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_089.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio086.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio087.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio088.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_093.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_094.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_095.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio092.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_097.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_098.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_099.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_100.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio097.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_102.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_102.jpg" />
+                                </div> -->
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_103.jpg" />
+                                </div> -->
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_104.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_105.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_106.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio101.jpg" />
+                                </div>
+                                <!-- <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_108.jpg" />
+                                </div> -->
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_109.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_110.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_111.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_106.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_113.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_112.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_114.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_115.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_116.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_117.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_118.jpg" />
+                                </div>
+                                <div class="inner-element typ-mb-10">
+                                    <img alt="portfolio_img" src="assets/images/images-three/Chinmayee_Portfolio_119.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="center-para">
+                <p>Photographs:
+                    <span class="mob-newline">
+                        Purushottam, Vishakha, Shashank, Naman
+                    </span>
+                </p>
+                <p>
+                    Wedding Portraits:
+                    <span>
+                        Apeksha - House of Pixels
+                    </span>
+                </p>
+                <p>
+                    Outfits:
+                    <span>
+                        Gaurav Gupta, Anamika Khanna, Tarun
+                        Tahiliani, Kshitij Jalori
+                    </span>
+                </p>
+                <p>
+                    Makeup:
+                    <span>
+                        Deepa Verma
+                    </span>
+                </p>
+                <p>
+                    Entertainment:
+                    <span>
+                        Sukhbir, Dj AJ
+                    </span>
+                </p>
+            </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img alt="portfolio_img" src="assets/images/post1.jpg" >
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img alt="portfolio_img" src="assets/images/post2.jpg" >
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img alt="portfolio_img" src="assets/images/post3.jpg">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img  src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

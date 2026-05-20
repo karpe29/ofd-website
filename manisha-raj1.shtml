@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Manisha & Raj</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mob-mt-150">
+                                    <img src="assets/images/blog/manisharaj/popup/manisha-raj010.jpg" alt="Manisha & Raj" /> 
+                                    <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                    <a href="#" class="bs-btn typ-view bann-btn video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/DrlBAvXfo7Q" data-target="#myModal"><span>view <i class="icon icon-down-arrow"></i></span></a>
+                                </div>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj001.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj001.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj002.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj002.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj003.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj003.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj004.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj004.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj005.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj005.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj006.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj006.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj007.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj007.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj008.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj008.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj009.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj009.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj010.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj010.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj011.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj011.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj012.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj012.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj013.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj013.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj014.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj014.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj015.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj015.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj016.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj016.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj017.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj017.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj018.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj018.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj019.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj019.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj020.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj020.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj021.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj021.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj022.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj022.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj023.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj023.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj024.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj024.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj025.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj025.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj026.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj026.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj027.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj027.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj028.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj028.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj029.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj029.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj030.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj030.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj031.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj031.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj032.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj032.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj033.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj033.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj034.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj034.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj035.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj035.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj036.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj036.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj037.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj037.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj038.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj038.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj039.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj039.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj040.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj040.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj041.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj041.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj042.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj042.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj043.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj043.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj044.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj044.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj045.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj045.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj046.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj046.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj047.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj047.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj048.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj048.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj049.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj049.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj050.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj050.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj051.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj051.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj052.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj052.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj053.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj053.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj054.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj054.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj055.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj055.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj056.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj056.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj057.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj057.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj058.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj058.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj059.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj059.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj060.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj060.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj061.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj061.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj062.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj062.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj063.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj063.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj064.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj064.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj065.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj065.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj066.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj066.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj067.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj067.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj068.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj068.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj069.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj069.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj070.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj070.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj071.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj071.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj072.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj072.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj073.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj073.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj074.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj074.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj075.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj075.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj076.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj076.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisha-raj077.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj077.JPG" alt="Manisha & Raj" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj078.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj078.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj079.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj079.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj080.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj080.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj081.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj081.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj082.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj082.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj083.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj083.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj084.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj084.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj085.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj085.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj086.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj086.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj087.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj087.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj088.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj088.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj089.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj089.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj090.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj090.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj091.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj091.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj092.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj092.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj093.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj093.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj094.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj094.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj095.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj095.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj096.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj096.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj097.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj097.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj098.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj098.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj099.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj099.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj100.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj100.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj101.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj101.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/manisharaj/popup/manisharaj102.JPG" class="img-popup">
+                                        <img src="assets/images/blog/manisharaj/thumnail/manisha-raj102.JPG" alt="Manisha & Raj" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.JPG"/> -->
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="center-para">
+                    <p>Photographs:
+                        <span class="mob-newline">
+                            Purushottam, Vishakha, Shashank, Naman
+                        </span>
+                    </p>
+                    <p>
+                        Wedding Portraits:
+                        <span>
+                            Apeksha - House of Pixels
+                        </span>
+                    </p>
+                    <p>
+                        Outfits:
+                        <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun
+                            Tahiliani, Kshitij Jalori
+                        </span>
+                    </p>
+                    <p>
+                        Makeup:
+                        <span>
+                            Deepa Verma
+                        </span>
+                    </p>
+                    <p>
+                        Entertainment:
+                        <span>
+                            Sukhbir, Dj AJ
+                        </span>
+                    </p>
+                </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post1.JPG" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post2.JPG" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post3.JPG" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+<!--#include virtual="view/include_js.html" -->    <!-- js group end -->
+</body>
+
+</html>

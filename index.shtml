@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+    <meta name="google-site-verification" content="hj9V9bv83TZlSK-iixYy_bp9WVIkv6CEEhyj5D-AqAs" />
+</head>
+
+<body class="wh-min home">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <main class="home">
+        <!-- section banner start -->
+        <section class="lyt-section typ-section-one">
+            <img src="assets/images/vector1.png" alt="img" class="vector1">
+            <img src="assets/images/vector2.png" alt="img" class="vector2">
+            <div class="container">
+                <div class="bs-swiper typ-bnnr">
+                    <div class="swiper-container bnnr-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="bs-banner">
+                                    <figure>
+                                        <img src="assets/images/weddingpic12.jpg" alt="Wedding" class="homebnnr">
+                                    </figure>
+                                    <div class="titlebx">
+                                        <div class="content-wrapper">
+                                            <p class="subtitle">a wedding photo story</p>
+                                            <h2 class="bs-heading">Natasha kanishk</h2>
+                                            <a href="blog-landing.html" class="bs-btn typ-view bann-btn"><span>view <i
+                                                        class="icon icon-down-arrow"></i></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="bs-banner">
+                                    <figure>
+                                        <img src="assets/images/weddingpic13.jpg" alt="Wedding" class="homebnnr">
+                                    </figure>
+                                    <div class="titlebx">
+                                        <div class="content-wrapper">
+                                            <p class="subtitle">a wedding film</p>
+                                            <h2 class="bs-heading">Dharani Dhruva</h2>
+                                            <a href="blog-landing.html" class="bs-btn typ-view bann-btn"><span>view <i
+                                                        class="icon icon-down-arrow"></i></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next">nxt <i class="icon-down-arrow"></i> </div>
+                    <div class="swiper-button-prev">pre <i class="icon-down-arrow"></i></div>
+                </div>
+            </div>
+        </section>
+        <!-- section banner end -->
+
+        <!-- section collage pic start -->
+        <section class="lyt-section wedding-para ">
+            <img src="assets/images/vector3.png" alt="img" class="vector3">
+            <img src="assets/images/vector4.png" alt="img" class="vector4">
+            <div class="bs-collage three-pics-collage">
+                <div class="fixed-sec" id="fix-p">
+                    <!-- <p class="cm-para">Once in awhile, right in the middle of an ordinary life, love gives us a fairy
+                        tale It sounds like a song of ages, like a prophecy of time… like it's meant to be, a perpetual
+                        familiarity.
+                    </p> -->
+                    <p id="sticky-txt-1" class="cm-para sticky-txt-1">
+                        Once in a while, right in the middle of an ordinary life.. Love gives us a fairytale
+                    </p>
+                    <p id="sticky-txt-2" class="cm-para sticky-txt-2">
+                        It sounds like a song of ages, like a prophecy of time
+                    </p>
+                    <p id="sticky-txt-3" class="cm-para sticky-txt-3">
+                        like it's meant to be, a perpetual familiarity
+                    </p>
+                </div>
+                <div class="container">
+                    <div id="sec-01" class="row three-pics clr-sec" data-color="pink" data-content="saloni ~ rishabh">
+                        <div class="sectiontxt"></div>
+                        <div class="col-lg-12 titlebx">
+                            <h2 class="bs-heading typ-sml typ-white sml-width">saloni ~ rishabh</h2>
+                        </div>
+                        <div class="col-lg-12">
+                            <p class="cm-para typ-desktop">
+                                Once in a while, right in the middle of an ordinary life.. Love gives us a fairytale
+                                It sounds like a song of ages, like a prophecy of time
+                                like it's meant to be, a perpetual familiarity
+                                <!-- feet of the bride called a mehndi. Garlands are presented to guests of honor instead of corsages, and lots of flower or rose petals are thrown for good luck. -->
+                            </p>
+                        </div>
+                        <div class="col-lg-6 ctm-col sec-two-img">
+                            <p class="fixedtxt fst-text">saloni ~ rishabh</p>
+                            <a href="saloni-rishab1.html">
+                                <img src="assets/images/pic1.jpg" alt="img" class="picone"
+                                    data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                            <a href="saloni-rishab1.html">
+                                <img src="assets/images/pic2.jpg" alt="img" class="pictwo"
+                                    data-500-top="transform:translateY(30px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                        <div class="col-lg-6 ctm-col single-large-img">
+                            <a href="saloni-rishab1.html">
+                                <img src="assets/images/pic3.jpg" alt="img" class="picthree"
+                                    data-500-top="transform:translateY(190px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                    </div>
+                    <div id="sec-02" class="row three-pics typ-reverse clr-sec" data-color="pink"
+                        data-content="akhila ~ ram">
+                        <div class="col-lg-12 titlebx rev-sec">
+                            <h2 class="bs-heading typ-sml typ-white sml-width">akhila ~ ram</h2>
+                        </div>
+
+                        <div class="col-lg-6 order-lg-2 ctm-col sec-two-img typ-right">
+                            <a href="akhila-ram1.html">
+                                <img src="assets/images/pic5.jpg" alt="img" class="picone"
+                                    data-500-top="transform:translateY(50px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                            <a href="akhila-ram1.html">
+                                <img src="assets/images/pic6.jpg" alt="img" class="pictwo"
+                                    data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                        <div class="col-lg-6 order-lg-1 ctm-col single-large-img">
+                            <p class="fixedtxt">akhila ~ ram</p>
+                            <a href="akhila-ram1.html">
+                                <img src="assets/images/pic4.jpg" alt="img" class="picthree"
+                                    data-500-top="transform:translateY(160px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                    </div>
+                    <div id="sec-03" class="row three-pics updown-alignment clr-sec" data-color="pink"
+                        data-content="natasha ~ kanishk">
+                        <div class="col-lg-12 titlebx">
+                            <h2 class="bs-heading typ-sml typ-white sml-width">natasha ~ kanishk</h2>
+                        </div>
+                        <div class="col-xl-7 col-lg-7 col-md-12 order-lg-2 order-xl-2 ctm-col">
+                            <a href="natasha-kanishk1.html">
+                                <img src="assets/images/pic8.jpg" alt="img" class="picthree"
+                                    data-500-top="transform:translateY(60px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                            <a href="natasha-kanishk1.html">
+                                <img src="assets/images/pic9.jpg" alt="img" class="pictwo desktop-img"
+                                    data-900-top="transform:translateY(80px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                        <div class="col-xl-5  col-lg-5 col-md-12 order-lg-1 order-xl-1 ctm-col sec-two-img typ-left">
+                            <a href="natasha-kanishk1.html">
+                                <img src="assets/images/pic7.jpg" alt="img" class="picone"
+                                    data-500-top="transform:translateY(150px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                            <a href="natasha-kanishk1.html">
+                                <img src="assets/images/pic9.jpg" alt="img" class="pictwo mobile-img"
+                                    data-500-top="transform:translateY(190px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                            <p class="fixedtxt typ-btm-start">natasha ~ kanishk</p>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- section collage pic end -->
+
+        <!-- section full banner start -->
+        <section class="lyt-section mob-padding-0 fullbnnr">
+            <div id="hidediv" class="bs-banner typ-full set-bg" data-img="assets/images/fullbnnr.jpg"
+                data-mob-img="assets/images/mob-bnnr.jpg">
+                <div class="container">
+                    <div class="titlebx">
+                        <p class="subtitle">A letter to the bride</p>
+                        <h2 class="bs-heading typ-big">dharani dhruva</h2>
+                        <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                            data-src="https://www.youtube.com/embed/c_nAqlPchQw" data-target="#myModal"><span>play<i
+                                    class="icon icon-down-arrow"></i></span></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section full banner end -->
+
+        <!-- section paragraph start -->
+        <section class="lyt-section mob-padding-0 typ-center-para " data-color="mariner">
+            <div class="container">
+                <p class="cm-para">Years later, to re-watch the film is to truly savor those moments, <br>
+                    travel back in time and relive the same joy… the joy of becoming soulmates. <br>
+                    <span>Eternal, Elegant & Indulgent - our body of work.</span>
+                </p>
+            </div>
+        </section>
+        <!-- section paragraph end -->
+
+        <!-- section collage pic start -->
+        <section class="lyt-section mob-padding-0">
+            <img src="assets/images/vector5.png" alt="img" class="vector5" data-500-top="transform:translateY(100px)"
+                data-0-top="transform:translateY(0px)">
+            <div class="bs-collage">
+                <div class="container">
+                    <div class="row  typ-right">
+                        <div class="col-7 col-lg-6 img-right">
+                            <a href="akhila-ram1.html">
+                                <img src="assets/images/pic4.jpg" alt="img"
+                                    data-500-top="transform:translateY(150px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                        <div class="col-5 col-lg-6 sml-pic">
+                            <h2 class="bs-heading typ-sml">akhila ~ ram</h2>
+                            <a href="akhila-ram1.html">
+                                <img src="assets/images/pic5.jpg" alt="img" class="shreya"
+                                    data-500-top="transform:translateY(190px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row middle-row typ-left">
+                        <div class="col-5 col-lg-6 sml-pic leftside">
+                            <h2 class="bs-heading typ-sml leftheading">manisha ~ raj</h2>
+                            <a href="manisha-raj1.html">
+                                <img src="assets/images/albumpic3.jpg" alt="img"
+                                    data-500-top="transform:translateY(150px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                        <div class="col-7 col-lg-6 img-left">
+                            <a href="manisha-raj1.html">
+                                <img src="assets/images/albumpic4.jpg" alt="img" class="shiva"
+                                    data-500-top="transform:translateY(190px)" data-0-top="transform:translateY(0px)">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row typ-right">
+                        <div class="col-7 col-lg-6">
+                            <img src="assets/images/albumpic5.jpg" alt="img" data-500-top="transform:translateY(150px)"
+                                data-0-top="transform:translateY(0px)">
+                        </div>
+                        <div class="col-5 col-lg-6 sml-pic img-left">
+                            <h2 class="bs-heading typ-sml">dharani ~ dhruva</h2>
+                            <img src="assets/images/albumpic6.jpg" alt="img" data-500-top="transform:translateY(190px)"
+                                data-0-top="transform:translateY(0px)">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mod-spread-patch">
+                <div class="container">
+                    <div class="inner-sec set-bg" data-img="assets/images/spreadpatchone.png">
+                        <div class="content">
+                            <p>a decade spanning collection <span class="mob">of our wedding pictures</span></p>
+                            <a href="blog-landing.html" class="bs-btn typ-view"><span>view <i
+                                        class="icon icon-down-arrow"></i></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section collage pic end -->
+
+        <!-- section weeding films start -->
+        <section class="lyt-section mob-padding-0 fluid-sec">
+            <div class="container-fluid ctm-containerfluid">
+                <img src="assets/images/vector6.png" alt="img" class="vector6"
+                    data-500-top="transform:translateY(100px)" data-0-top="transform:translateY(0px)">
+                <div class="mod-borderbox">
+                    <div class="seperator"></div>
+                    <div class="row bs-img-txt align-items-center">
+                        <div class="col-7 col-lg-6 albumpic first-img">
+                            <p class="fixedtxt typ-bg-img">wedding film</p>
+                            <img src="assets/images/pic10.jpg" alt="img" data-500-top="transform:translateY(160px)"
+                                data-0-top="transform:translateY(0px)">
+                            <h2 class="bs-heading typ-white">akhila <br>ram</h2>
+                        </div>
+                        <div class="col-5 col-lg-6">
+                            <div class="container">
+                                <div class="action-btn">
+                                    <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                                        data-src="https://www.youtube.com/embed/6-ajXzWqN8U"
+                                        data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+
+                                    <!-- <a href="#" class="bs-btn typ-view"><span>play <i
+                                                class="icon icon-down-arrow"></i></span></a> -->
+
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"
+                                                            allowscriptaccess="always"></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row bs-img-txt align-items-center">
+                        <div class="col-5 col-lg-6">
+                            <div class="container">
+                                <p class="fixedtxt typ-bg-img md-none">wedding film</p>
+                                <div class="action-btn typ-left">
+
+                                    <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                                        data-src="https://www.youtube.com/embed/6-ajXzWqN8U"
+                                        data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"
+                                                            allowscriptaccess="always"></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-7 col-lg-6  albumpic sec-img">
+                            <img src="assets/images/pic10.jpg" alt="img" data-500-top="transform:translateY(170px)"
+                                data-0-top="transform:translateY(0px)">
+                            <h2 class="bs-heading typ-white typ-reverse brder-div">akhila <br>ram</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mod-spread-patch typ-small">
+                    <div class="container">
+                        <!-- <div class="inner-sec set-bg" data-img="assets/images/spreadpatchtwo.png">
+                            <div class="content">
+                                <p>a collection of our <span>heart-winning wedding films</span></p>  
+
+                                <a href="#" class="bs-btn typ-view"><span>view <i
+                                            class="icon icon-down-arrow"></i></span></a>
+                            </div>
+                        </div> -->
+                        <div class="inner-sec set-bg" data-img="assets/images/spreadpatchone.png">
+                            <div class="content">
+                                <!-- <p>a collection of <br> our heart-winning wedding film</p> -->
+                                <p class="mob-p-t-40">a collection of our <span>heart-winning wedding film</span></p>
+                                <a href="films-landing.html" class="bs-btn typ-view"><span>view <i
+                                            class="icon icon-down-arrow"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section weeding films end -->
+
+        <!-- section artists swiper start -->
+        <section class="lyt-section mob-padding-0 artists-sec">
+            <img src="assets/images/vector7.png" alt="img" class="vector7">
+            <div class="container">
+                <h2 class="artists">the artists</h2>
+                <div class="bs-swiper artists-swiper-parent">
+                    <h1 class="sticky-letter">we are a bunch <span class="stickyblock"><span class="singletxt">of</span>
+                            creative guys</span></h1>
+                    <div class="swiper-container artists-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists1.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists2.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists3.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists4.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists5.png" alt="artists">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists6.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists7.png" alt="artists">
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- Add Arrows -->
+                    <!-- <div class="swiper-button-next">
+                        <span class="icon-button_next"><span class="path1"></span><span class="path2"></span><span
+                                class="path3"></span></span>
+                    </div>
+                    <div class="swiper-button-prev">
+                        <span class="icon-button_previous"><span class="path1"></span><span class="path2"></span><span
+                                class="path3"></span></span>
+                    </div> -->
+                </div>
+                <div class="action-txt">
+                    <h2>you can spot us in a crowd,<span>we look happier.</span></h2>
+                    <!-- <a href="#" class="bs-btn typ-view typ-abs typ-all"><span>view all <i
+                                class="icon icon-down-arrow"></i></span></a> -->
+                </div>
+            </div>
+        </section>
+        <!-- section artists swiper end -->
+
+        <!-- <section class="lyt-section lyt-follow ">
+        <div class="container"> 
+            <div id="instafeed" class="bs-instapic"></div>                
+        </div>
+    </section> -->
+
+        <!-- section social start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="bs-divider">
+                <h2 class="divider line one-line">Social connect</h2>
+            </div>
+            <div class="container">
+                <div class="bs-socialsec">
+                    <div class="bs-swiper typ-social-pic">
+                        <div class="swiper-container social-swiper">
+                            <div class="swiper-wrapper" id="instafeed">
+                                <div class="swiper-slide">
+                                    <a href="https://www.instagram.com/p/DPYyt3fkzf7/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <img src="assets/images/insta/insta1.jpg" alt="instafeed">
+                                    </a>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <a href="https://www.instagram.com/p/DKmxcM1z0An/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <img src="assets/images/insta/instagram_02.jpg" alt="instafeed">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="https://www.instagram.com/p/DXEqcuVE1Z8/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <img src="assets/images/insta/instagram_03.jpg" alt="instafeed">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="https://www.instagram.com/p/DXcDZvVE8Mi/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <img src="assets/images/insta/instagram_04.jpg" alt="instafeed">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="https://www.instagram.com/reel/DRCrMwBE8hd/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <img src="assets/images/insta/instagram_05.jpg" alt="instafeed">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a href="https://www.instagram.com/p/DXUOxw5jLIO/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <img src="assets/images/insta/instagram_06.jpg" alt="instafeed">
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Add Arrows -->
+                            <div class="swiper-button-next  icon-back"></div>
+                            <div class="swiper-button-prev  icon-back"></div>
+                        </div>
+                    </div>
+
+                    <h2 class="hashtag">#OneFineDay</h2>
+                </div>
+            </div>
+            <div class="bs-divider">
+                <div class="divider line one-line">
+                    <div class="mod-social-links social-icons">
+                        <a href="https://www.youtube.com/channel/UC2asBqlzDvxdFRXMMx4jylw" target="_blank"
+                            class="typ-ytube"><i class="icon icon-icon_YT"></i> </a>
+                        <a href="https://www.instagram.com/onefinedaypictures/" target="_blank" class="typ-insta"> <i
+                                class="icon icon-icon_insta"></i> </a>
+                        <a href="https://www.facebook.com/OneFineDayArtistCollective" target="_blank" class="typ-fb"><i
+                                class="icon icon-icon_fb"></i> </a>
+                        <a href="https://twitter.com/OneFineDay_in" target="_blank" class="typ-twitter"><i
+                                class="icon icon-icon_tw"></i> </a>
+                        <a href="https://in.linkedin.com/company/onefineday" target="_blank" class="typ-linkedin"> <i
+                                class="icon icon-icon_linkedin"></i> </a>
+                    </div>
+                </div>
+            </div>
+            <figure class="btm-vector">
+                <img src="assets/images/bottom-flower.png" alt="Flowers">
+            </figure>
+        </section>
+        <!-- section social end -->
+
+        <!-- <section class="lyt-section">
+            <div class="container">
+                <div class="row">
+                    <h2>
+                        Instagram
+                    </h2>
+                </div>
+                <div class="row">
+                
+                           <div class="instafeed" id="instafeed">
+                           
+                           </div>
+                </div>
+                
+            </div>
+         </section> -->
+
+
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

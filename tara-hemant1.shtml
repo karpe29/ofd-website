@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        
+            <section class="lyt-section typ-blog typ-section-one">
+                <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+                <div class="container">
+                    <div class="bs-banner typ-blog-bnnr">
+                        <div class="bs-breadcrum">
+                            <div class="container">
+                                <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                            </div>
+                        </div>
+                        <h2 class="bs-heading typ-white">Tara & Hemant</h2>
+                    </div>
+                    <div class="bs-masonary">
+                        <!-- begin masonry grid-->
+                        <div id="masonryGrid">
+                            <div class="grid">
+                                <div class="grid-item large-pic">
+                                    <div class="inner-element typ-mob-mt-150">
+                                        <img src="assets/images/blog/tarahemant/popup/tara-hemant071.jpg" alt="Tara & Hemant"/>
+                                        <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                         <!-- <a href="#" class="bs-btn typ-view bann-btn video-btn"  data-toggle="modal"src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>Play<i class="icon icon-down-arrow"></i></span></a> -->
+                                    </div>
+                                    
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">      
+                                            <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                    </button>        
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always"></iframe>
+                                                    </div>        
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                   
+                            </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant001.jpg" class="img-popup">
+                                            <img src="assets/images/blog/tarahemant/thumnail/tara-hemant001.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant002.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant002.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant003.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant003.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant004.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant004.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant005.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant005.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant006.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant006.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant007.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant007.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant008.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant008.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant009.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant009.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div><div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant010.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant010.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant011.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant011.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant012.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant012.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant013.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant013.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant014.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant014.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant015.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant015.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant016.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant016.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant017.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant017.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant018.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant018.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant019.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant019.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant020.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant020.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant021.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant021.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant022.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant022.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant023.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant023.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant024.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant024.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant025.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant025.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant026.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant026.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant027.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant027.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant028.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant028.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant029.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant029.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant030.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant030.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant031.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant031.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant032.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant032.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant033.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant033.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant034.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant034.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant035.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant035.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant036.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant036.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant037.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant037.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant038.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant038.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant039.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant039.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant040.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant040.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant041.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant041.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant042.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant042.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant043.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant043.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant044.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant044.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant045.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant045.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant046.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant046.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant047.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant047.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant048.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant048.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant049.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant049.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant050.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant050.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant051.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant051.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant052.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant052.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant053.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant053.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant054.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant054.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant055.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant055.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant056.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant056.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant057.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant057.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant058.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant058.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant059.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant059.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant060.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant060.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant061.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant061.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant062.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant062.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant063.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant063.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant064.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant064.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant065.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant065.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant066.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant066.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant067.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant067.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant068.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant068.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant069.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant069.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant070.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant070.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant071.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant071.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant072.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant072.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant073.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant073.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant074.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant074.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant075.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant075.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant076.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant076.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/tarahemant/popup/tara-hemant077.jpg" class="img-popup">
+                                        <img src="assets/images/blog/tarahemant/thumnail/tara-hemant077.jpg" alt="Tara & Hemant" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="center-para">
+                        <p>Photographs:
+                            <span class="mob-newline"> 
+                                Purushottam, Vishakha, Shashank, Naman
+                            </span>
+                        </p>
+                        <p>
+                                Wedding Portraits:
+                            <span>
+                                Apeksha - House of Pixels
+                            </span>
+                        </p>
+                        <p>
+                            Outfits:
+                            <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun 
+                            Tahiliani, Kshitij Jalori
+                            </span>
+                        </p>
+                        <p>
+                            Makeup:
+                            <span>
+                            Deepa Verma
+                            </span>
+                        </p>
+                        <p>
+                            Entertainment:
+                            <span>
+                            Sukhbir, Dj AJ
+                            </span>
+                        </p>
+                    </div> -->
+                </div>
+            </section>
+
+         <!-- section blog post start -->
+            <section class="lyt-section mob-padding-0 typ-social">
+                <div class="container">
+                    <!-- <div class="bs-divider">
+                        <h2 class="divider line one-line">have a look at these too...</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">film</p>
+                                <h2 class="name">manvitha sanjith</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post1.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                        <a href="#" class="bs-btn typ-link">Read more....</a>
+                                    </p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">wedding story</p>
+                                <h2 class="name">mangal- snanam</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post2.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">director’s cut</p>
+                                <h2 class="name">beautiful brides</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post3.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                    </div> -->
+                    <figure class="btm-vector">
+                        <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+         <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

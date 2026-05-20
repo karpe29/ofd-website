@@ -1,0 +1,508 @@
+.lyt-section {
+  position: relative;
+  padding: 80px 0;
+  // background-color: $clr-base;
+  background-image: url("../images/bodybg.jpg");
+
+  &.typ-social {
+    padding-bottom: 0;
+    overflow: hidden;
+  }
+
+  &.fullbnnr {
+    padding: 0;
+    padding-bottom: 30px;
+  }
+
+  &.typ-center-para {
+    // padding: 80px 0;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 0;
+
+    .cm-para {
+      // width: 55%;
+      width: 75%;
+      margin: 0 auto;
+    }
+  }
+
+  &.p-non {
+    padding: 0;
+  }
+
+  &.artists-sec {
+    padding-top: 80px;
+
+    h2 {
+      color: $clr-theme;
+      font-size: 50px;
+      text-align: center;
+      font-family: $fnt3;
+      margin: 0;
+      font-weight: $font-medium;
+      position: relative;
+      z-index: 1;
+    }
+
+    .artists {
+      font-family: $fnt5;
+      font-size: 50px;
+    }
+
+    .action-txt {
+      position: relative;
+      max-width: 53%;
+      margin: 0 auto;
+      text-align: center;
+      margin-top: 50px;
+
+      h2 {
+        color: $clr-theme;
+        font-size: 50px;
+        text-align: center;
+        font-family: $fnt5;
+        // margin: 0;
+        font-weight: $font-medium;
+        // max-width: 60%;
+        // margin: 0 auto;
+        line-height: 1;
+
+        span {
+          display: block;
+        }
+      }
+
+      .bs-btn {
+        position: absolute;
+        right: 22%;
+        // bottom: -70px;
+        bottom: -25px;
+
+        &.typ-all {
+          // right: 20%;
+          right: 10%;
+        }
+      }
+    }
+
+    &.typ-film-artists-sec {
+      // padding-bottom: 172px;
+      padding-bottom: 100px;
+    }
+
+    .ctm-cols {
+      padding-left: 10px;
+      padding-right: 10px;
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  &.typ-teasers-sec {
+    position: relative;
+
+    .typ-teasers-layout {
+      justify-content: space-between;
+    }
+
+    .typ-teasers-grid {
+      margin-left: -10px;
+      margin-right: -10px;
+
+      > [class*="col-"] {
+        margin-bottom: 20px;
+      }
+
+      .mb-20 {
+        margin-bottom: 0;
+      }
+    }
+
+    .typ-teasers-title {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+
+      .bs-heading {
+        margin: 0;
+        text-align: center;
+      }
+    }
+  }
+
+  &.typ-blog {
+    // position: relative;
+    padding: 0;
+
+    .center-para {
+      width: 30%;
+      margin: 0 auto;
+
+      p {
+        font-size: 18px;
+        color: $clr-theme;
+        margin-top: 15px;
+      }
+    }
+  }
+
+  &.typ-bmt-p-0 {
+    padding-bottom: 0;
+  }
+
+  &.typ-microvideo {
+    .action-btn {
+      text-align: center;
+      margin-top: 50px;
+
+      i {
+        font-size: 15px;
+      }
+    }
+
+    .bs-btn {
+      margin-left: 30px;
+    }
+  }
+
+  &.typ-weprovide {
+    .ctm-row {
+      // padding: 0 40px;
+      padding: 0 120px;
+    }
+  }
+
+  &.typ-mb-100 {
+    margin-bottom: 100px;
+  }
+
+  &.typ-pb-100 {
+    padding-bottom: 100px;
+  }
+
+  &.typ-mt-200 {
+    margin-top: 200px;
+  }
+
+  &.typ-bgtheme {
+    // background-color: $clr-default;
+    // background-image: none;
+    background-image: url(../images/bodybgborwn.png);
+    // background-repeat: no-repeat;
+
+
+    position: relative;
+    // margin-top: -30px;
+    padding-bottom: 200px;
+  }
+
+  &.typ-about-theartistcollective {
+    margin-bottom: 70px;
+
+    .memory {
+      margin-top: -82px;
+    }
+  }
+
+  &.typ-section-one {
+    margin-top: -40px;
+  }
+
+  &.btm-sticky {
+    padding-bottom: 0;
+  }
+
+  &.typ-contact {
+    padding-bottom: 0;
+  }
+
+  &.typ-thank-you {
+    padding-bottom: 0;
+
+    .subtitle {
+      color: $clr-theme;
+      font-size: 24px;
+      font-family: $fnt1;
+      font-weight: $font-regular;
+      margin: 0 auto;
+      margin-top: 40px;
+      max-width: 50%;
+      text-align: center;
+    }
+  }
+
+  &.typ-artist-top {
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  &.typ-center{
+    text-align: center;
+  }
+  &.typ-brand{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    &.brand-top{
+      padding-top: 78px;
+    }
+  }
+  &.typ-white{
+    background-color: $clr-white;
+    background-image: none;
+  }
+  &.typ-video-box{
+    padding-top: 50px;
+    padding-bottom: 0;
+  }
+  &.typ-theme-dark{
+    background-color: $clr-theme-dark;
+    background-image: none;
+  }
+  &.typ-bottom{
+    padding-bottom: 150px;
+  }
+}
+
+.lyt-mrbtm-100 {
+  margin-bottom: 200px;
+}
+
+@media only screen and (min-width: $lgdesktop-breakpoint) {
+  .lyt-section {
+    &.artists-sec {
+      h2 {
+        font-size: 76px;
+      }
+
+      .action-txt {
+        max-width: 74%;
+
+        h2 {
+          font-size: 76px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: $desktop-breakpoint) {
+  .lyt-section {
+    &.artists-sec {
+      .action-txt {
+        max-width: 80%;
+        margin-top: 40px;
+      }
+
+      &.typ-film-artists-sec {
+        padding-bottom: 80px;
+      }
+    }
+
+    &.typ-weprovide {
+      .ctm-row {
+        padding: 0;
+      }
+    }
+
+    &.typ-thank-you {
+      .subtitle {
+        max-width: 60%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: $tablet-breakpoint) {
+  .lyt-section {
+
+    // padding-bottom: 0;
+    &.typ-teasers-sec {
+      .typ-teasers-title {
+        margin-bottom: 30px;
+      }
+
+      .typ-teasers-grid > [class*="col-"]:nth-last-child(-n + 2) {
+        margin-bottom: 0;
+      }
+    }
+
+    &.wedding-para {
+      padding-bottom: 80px;
+    }
+
+    &.mob-padding-0 {
+      padding-bottom: 0;
+    }
+
+    &.typ-center-para {
+      padding: 50px 0;
+      padding-bottom: 120px;
+
+      .cm-para {
+        width: 100%;
+      }
+    }
+
+    // .bs-img-txt {
+    //     .action-btn{
+    //         position: absolute;
+    //         left: -37px;
+    //         padding-left: unset;
+    //         &.typ-left{
+    //             left: inherit;
+    //             right: -17px;
+    //             z-index: 1;
+    //         }
+    //     }
+    // }
+    &.artists-sec {
+      padding-bottom: 35px;
+
+      .action-txt {
+        max-width: 85%;
+        margin-top: 180px;
+
+        // padding-top: 100px;
+        // margin-top: 165px;
+        h2 {
+          margin-bottom: 20px;
+          text-align: center;
+        }
+
+        .bs-btn {
+          position: relative;
+          right: 0 !important;
+          bottom: 0;
+
+          &.typ-all {
+            right: -28% !important;
+            bottom: 33px;
+          }
+        }
+      }
+
+      &.typ-film-artists-sec {
+        margin-bottom: 80px;
+        padding-bottom: 0;
+      }
+    }
+
+    &.typ-blog {
+      .center-para {
+        width: 50%;
+        margin: 0 auto;
+
+        .mob-newline {
+          display: block;
+        }
+      }
+    }
+
+    &.typ-thank-you {
+      .subtitle {
+        max-width: 80%;
+      }
+    }
+    &.t-pb-0{
+      padding-bottom: 0;
+    }
+    &.typ-bottom{
+      padding-bottom: 70px;
+    }
+  }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) {
+  .lyt-section {
+    padding: 50px 0;
+
+    &.wedding-para {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+
+    &.artists-sec {
+      .action-txt {
+        max-width: 100%;
+        margin-top: 80px;
+
+        h2 {
+          font-size: 40px;
+          text-align: center;
+
+          span {
+            display: contents;
+          }
+        }
+
+        .bs-btn {
+          position: relative;
+
+          &.typ-all {
+            right: 0 !important;
+            bottom: 0;
+          }
+        }
+      }
+    }
+
+    &.fluid-sec {
+      padding: 0;
+    }
+
+    // .bs-img-txt{
+    //     .action-btn{
+    //         left: -20px;
+    //         &.typ-left{
+    //             right: -36px;
+    //         }
+    //     }
+    // }
+    &.typ-center-para {
+
+      // padding-bottom: 150px;
+      &.typ-pb-0 {
+        padding-bottom: 0;
+      }
+    }
+
+    &.typ-blog {
+      .center-para {
+        width: 100%;
+        margin: 0 auto;
+      }
+    }
+
+    &.typ-weprovide {
+      .ctm-row {
+        padding: 0 20px;
+      }
+    }
+
+    &.typ-mt-200 {
+      margin-top: 0px;
+    }
+
+    &.typ-thank-you {
+      .subtitle {
+        max-width: 100%;
+        font-size: 22px;
+      }
+    }
+    &.typ-bottom{
+      padding-bottom: 50px;
+    }
+    &.typ-brand{
+      &.brand-top{
+        padding-top: 50px;
+        padding-bottom: 0;
+      }
+    }
+    &.m-pb-0{
+      padding-bottom: 0;
+    }
+  }
+}

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+            <section class="lyt-section typ-bmt-p-0 typ-section-one">
+                <div class="container">
+                    <h2 class="bs-heading with-btm-line typ-brown-heading">FAQs</h2>
+                    <div class="bs-masonary typ-faq">
+                        <div id="faqgmasonryGrid">
+                            <div class="grid">
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">How do you make a film - what do you shoot?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">What kind of weddings do you shoot? Do you shoot Engagements?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">Do you print Albums?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">Do you guys travel?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">Is the editing of the photos/videos done in house or is it being outsourced?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">How many artists can work together in a wedding?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">What is your shooting style?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">How do you make a film - what do you shoot?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">Is the editing of the photos/videos done in house or is it being outsourced?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger"> What do you shoot with?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">How do you make a film - what do you shoot?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger">Is the editing of the photos/videos done in house or is it being outsourced?</p>
+                                            <div class="content">We love to shoot people doing things. Whether that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="grid-item-content">
+                                        <div class="bs-cards typ-simple-text">
+                                            <p class="trigger"> What do you shoot with?</p>
+                                            <div class="content">We love to shoot people doing things. Whether  that be a bride's father crying during her vidai, cousin who started all the laughing riot, or a mother's love for her baby; we shoot moments. To be more precise, we capture the moments between moments and we love quirky, radtastic people.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                    <figure class="btm-vector">
+                        <img src="assets/images/faq-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

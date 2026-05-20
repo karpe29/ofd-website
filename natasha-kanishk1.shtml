@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        
+            <section class="lyt-section typ-blog typ-section-one">
+                <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+                <div class="container">
+                    <div class="bs-banner typ-blog-bnnr">
+                        <div class="bs-breadcrum">
+                            <div class="container">
+                                <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                            </div>
+                        </div>
+                        <h2 class="bs-heading typ-white">Natasha & Kanishk</h2>
+                    </div>
+                    <div class="bs-masonary">
+                        <!-- begin masonry grid-->
+                        <div id="masonryGrid">
+                            <div class="grid">
+                                <div class="grid-item large-pic">
+                                    <div class="inner-element typ-mob-mt-150">
+                                        <img src="assets/images/blog/natashakanishk/popup/natasha-kanishk091.jpg"/>
+                                        <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                         <!-- <a href="#" class="bs-btn typ-view bann-btn video-btn"  data-toggle="modal" src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>Play<i class="icon icon-down-arrow"></i></span></a> -->
+                                    </div>
+                                    
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">      
+                                                <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                        </button>        
+                                                        <div class="embed-responsive embed-responsive-16by9">
+                                                            <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always"></iframe>
+                                                        </div>        
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk001.jpg" class="img-popup">
+                                            <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk001.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk002.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk002.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk003.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk003.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk004.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk004.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk005.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk005.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk006.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk006.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk007.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk007.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk008.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk008.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk009.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk009.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk010.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk010.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk011.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk011.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk012.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk012.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk013.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk013.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk014.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk014.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk015.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk015.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk016.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk016.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk017.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk017.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk018.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk018.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk019.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk019.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk020.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk020.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk021.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk021.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk022.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk022.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk023.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk023.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk024.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk024.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk025.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk025.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk026.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk026.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk027.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk027.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk028.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk028.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk029.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk029.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk030.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk030.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk031.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk031.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk032.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk032.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk033.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk033.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk034.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk034.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk035.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk035.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk036.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk036.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk037.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk037.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk038.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk038.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk039.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk039.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk040.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk040.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk041.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk041.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk042.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk042.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk043.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk043.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk044.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk044.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk045.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk045.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk046.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk046.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk047.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk047.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk048.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk048.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk049.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk049.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk050.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk050.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk051.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk051.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk052.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk052.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk053.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk053.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk054.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk054.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk055.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk055.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk056.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk056.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk057.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk057.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk058.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk058.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk059.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk059.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk060.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk060.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk061.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk061.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk062.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk062.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk063.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk063.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk064.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk064.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk065.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk065.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk066.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk066.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk067.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk067.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk068.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk068.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk069.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk069.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk070.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk070.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk071.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk071.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk072.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk072.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk073.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk073.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk074.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk074.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk075.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk075.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk076.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk076.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk077.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk077.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk078.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk078.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk079.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk079.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk080.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk080.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk081.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk081.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk082.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk082.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk083.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk083.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk084.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk084.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk085.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk085.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk086.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk086.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk087.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk087.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk088.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk088.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk089.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk089.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk090.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk090.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk091.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk091.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk092.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk092.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk093.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk093.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk094.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk094.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk095.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk095.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk096.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk096.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk097.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk097.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk098.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk098.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk099.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk099.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk100.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk100.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk101.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk101.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk102.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk102.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk103.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk103.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk104.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk104.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk105.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk105.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk106.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk106.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk107.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk107.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk108.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk108.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk109.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk109.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk110.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk110.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk111.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk111.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk112.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk112.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk113.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk113.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk114.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk114.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk115.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk115.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk116.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk116.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk117.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk117.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk118.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk118.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk119.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk119.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk120.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk120.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk121.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk121.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk122.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk122.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk123.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk123.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk124.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk124.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk125.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk125.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk126.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk126.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk127.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk127.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk128.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk128.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk129.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk129.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk130.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk130.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk131.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk131.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk132.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk132.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk133.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk133.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/natashakanishk/popup/natasha-kanishk134.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/natashakanishk/thumnail/natasha-kanishk134.jpg" alt="Natasha & Kanishk" />  
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="center-para">
+                        <p>Photographs:
+                            <span class="mob-newline"> 
+                                Purushottam, Vishakha, Shashank, Naman
+                            </span>
+                        </p>
+                        <p>
+                                Wedding Portraits:
+                            <span>
+                                Apeksha - House of Pixels
+                            </span>
+                        </p>
+                        <p>
+                            Outfits:
+                            <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun 
+                            Tahiliani, Kshitij Jalori
+                            </span>
+                        </p>
+                        <p>
+                            Makeup:
+                            <span>
+                            Deepa Verma
+                            </span>
+                        </p>
+                        <p>
+                            Entertainment:
+                            <span>
+                            Sukhbir, Dj AJ
+                            </span>
+                        </p>
+                    </div> -->
+                </div>
+            </section>
+
+         <!-- section blog post start -->
+            <section class="lyt-section mob-padding-0 typ-social">
+                <div class="container">
+                    <!-- <div class="bs-divider">
+                        <h2 class="divider line one-line">have a look at these too...</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">film</p>
+                                <h2 class="name">manvitha sanjith</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post1.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                        <a href="#" class="bs-btn typ-link">Read more....</a>
+                                    </p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">wedding story</p>
+                                <h2 class="name">mangal- snanam</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post2.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">director’s cut</p>
+                                <h2 class="name">beautiful brides</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post3.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                    </div> -->
+                    <figure class="btm-vector">
+                        <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+         <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

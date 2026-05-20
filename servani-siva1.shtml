@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        
+            <section class="lyt-section typ-blog typ-section-one">
+                <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+                <div class="container">
+                    <div class="bs-banner typ-blog-bnnr">
+                        <div class="bs-breadcrum">
+                            <div class="container">
+                                <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                            </div>
+                        </div>
+                        <h2 class="bs-heading typ-white">Servani & Siva</h2>
+                    </div>
+                    <div class="bs-masonary">
+                        <!-- begin masonry grid-->
+                        <div id="masonryGrid">
+                            <div class="grid">
+                                <div class="grid-item large-pic">
+                                    <div class="inner-element typ-mob-mt-150">
+                                        <img src="assets/images/blog/servanisiva/popup/servani-siva129.jpg"/>
+                                        <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                         <!-- <a href="#" class="bs-btn typ-view bann-btn video-btn"  data-toggle="modal" src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>Play<i class="icon icon-down-arrow"></i></span></a> -->
+                                    </div>
+                                    
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">      
+                                            <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                    </button>        
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always"></iframe>
+                                                    </div>        
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                   
+                            </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva001.jpg" class="img-popup">
+                                            <img  src="assets/images/blog/servanisiva/thumnail/servani-siva001.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva002.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva002.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva003.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva003.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva004.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva004.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva005.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva005.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva006.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva006.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva007.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva007.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva008.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva008.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva009.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva009.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div><div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva010.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva010.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva011.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva011.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva012.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva012.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva013.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva013.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva014.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva014.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva015.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva015.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva016.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva016.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva017.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva017.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva018.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva018.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva019.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva019.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva020.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva020.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva021.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva021.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva022.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva022.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva023.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva023.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva024.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva024.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva025.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva025.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva026.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva026.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva027.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva027.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva028.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva028.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva029.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva029.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva030.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva030.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva031.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva031.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva032.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva032.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva033.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva033.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva034.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva034.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva035.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva035.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva036.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva036.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva037.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva037.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva038.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva038.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva039.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva039.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva040.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva040.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva041.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva041.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva042.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva042.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva043.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva043.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva044.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva044.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva045.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva045.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva046.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva046.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva047.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva047.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva048.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva048.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva049.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva049.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva050.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva050.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva051.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva051.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva052.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva052.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva053.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva053.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva054.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva054.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva055.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva055.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva056.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva056.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva057.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva057.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva058.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva058.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva059.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva059.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva060.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva060.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva061.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva061.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva062.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva062.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva063.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva063.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva064.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva064.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva065.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva065.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva066.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva066.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva067.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva067.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva068.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva068.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva069.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva069.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva070.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva070.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva071.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva071.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva072.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva072.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva073.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva073.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva074.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva074.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva075.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva075.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva076.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva076.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva077.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva077.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva078.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva078.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva079.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva079.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva080.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva080.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva081.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva081.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva082.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva082.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva083.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva083.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva084.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva084.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva085.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva085.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva086.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva086.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva087.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva087.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva088.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva088.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva089.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva089.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva090.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva090.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva091.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva091.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva092.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva092.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva093.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva093.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva094.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva094.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva095.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva095.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva096.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva096.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva097.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva097.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva098.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva098.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva099.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva099.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva100.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva100.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva101.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva101.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva102.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva102.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva103.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva103.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva104.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva104.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva105.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva105.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva106.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva106.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva107.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva107.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva108.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva108.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva109.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva109.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva110.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva110.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva111.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva111.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva112.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva112.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva113.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva113.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva114.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva114.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva115.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva115.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva116.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva116.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva117.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva117.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva118.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva118.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva119.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva119.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva120.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva120.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva121.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva121.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva122.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva122.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva123.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva123.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva124.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva124.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva125.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva125.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva126.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva126.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva127.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva127.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva128.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva128.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva129.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva129.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva130.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva130.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva131.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva131.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva132.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva132.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva133.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva133.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva134.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva134.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva135.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva135.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva136.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva136.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva137.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva137.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva138.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva138.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva139.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva139.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva140.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva140.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva141.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva141.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva142.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva142.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva143.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva143.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva144.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva144.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva145.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva145.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva146.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva146.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva147.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva147.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva148.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva148.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva149.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva149.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva150.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva150.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva151.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva151.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva152.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva152.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva153.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva153.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/servanisiva/popup/servani-siva154.jpg" class="img-popup">
+                                        <img  src="assets/images/blog/servanisiva/thumnail/servani-siva154.jpg" alt="Servani & Siva" /> 
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="center-para">
+                        <p>Photographs:
+                            <span class="mob-newline"> 
+                                Purushottam, Vishakha, Shashank, Naman
+                            </span>
+                        </p>
+                        <p>
+                                Wedding Portraits:
+                            <span>
+                                Apeksha - House of Pixels
+                            </span>
+                        </p>
+                        <p>
+                            Outfits:
+                            <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun 
+                            Tahiliani, Kshitij Jalori
+                            </span>
+                        </p>
+                        <p>
+                            Makeup:
+                            <span>
+                            Deepa Verma
+                            </span>
+                        </p>
+                        <p>
+                            Entertainment:
+                            <span>
+                            Sukhbir, Dj AJ
+                            </span>
+                        </p>
+                    </div> -->
+                </div>
+            </section>
+
+         <!-- section blog post start -->
+            <section class="lyt-section mob-padding-0 typ-social">
+                <div class="container">
+                    <!-- <div class="bs-divider">
+                        <h2 class="divider line one-line">have a look at these too...</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">film</p>
+                                <h2 class="name">manvitha sanjith</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post1.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                        <a href="#" class="bs-btn typ-link">Read more....</a>
+                                    </p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">wedding story</p>
+                                <h2 class="name">mangal- snanam</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post2.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">director’s cut</p>
+                                <h2 class="name">beautiful brides</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post3.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                    </div> -->
+                    <figure class="btm-vector">
+                        <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+         <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

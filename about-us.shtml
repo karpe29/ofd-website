@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding | About Us</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        <section class="lyt-section typ-bgtheme typ-section-one">
+            <!-- <div class="text-center">
+                <img src="assets/images/aboutus/aboutsun.png" alt="sunflower" class="sunflower">
+            </div> -->
+                <img src="assets/images/aboutus/aboutsunnn.png" alt="sunflower" class="sunflower">    
+            <div class="container-fluid ctm-container-fluid">
+                <div class="container">
+                    <h2 class="bs-heading typ-white with-btm-line typ-mob-fnt typ-aboutus">about us</h2>
+                </div>
+                <div class="bs-aboutme typ-one">
+                    <div class="info">
+                        <p>
+                            We are just<br>
+                            <span class="big-txt">a regular bunch of guys,</span>
+                            <span class="sml-txt">but you can spot us in a crowd,</span>
+                            <span class="big-txt">we look happier.</span>
+                            We don't like to work,<br>
+                            but we love to move.<br>
+                            We love music,<br>
+                            rehman,<br>
+                            dylan,<br>
+                            coldplay.<br>
+                        </p>
+                    </div>
+                    <div class="collage-pics">
+                            <img src="assets/images/aboutus/guitar.png" alt="guitar" class="pic5"  data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/friend.png" alt="friend" class="pic4"  data-500-top="transform:translateY(250px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/arsing.png" alt="arsing" class="pic3"  data-500-top="transform:translateY(230px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/facelook.png" alt="facelook" class="pic2"  data-500-top="transform:translateY(200px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/peoples.png" alt="peoples" class="pic1"  data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                    </div>
+                </div>
+                <div class="bs-aboutme typ-reverse typ-two">
+                    <div class="info">
+                        <p>
+                            We like sport, <br>
+                            design and textures,<br>
+                            physics, mountains,<br>
+                            food,light,<br>
+                            colour.<br>
+                        </p>
+                    </div>
+                    <div class="collage-pics">
+                            <img src="assets/images/aboutus/leaves.png" alt="leaves" class="pic5" data-500-top="transform:translateY(200px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/ring.png" alt="ring" class="pic4"  data-500-top="transform:translateY(220px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/card.png" alt="card" class="pic3"  data-500-top="transform:translateY(200px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/rainbow.png" alt="rainbow" class="pic2"  data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/hill.png" alt="hill" class="pic1" data-500-top="transform:translateY(150px)" data-0-top="transform:translateY(0px)">
+                    </div>
+                </div>
+                <div class="bs-aboutme typ-three">
+                    <div class="info">
+                        <p>
+                            We like<br>
+                            a good afternoon nap,<br>
+                            we like<br>
+                            chocolate desserts,<br>
+                            We like<br>
+                            beautiful girls and<br>
+                            funny men,<br>
+                            we like<br>
+                            spaces and<br>
+                            their tiny details,<br>
+                            we can fight<br>
+                            the monday morning traffic<br>
+                            only for a<br>
+                            beautiful breakfast.
+                        </p>
+                    </div>
+                    <div class="collage-pics">
+                            <img src="assets/images/aboutus/signals.png" alt="signals" class="pic6"  data-500-top="transform:translateY(100px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/food.png" alt="food" class="pic5"  data-500-top="transform:translateY(240px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/user.png" alt="user" class="pic4"  data-500-top="transform:translateY(200px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/patch.png" alt="patch" class="pic3"  data-500-top="transform:translateY(160px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/lady.png" alt="lady" class="pic2"  data-500-top="transform:translateY(150px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/codeing.png" alt="codeing" class="pic1"  data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                    </div>
+                </div>
+                <div class="bs-aboutme typ-reverse typ-four">
+                    <div class="info">
+                        <p>
+                        <span class="big-txt">We love to create.</span>
+                        And we do only <br>
+                        what we like to do.<br>
+                        Only that, nothing else.<br>
+                        We are stubborn like that.<br>
+                        Most times<br>
+                        <span class="big-txt">we like</span>
+                        <span class="big-txt">doing nothing.</span>
+                        </p>
+                    </div>
+                    <div class="collage-pics">
+                            <img src="assets/images/aboutus/tiger.png" alt="tiger" class="pic2" data-500-top="transform:translateY(120px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/patchleave.png" alt="patchleave" class="pic1" data-500-top="transform:translateY(50px)" data-0-top="transform:translateY(0px)">
+                    </div>
+                </div>
+                <div class="bs-aboutme typ-five">
+                    <div class="info">
+                        <p>
+                        We don't care <br>
+                        about hardwork, <br>
+                        we care about <br>
+                        making it look effortless. <br>
+                        and what we care about <br>
+                        the most is being able <br>
+                        to lie down at night <br>
+                        and <br>
+                        say to ourselves, <br>
+                        that it's been one fine day. <br>
+                        Incidentally, <br>
+                        that's what we are called.
+                        </p>
+                    </div>
+                    <div class="collage-pics">
+                            <img src="assets/images/aboutus/love.png" alt="love" class="pic4" data-500-top="transform:translateY(50px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/sun.png" alt="sun" class="pic3" data-500-top="transform:translateY(60px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/clickme.png" alt="clickme" class="pic2" data-500-top="transform:translateY(150px)" data-0-top="transform:translateY(0px)">
+                            <img src="assets/images/aboutus/letter.png" alt="letter" class="pic1" data-500-top="transform:translateY(60px)" data-0-top="transform:translateY(0px)">
+                    </div>
+                </div>
+                           
+            </div>
+
+        </section>
+
+            <section class="lyt-section typ-about-theartistcollective">
+                <img src="assets/images/aboutus/memory.png" class="memory" alt="fairy">
+            </section>
+
+
+        <!-- section artists swiper start -->
+        <section class="lyt-section mob-padding-0 artists-sec">
+            <div class="container">
+                <h2 class="artists">the artists</h2>
+                <div class="bs-swiper artists-swiper-parent">
+                    <h1 class="sticky-letter">we are a bunch <span class="stickyblock"><span class="singletxt">of</span>
+                            creative guys</span></h1>
+                    <div class="swiper-container artists-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists1.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists2.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists3.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists4.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists5.png" alt="artists">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists6.png" alt="artists">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/images/artists7.png" alt="artists">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Add Arrows -->
+                    <!-- <div class="swiper-button-next">
+                        <span class="icon-button_next"><span class="path1"></span><span class="path2"></span><span
+                                class="path3"></span></span>
+                    </div>
+                    <div class="swiper-button-prev">
+                        <span class="icon-button_previous"><span class="path1"></span><span class="path2"></span><span
+                                class="path3"></span></span>
+                    </div> -->
+                </div>
+                <div class="action-txt">
+                    <h2>you can spot us in a crowd,<span>we look happier.</span></h2>
+                    <!-- <a href="#" class="bs-btn typ-view typ-abs typ-all">
+                        <span>view all <i class="icon icon-down-arrow"></i></span>
+                    </a> -->
+                </div>
+            </div>
+        </section>
+        <!-- section artists swiper end -->
+        <!-- section bottom start -->
+            <section class="lyt-section btm-sticky">
+                <figure class="btm-vector">
+                    <img src="assets/images/aboutus/fairy.png" class="abtfairy" alt="fairy">
+                </figure>
+            </section>
+        <!-- section bottom end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

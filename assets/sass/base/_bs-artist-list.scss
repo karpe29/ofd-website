@@ -1,0 +1,198 @@
+.bs-artist-list {
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: $fnt1;
+    padding: 70px 0;
+    position: relative;
+
+    &::after {
+        content: '';
+        position: absolute;
+        height: 10px;
+        width: 100%;
+        bottom: 0;
+        background-image: url('../../assets/images/artist-landing/border-bottom.jpg');
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+
+
+    .artist-img {
+        padding-right: 30px;
+        position: relative;
+
+        .tape {
+            position: absolute;
+
+            &.rushi {
+                top: 130px;
+                left: -88px;
+            }
+
+            &.sumeet {
+                top: -27px;
+                left: 70px;
+            }
+
+            &.nandi {
+                bottom: -37px;
+                left: 70px;
+            }
+
+            &.johnn {
+                top: 70px;
+                right: -27px;
+            }
+
+            &.swapnil-top {
+                top: -24px;
+                left: 90px;
+            }
+
+            &.swapnil-bottom {
+                bottom: -19px;
+                left: 90px
+            }
+
+            &.omkar-lt {
+                top: -20px;
+                left: 10px;
+                img{
+                    width: 80px;
+                }
+            }
+
+            &.omkar-rb {
+                bottom: -21px;
+                right: -25px;
+                img{
+                    width: 80px;
+                }
+            }
+        }
+    }
+
+    .artist-info {
+        width: 70%;
+
+        .artist-name {
+            color: $clr-black;
+            font-size: 36px;
+            font-weight: $font-bold;
+            text-transform: uppercase;
+
+            &.swapnil {
+                text-transform: none;
+            }
+        }
+
+        .artist-designation {
+            color: $clr-black;
+            font-weight: $font-bold;
+            font-size: 20px;
+        }
+
+        .artist-desc {
+            color: $clr-black;
+            font-size: 20px;
+            padding-bottom: 10px;
+        }
+
+        .artist-social {
+            .icon {
+                font-size: 24px;
+                color: #ef9fc5;
+                font-weight: $font-bold;
+            }
+        }
+    }
+
+    &.typ-top {
+        padding-top: 0;
+        margin-top: -25px;
+    }
+
+    &.typ-last {
+        &::after {
+            display: none;
+        }
+    }
+
+    &.typ-right {
+        flex-direction: row-reverse;
+        text-align: right;
+
+        .artist-img {
+            padding-right: 0;
+            padding-left: 30px;
+        }
+    }
+}
+
+@media only screen and (max-width: $tablet-breakpoint) {
+    .bs-artist-list{
+        flex-direction: column;
+        .artist-info{
+            width: 100%;
+            padding-top: 20px;
+        }
+        &.typ-right{
+            flex-direction: column;
+        }
+    }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) {
+    .bs-artist-list {
+        width: 100%;
+        padding: 40px 0;
+        flex-direction: column;
+
+        .artist-img {
+            padding-right: 0;
+            .tape-nandi{
+                bottom: -7px;
+                left: 56px;
+                img{
+                    width: 100px;
+                }
+            }
+            .tape{
+                &.johnn{
+                    right: -10px;
+                }
+                &.nandi{
+                    bottom: -24px;
+                    left: 90px;
+                    img{
+                        width:100px;
+                    }
+                }
+            }
+        }
+
+        .artist-info {
+            width: 100%;
+            .artist-name{
+                font-size: 32px;
+            }
+            .artist-designation{
+                font-size: 20px;
+            }
+            .artist-desc{
+                font-size: 18px;
+            }
+        }
+
+        &.typ-right {
+            flex-direction: column;
+
+            .artist-img {
+                padding-left: 15px;
+            }
+        }
+    }
+}

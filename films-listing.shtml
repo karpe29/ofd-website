@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"  lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        <!-- section page heading start -->
+            <section class="lyt-section typ-bmt-p-0 typ-section-one">
+                <div class="container">
+                    <h2 class="bs-heading with-btm-line typ-brown-heading">films</h2>
+                </div>
+            </section>
+        <!-- section page heading end -->
+        <!-- section weeding films start -->
+            <section class="lyt-section mob-padding-0 fluid-sec p-non">
+                <div class="container-fluid ctm-containerfluid">
+                    <img src="assets/images/vector6.png" alt="img" class="vector6 typ-films-listing" data-500-top="transform:translateY(100px)" data-0-top="transform:translateY(0px)">
+                    <div class="mod-borderbox typ-film-listing">
+                        <div class="sec sec1">
+                            <div class="seperator"></div>
+                            <div class="btm-line"></div>
+                            <div class="row bs-img-txt align-items-center">
+                                <div class="col-7 col-lg-6 albumpic first-img">
+                                    <p class="fixedtxt typ-bg-img">wedding film</p>
+                                    <img src="assets/images/pic10.jpg" alt="Akhila Ram">
+                                    <h2 class="bs-heading typ-white">akhila<br>ram</h2>
+                                </div>
+                                <div class="col-5 col-lg-6">
+                                    <div class="container">
+                                        <div class="description-bx">
+                                            <div class="action-btn">
+                                                <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                                                    data-src="https://www.youtube.com/embed/6-ajXzWqN8U"
+                                                    data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <img src="assets/images/films/vector-flower.png" alt="flower" class="vector-flow">
+                            </div>
+                            <div class="row bs-img-txt align-items-center">
+                                <div class="col-5 col-lg-6">
+                                    <div class="container">
+                                        <p class="fixedtxt typ-bg-img md-none">wedding film</p>
+                                        <div class="description-bx typ-left">
+                                            <div class="action-btn">
+                                                <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
+                                                    data-src="https://www.youtube.com/embed/6-ajXzWqN8U"
+                                                    data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-7 col-lg-6 albumpic sec-img">
+                                    <img src="assets/images/pic10.jpg" alt="Akhila Ram">
+                                    <h2 class="bs-heading typ-white typ-reverse brder-div">akhila ram</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                aria-labelledby="videoModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="" id="video"
+                                    allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <!-- section weeding films end -->
+
+                <!-- section bottom start -->
+        <section class="lyt-section btm-sticky">
+            <figure class="btm-vector">
+                <img src="assets/images/films/btm-vector.png" alt="Flowers">
+            </figure>
+        </section>
+        <!-- section bottom end -->
+
+        
+        
+    
+
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

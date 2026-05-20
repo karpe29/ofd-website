@@ -1,0 +1,300 @@
+.bs-banner{
+    position: relative;
+    figure{
+        text-align: right;
+        .homebnnr{
+            height: 460px;
+        }
+    }
+    .titlebx{
+        position: absolute;
+        top: 24px;
+        right: 24px;
+        border: 1px solid $clr-theme;
+        width: 62%;
+        height: 100%;
+        text-align: center;
+        .content-wrapper{
+            display: block;
+            margin-left: -300px;
+            width: 100%;
+            text-align: right;
+        }
+        .subtitle{
+            color: $clr-theme;
+            font-size: 30px;
+            font-weight: $font-regular;
+            font-family: $fnt1;
+            margin-top: 30px;
+            &.typ-transparent{
+                color: transparent;
+            }
+        }
+        .bs-heading{
+            max-width: 100%;
+            text-align: right;
+            color: $clr-white;
+            line-height: 0.85;
+            margin-top: 30px;
+            margin-bottom: 25px;
+        }
+    }
+    &.typ-full{
+        position: relative;
+        min-height: 500px;
+        .titlebx {
+            position: absolute;
+            top: -21px;
+            left: 50%;
+            transform: translate(-50%);
+            border: 1px solid $clr-red;
+            width: 70%;
+            height: 110%;
+            padding: 50px;
+            .subtitle{
+                color: $clr-white;
+                font-size: 18px;
+                font-weight: 400;
+                font-family: "Lekton",sans-serif;
+                margin-top: 15px;
+                letter-spacing: 15px;
+                text-transform: uppercase;
+                // float: right;
+                text-align: center;
+                max-width: 525px;
+                margin: 0 auto;
+                margin-bottom: 40px;
+            }
+            .bs-heading{
+                text-align: center;
+                margin-bottom: 50px;
+            }
+        }
+        .bs-btn{
+        //   position: absolute;
+        //   left: 20%;
+        //   bottom: 28%;
+            position: relative;
+            left: 0;
+            bottom: 0;
+        }
+    }
+    &.typ-blog-bnnr{
+        background-color: $clr-theme;
+        min-height: 500px;
+        position: relative;
+        overflow: hidden;
+        .bs-heading.typ-white {
+            color: #fff;
+            border: none;
+            font-size: 90px;
+            margin: 0 auto;
+            width: 90%;
+            position: relative;
+            z-index: 1;
+            padding-top: 100px;
+            text-align: center;
+        }
+        &::after{
+            content: url("../images/bnnr-patch.png");
+            position: absolute;
+            top: -14%;
+            left: 0;
+            min-height: 300px;
+            width: 100%;
+            background-size: contain!important;
+        }
+    }
+    &.typ-films{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        min-height: 513px;
+    }
+    .bnnr-title{
+        color: $clr-white;
+        font-size: 50px;
+        font-family: $fnt1;
+        font-weight: $font-bold;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: $lgdesktop-breakpoint) { 
+    .bs-banner{
+        .titlebx{
+            .bs-heading{
+                font-size: 160px;
+            }
+            .content-wrapper{
+                margin-left: -340px;
+            }
+        }
+        .bnnr-title{
+            font-size: 72px;
+        }
+        figure{
+            .homebnnr{
+                height: auto;
+            }
+        }
+        &.typ-full{
+            min-height: 550px;
+            .titlebx{
+                height: 108%;
+                .subtitle{
+                    font-size: 20px;
+                }
+                .bs-heading{
+                    font-size: 170px;
+                    margin-top: 50px;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: $desktop-breakpoint) { 
+    .bs-banner{
+        figure{
+            .homebnnr{
+                height: auto;
+            }
+        }
+        &.typ-full{
+            .bs-btn{
+                bottom: 10%;
+            }
+        }
+        &.typ-blog-bnnr{
+            min-height: 420px;
+            .bs-heading.typ-white {
+                width: 100%;
+                text-align: center;
+                padding-top: 20px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: $tablet-breakpoint) { 
+    .bs-banner{ 
+        figure{
+            .homebnnr{
+                height: 453px;
+            }
+        }
+        .titlebx{
+            top: 10px;
+            right: 10px;
+            width: 100%;
+            .content-wrapper {
+                margin-left: -15px;
+                // padding-top: 310px;
+                padding-top: 195px;
+            }
+            // .subtitle {
+            //     // margin-top: 325px;
+            // }
+        }
+        &.typ-full{
+            .titlebx{
+                width: 100%;                
+                margin: 0 auto;
+                // border-left: 0;
+                // border-right: 0;
+                left: 0;
+                transform: translate(0);
+            }
+            .bs-btn{
+                bottom: 0;
+            }
+        }
+        &.typ-blog-bnnr{
+            min-height: 382px;
+            .bs-heading.typ-white {
+                font-size: 60px;
+                padding-top: 10px;
+                text-align: center;
+            }
+        }
+        &.typ-films{
+            margin: 0 30px;
+        }
+    }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .bs-banner{
+        figure{
+            .homebnnr{
+                height: auto;
+            }
+        }
+        .titlebx{
+            top: 10px;
+            right: 10px;
+            width: 100%;
+            .content-wrapper {
+                // margin-left: -15px;
+                // padding-top: 85px;
+                // margin-left: 0;
+                padding-top: 30px;
+            }
+            .subtitle {
+                // margin-top: 128px;
+                font-size: 20px;
+               
+            }
+        }
+        &.typ-full{
+            min-height: 300px;
+            .titlebx{
+                width: 100%;                
+                padding: 50px 4px;
+                z-index: 2;
+                top: -13px;
+                .subtitle{
+                    max-width: 100%;
+                    letter-spacing: 6px;
+                    font-size: 14px;
+                    // margin-bottom: 20px;
+                    margin-bottom: 3px;
+                }
+                .bs-heading{
+                    font-size: 76px;
+                    margin-top: 0;
+                }
+            }
+            .bs-btn {
+                bottom: 0;
+            //     left: 50%;
+            //     transform: translate(-50%);
+            }
+        }
+        &.typ-blog-bnnr{
+            min-height: 285px;
+            .bs-heading.typ-white {
+                font-size: 30px;
+                padding-top: 9px;
+                text-align: center;
+            }
+        }
+        .bnnr-title{
+            font-size: 38px;
+        }
+        &.typ-films{
+            // min-height: 300px;
+            // min-height: auto;
+
+            margin: 0 15px;
+            background-position: center !important;
+        }
+    }
+}

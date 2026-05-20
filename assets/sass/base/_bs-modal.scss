@@ -1,0 +1,33 @@
+.bs-modal{
+    
+    .modal-dialog {
+        max-width: 800px;
+        margin: 30px auto;
+        .modal-body{
+            .close{
+                color: $clr-white;
+                opacity: 1;
+            }
+                .close:focus{
+                    outline: none;
+                }
+        }
+    }   
+  
+}
+
+@media only screen and (max-width: $tablet-breakpoint) { 
+    .bs-modal{    
+        .modal-dialog {
+            margin: 0 30px;
+        }      
+    }    
+}
+
+@media only screen and (max-width: $mobile-breakpoint) { 
+    .bs-modal{    
+        .modal-dialog {
+            margin: 0 15px;
+        }   
+    } 
+}

@@ -1,0 +1,56 @@
+.bs-form{
+    .form-group{
+        margin-bottom: 15px;
+        .form-control{
+            border: 2px solid $clr-theme;
+            border-radius: 0;
+            padding: 0.48rem .75rem;
+            outline: none;
+            &:focus{
+                box-shadow: none;
+                outline: none;
+            }
+        }
+    }
+    ::-webkit-input-placeholder { /* Edge */
+        color: $clr-theme;
+        font-size: 18px;
+        font-family: $fnt1;
+        font-weight: $font-regular;
+      }
+      
+      :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color: $clr-theme;
+        font-size: 18px;
+        font-family: $fnt1;
+        font-weight: $font-regular;
+      }
+      
+      ::placeholder {
+        color: $clr-theme;
+        font-size: 18px;
+        font-family: $fnt1;
+        font-weight: $font-regular;
+      }
+
+      &.typ-contact-form{
+          .form-group{
+            .form-control{
+                max-width: 527px;
+              }
+          }
+      }
+}
+
+
+@media only screen and (max-width: $mobile-breakpoint) {
+    .bs-form{
+        &.typ-contact-form{
+            .form-group{
+              .form-control{
+                  max-width: 100%;
+                }
+            }
+        }
+    }
+}

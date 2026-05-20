@@ -1,0 +1,34 @@
+.bs-pagecontact{
+    .confileds{
+        padding-bottom: 20px;
+        .con-name{
+            color: $clr-conttext;
+            font-size: 30px;
+            font-weight: $font-bold;
+            font-family: $fnt1;
+            margin-bottom: 0px;
+        }
+        .cont-tel{
+           a{
+            color: $clr-conttext;
+            font-size: 24px;
+            font-weight: $font-regular;
+            font-family: $fnt1;
+           }
+        }
+    }
+
+}
+
+@media only screen and (max-width: $mobile-breakpoint) {
+    .bs-pagecontact{
+        .confileds{
+            .con-name{
+                font-size: 24px;
+            }
+            .cont-tel{
+                font-size: 18px;
+            }
+        }
+    }
+}

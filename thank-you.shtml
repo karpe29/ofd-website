@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        <section class="lyt-section typ-bmt-p-0 typ-section-one">
+            <div class="container">
+                <h2 class="bs-heading with-btm-line typ-brown-heading typ-contmob">contact us</h2>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="bs-pagecontact">
+                            <div class="confileds ">
+                                <p class="con-name">Emmanuel</p>
+                                <p class="cont-tel"><a href="tel:+9959364642"> 9959364642</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">Arpita</p>
+                                <p class="cont-tel"><a href="tel:+917226009343"> 7226009343</a></p>
+                            </div>
+                            <!-- <div class="confileds ">
+                                <p class="con-name">sandeep</p>
+                                <p class="cont-tel"><a href="tel:+919696619858"> +91 96-96-619858</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">rushi</p>
+                                <p class="cont-tel"><a href="tel:+919503959358"> +91 95-03-959358</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">bhaskar</p>
+                                <p class="cont-tel"><a href="tel:+919550501094"> +91 95-50-501094</a></p>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div>
+                            <figure class="btn-sunflower">
+                                <img src="assets/images/sunflower-banner.png" alt="Flowers">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <span class="cm-seprator typ-contact"></span>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-thank-you">
+            <div class="container">
+                <div class="mod-chat-box typ-thankyou">
+                    <p>Thank you !</p>
+                </div>
+                <p class="subtitle">We appreciate you taking the time to write us. Our team will reach out to you shortly.</p>
+            </div>
+        </section>
+
+        <!-- section bottom start -->
+        <section class="lyt-section btm-sticky">
+            <figure class="btm-vector typ-cont-btm-vector">
+                <img src="assets/images/sunflower.png" alt="Flowers">
+            </figure>
+        </section>
+        <!-- section bottom end -->
+
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding | Blogs</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+            <section class="lyt-blog typ-section-one">
+                <img src="assets/images/blog-landing-patch.png" alt="img" class="top-sticky-patch">
+                <div class="container">
+                    <h2 class="bs-heading typ-white with-btm-line">blog</h2>
+                    <div class="bs-masonary typ-blog-landing">
+                        <div id="bloglandingmasonryGrid">
+                            <div class="grid">
+                                <div class="grid-item typ-large">
+                                    <a href="monisha-monish1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">monisha monish</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/monishamonish.jpg" alt="monisha monish">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam viverra. Cras euismod, erat vel viverra suscipit, eros libero tristique turpis, quis semper nunc augue vel justo. Nunc tortor urna, auctor sit amet, semper vel, tincidunt mollis, lorem. In adipiscing neque vel ligula.  <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <a href="deepika-chaitanya1.html" class="bs-cards typ-blog-landing-posts with-top-space d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">deepika chaitanya</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/deepikachaitanya.jpg" alt="deepika chaitanya">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="blog-detail.html" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="bs-cards  typ-blog-landing-posts hashtags d-block">
+                                        <p class="tag tag1">wedding films</p>
+                                        <p class="tag tag2">sound-design</p>
+                                        <p class="tag tag3"><span>origami</span> collage art couple shoot   <span> bts</span></p>
+                                        <p class="tag tag4">ofdspaces    ofdpeople</p>
+                                        <p class="tag tag5"><span>abstract</span> <span class="two">cinema</span> <span>travel</span></p>
+                                        <p class="tag tag6">film-editing</p>
+                                        <p class="tag tag7">Director’s cut</p>
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <a class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">film</p>
+                                        <h2 class="name">dharani-dhurva</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/dharnidhruva.jpg" alt="dharani-dhurva">
+                                        </figure>
+                                        <a href="#" class="bs-btn typ-view blog-landing-btn video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/c_nAqlPchQw" data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
+                                        <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"
+                                                            allowscriptaccess="always"></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                        <!-- <a href="#" class="bs-btn typ-view blog-landing-btn">
+                                            <span>play<i class="icon icon-down-arrow"></i></span>
+                                        </a>  -->
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                                <a href="#" class="bs-btn typ-link">Read more....</a>
+                                            </p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <a href="servani-siva1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">servani- siva</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/servanisiva.jpg" alt="servani- siva">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <!-- <div class="grid-item">
+                                    <div class="bs-cards  typ-blog-landing-posts hashtags">
+                                        <p class="tag tag1">wedding films</p>
+                                        <p class="tag tag2">sound-design</p>
+                                        <p class="tag tag3"><span>origami</span> collage art couple shoot   <span> bts</span></p>
+                                        <p class="tag tag4">ofdspaces    ofdpeople</p>
+                                        <p class="tag tag5"><span>abstract</span> <span class="two">cinema</span> <span>travel</span></p>
+                                        <p class="tag tag6">film-editing</p>
+                                        <p class="tag tag7">Director’s cut</p>
+                                    </div>
+                                </div> -->
+<div class="grid-item">
+                                    <a href="resham-wadhah1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">resham- wadhah</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/reshamwadhah.jpg" alt="resham-wadhah">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <a href="navya-bhargav1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">navya- bhargav</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/navyabhargav.jpg" alt="navya- bhargav">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+<div class="grid-item">
+                                    <a href="akhila-ram1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">akhila-ram</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/akhilaram.jpg" alt="akhila-ram">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <a href="natasha-kanishk1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">natasha-kanishk</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/natashakaniksh.jpg" alt="natasha-kanishk">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+<div class="grid-item">
+                                    <a href="manisha-raj1.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">manisha-raj</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/blog-landing/manisharaj.jpg" alt="manisha-raj">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <a href="wedding-portfolio.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <!-- <p class="sec-title">The tale of</p> -->
+                                        <h2 class="name">Wedding Portfolio</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/images-two/OFD_North_Indian_Portfolio_Final001.jpg" alt="wedding-portfolio">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <a href="photo-project-1.html" class="bs-cards typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">photo project 1</h2>
+                                        <figure class="pics"><img src="assets/images/blog-landing/deepikachaitanya.jpg" alt=""></figure>
+                                    </a>
+                                </div>
+                                <div class="grid-item">
+                                    <a href="photo-project-2.html" class="bs-cards typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">photo project 2</h2>
+                                        <figure class="pics"><img src="assets/images/blog-landing/navyabhargav.jpg" alt=""></figure>
+                                    </a>
+                                </div>
+
+                                <div class="grid-item">
+                                    <a href="photo-project-3.html" class="bs-cards typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">photo project 3</h2>
+                                        <figure class="pics"><img src="assets/images/blog-landing/reshamwadhah.jpg" alt=""></figure>
+                                    </a>
+                                </div>
+
+                                <div class="grid-item">
+                                    <a href="photo-project-4.html" class="bs-cards typ-blog-landing-posts d-block">
+                                        <p class="sec-title">The tale of</p>
+                                        <h2 class="name">photo project 4</h2>
+                                        <figure class="pics"><img src="assets/images/blog-landing/servanisiva.jpg" alt=""></figure>
+                                    </a>
+                                </div><div class="grid-item">
+                                    <a href="Chinmayee.html" class="bs-cards  typ-blog-landing-posts d-block">
+                                        <!-- <p class="sec-title">The tale of</p> -->
+                                        <h2 class="name">Chinmayee Portfolio</h2>
+                                        <figure class="pics">
+                                            <img src="assets/images/images-three/Chinmayee_Portfolio_001.jpg" alt="Chinmayee">
+                                        </figure>
+                                        <!-- <article class="description">
+                                            <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                            <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                        </article> -->
+                                    </a>
+                                </div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <figure class="btm-vector">
+                        <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Kanwal & Abhijeet</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mob-mt-150">
+                                    <img src="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet005.jpg" alt="Kanwal & Abhijeet" /> 
+                                    <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                    <a href="#" class="bs-btn typ-view bann-btn video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/dzHVx7dLtVM" data-target="#myModal"><span>view <i class="icon icon-down-arrow"></i></span></a>
+                                </div>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet001.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet001.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet002.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet002.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet003.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet003.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet004.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet004.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet005.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet005.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet006.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet006.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet007.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet007.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet008.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet008.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet009.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet009.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet010.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet010.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet011.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet011.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet012.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet012.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet013.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet013.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet014.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet014.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet015.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet015.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet016.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet016.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet017.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet017.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet018.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet018.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet019.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet019.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet020.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet020.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet021.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet021.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet022.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet022.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet023.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet023.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet024.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet024.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet025.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet025.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet026.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet026.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet027.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet027.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet028.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet028.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet029.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet029.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet030.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet030.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet031.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet031.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet032.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet032.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet033.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet033.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet034.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet034.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet035.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet035.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet036.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet036.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet037.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet037.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet038.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet038.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet039.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet039.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet040.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet040.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet041.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet041.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet042.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet042.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet043.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet043.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet044.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet044.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet045.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet045.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet046.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet046.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet047.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet047.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet048.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet048.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet049.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet049.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet050.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet050.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet051.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet051.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet052.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet052.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet053.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet053.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet054.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet054.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet055.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet055.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet056.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet056.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet057.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet057.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet058.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet058.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet059.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet059.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet060.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet060.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet061.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet061.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet062.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet062.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet063.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet063.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet064.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet064.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet065.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet065.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet066.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet066.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet067.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet067.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet068.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet068.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet069.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet069.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet070.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet070.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet071.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet071.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet072.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet072.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet073.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet073.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet074.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet074.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet075.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet075.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet076.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet076.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet077.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet077.jpg" alt="Kanwal & Abhijeet" /> 
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet078.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet078.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet079.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet079.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet080.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet080.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet081.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet081.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet082.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet082.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet083.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet083.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet084.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet084.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet085.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet085.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet086.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet086.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet087.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet087.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet088.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet088.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet089.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet089.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet090.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet090.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet091.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet091.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet092.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet092.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet093.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet093.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet094.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet094.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet095.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet095.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet096.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet096.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet097.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet097.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet098.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet098.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet099.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet099.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet100.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet100.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet101.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet101.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet102.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet102.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet103.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet103.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet104.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet104.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet105.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet105.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet106.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet106.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet107.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet107.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet108.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet108.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet109.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet109.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet110.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet110.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet111.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet111.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet111.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet111.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet112.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet112.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet113.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet113.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet114.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet114.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet115.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet115.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet116.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet116.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/kanwalabhijeet/popup/kanwal-abhijeet117.jpg" class="img-popup">
+                                        <img src="assets/images/blog/kanwalabhijeet/thumnail/kanwal-abhijeet117.jpg" alt="Kanwal & Abhijeet" /> 
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="center-para">
+                    <p>Photographs:
+                        <span class="mob-newline">
+                            Purushottam, Vishakha, Shashank, Naman
+                        </span>
+                    </p>
+                    <p>
+                        Wedding Portraits:
+                        <span>
+                            Apeksha - House of Pixels
+                        </span>
+                    </p>
+                    <p>
+                        Outfits:
+                        <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun
+                            Tahiliani, Kshitij Jalori
+                        </span>
+                    </p>
+                    <p>
+                        Makeup:
+                        <span>
+                            Deepa Verma
+                        </span>
+                    </p>
+                    <p>
+                        Entertainment:
+                        <span>
+                            Sukhbir, Dj AJ
+                        </span>
+                    </p>
+                </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post1.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post2.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post3.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

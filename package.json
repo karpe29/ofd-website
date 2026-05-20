@@ -1,0 +1,30 @@
+{
+  "name": "my-project-name",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "grunt build"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "grunt-tinypng": "^0.7.0",
+    "grunt-usemin": "^3.1.1"
+  },
+  "dependencies": {
+    "grunt-contrib-clean": "^2.0.1",
+    "grunt-ssi": "^0.2.1",
+    "jquery": "^3.7.1",
+    "jquery-lazy": "^1.7.11",
+    "latest": "^0.2.0",
+    "npm": "^10.2.4",
+    "sass": "^1.71.1",
+    "ssi": "^0.3.0"
+  }
+}

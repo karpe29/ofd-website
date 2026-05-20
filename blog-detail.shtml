@@ -1,0 +1,1510 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        
+            <section class="lyt-section typ-blog typ-section-one">
+                <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+                <div class="container">
+                    <div class="bs-banner typ-blog-bnnr">
+                        <div class="bs-breadcrum">
+                            <div class="container">
+                                <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                            </div>
+                        </div>
+                        <h2 class="bs-heading typ-white">suharsha & pranoy</h2>
+                    </div>
+                    <div class="bs-masonary">
+                        <!-- begin masonry grid-->
+                        <div id="masonryGrid">
+                            <div class="grid">
+                                <div class="grid-item large-pic">
+                                    <div class="inner-element">
+                                        <img src="assets/images/blog/blog1.jpg"/>
+                                        <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                         <a href="#" class="bs-btn typ-view bann-btn video-btn"  data-toggle="modal" data-src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>Play<i class="icon icon-down-arrow"></i></span></a>
+                                    </div>
+                                    
+                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">      
+                                            <div class="modal-body">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                    </button>        
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always"></iframe>
+                                                    </div>        
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
+                                   
+                            </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_001.jpg" class="img-popup">
+                                        <img  data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_001.jpg" /> 
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_002.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva2.jpg"/> -->
+                                            <img  data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_002.jpg" /> 
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_003.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva4.jpg"/> -->
+                                            <img  data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_003.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_004.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva5.jpg"/> -->
+                                            <img data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_004.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_005.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva6.jpg"/> -->
+                                            <img  data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_005.jpg" /> 
+                                        </a>   
+                                    </div>
+                                </div>
+
+                                <div class="grid-item typ-content">
+                                    <p>She walked in, looking like everything He ever dreamt of. He knew in that moment, this was it, this was Her! </p>
+                                    <p>
+                                    “Tanya and I had our first conversation at this stranger’s wedding, and it was like I’d known her my whole life. 
+                                    We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev
+                                    </p>
+                                    <p>
+                                    ”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya </p>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_006.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva7.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_006.jpg" /> 
+                                        </a>   
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_007.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva8.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_007.jpg" /> 
+                                        </a>   
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_008.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva10.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_008.jpg" /> 
+                                        </a>   
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_009.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva11.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_009.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_010.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva12.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_010.jpg" /> 
+                                        </a>   
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_011.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva13.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_011.jpg" /> 
+                                        </a>   
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_012.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva14.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_012.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_013.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva15.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_013.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_014.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva16.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_014.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_015.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva17.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_015.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_016.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva18.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_016.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_017.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva19.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_017.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_018.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_018.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_019.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_019.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_020.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_020.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_021.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_021.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_022.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_022.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_023.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_023.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_024.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_024.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_025.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_025.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_026.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_026.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_027.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_027.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_028.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_028.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_029.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_029.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_030.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_030.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_031.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_031.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_032.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_032.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_033.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_033.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_034.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_034.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_035.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_035.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_036.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_036.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_037.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_037.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_038.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_038.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_039.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_039.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_040.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_040.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_041.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_041.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_042.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_042.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_043.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_043.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_044.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_044.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_045.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_045.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_046.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_046.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_047.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_047.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_048.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_048.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_049.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_049.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_050.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_050.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_051.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_051.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_052.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_052.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_053.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_053.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_054.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_054.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_055.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_055.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_056.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_056.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_057.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_057.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_058.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_058.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_059.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_059.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_060.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_060.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_061.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_061.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_062.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_062.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_063.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_063.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_064.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_064.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_065.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_065.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_066.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_066.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_067.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_067.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_068.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_068.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_069.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_069.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_070.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_070.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_070.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_070.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_071.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_071.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_072.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_072.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_073.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_073.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_074.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_074.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_075.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_075.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_076.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_076.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_077.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_077.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_078.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_078.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_079.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_079.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_080.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_080.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_081.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_081.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_082.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_082.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_083.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_083.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_084.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_084.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_085.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_085.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_086.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_086.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_087.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_087.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_088.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_088.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_089.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_089.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_090.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_090.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_091.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_091.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_092.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_092.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_093.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_093.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_094.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_094.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_095.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_095.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_096.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_096.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_097.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_097.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_098.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_098.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_099.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_099.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_100.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_100.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_100.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_100.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_101.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_101.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_102.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_102.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_103.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_103.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_104.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_104.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_105.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_105.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_106.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_106.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_107.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_107.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_108.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_108.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_109.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_109.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_110.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_110.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_111.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_111.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_112.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_112.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_113.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_113.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_114.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_114.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_115.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_115.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_116.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_116.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_117.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_117.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_118.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_118.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_119.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_119.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_120.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_120.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_121.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_121.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_122.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_122.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_123.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_123.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_124.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_124.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_125.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_125.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_126.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_126.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_127.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_127.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_128.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_128.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_129.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_129.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_130.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_130.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_131.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_131.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_132.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_132.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_133.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_133.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_134.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_134.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_135.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_135.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_136.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_136.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_137.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_137.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_138.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_138.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_139.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_139.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_140.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_140.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_141.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_141.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_142.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_142.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_143.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_143.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_144.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_144.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+                                <div class="grid-item">
+                                    <div class="inner-element">
+                                        <a href="assets/images/blog/imgpopup/OFD_S_S_Prtf_145.jpg" class="img-popup">
+                                            <!-- <img src="assets/images/blog-banners/Servani Shiva20.jpg"/> -->
+                                            <img class="lazy" data-src="assets/images/blog/imgthumbnail/OFD_S_S_Prtf_145.jpg" /> 
+                                        </a>  
+                                    </div>
+                                </div>
+
+
+                                
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="center-para">
+                        <p>Photographs:
+                            <span class="mob-newline"> 
+                                Purushottam, Vishakha, Shashank, Naman
+                            </span>
+                        </p>
+                        <p>
+                                Wedding Portraits:
+                            <span>
+                                Apeksha - House of Pixels
+                            </span>
+                        </p>
+                        <p>
+                            Outfits:
+                            <span>
+                            Gaurav Gupta, Anamika Khanna, Tarun 
+                            Tahiliani, Kshitij Jalori
+                            </span>
+                        </p>
+                        <p>
+                            Makeup:
+                            <span>
+                            Deepa Verma
+                            </span>
+                        </p>
+                        <p>
+                            Entertainment:
+                            <span>
+                            Sukhbir, Dj AJ
+                            </span>
+                        </p>
+                    </div> -->
+                </div>
+            </section>
+
+         <!-- section blog post start -->
+            <section class="lyt-section mob-padding-0 typ-social">
+                <div class="container">
+                    <!-- <div class="bs-divider">
+                        <h2 class="divider line one-line">have a look at these too...</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">film</p>
+                                <h2 class="name">manvitha sanjith</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post1.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                        <a href="#" class="bs-btn typ-link">Read more....</a>
+                                    </p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">wedding story</p>
+                                <h2 class="name">mangal- snanam</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post2.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="bs-cards">
+                                <p class="sec-title">director’s cut</p>
+                                <h2 class="name">beautiful brides</h2>
+                                <figure class="pics">
+                                    <img src="assets/images/post3.jpg" alt="img">
+                                </figure>
+                                <article class="description">
+                                    <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                    <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya   <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                                </article>
+                            </div>
+                        </div>
+                    </div> -->
+                    <figure class="btm-vector">
+                        <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                    </figure>
+                </div>
+            </section>
+         <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

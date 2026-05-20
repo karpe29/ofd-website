@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <style>
+        .errorColor {
+            color: #D30000;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+        <!-- section page heading start -->
+        <!-- <section class="lyt-section typ-bmt-p-0 typ-section-one">
+            <div class="container">
+                <h2 class="bs-heading with-btm-line typ-brown-heading typ-contmob">contact us</h2>
+            </div>
+        </section> -->
+        <!-- section page heading end -->
+
+
+        <section class="lyt-section typ-bmt-p-0 typ-section-one">
+            <div class="container">
+                <h2 class="bs-heading with-btm-line typ-brown-heading typ-contmob">contact us</h2>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="bs-pagecontact">
+                            <div class="confileds ">
+                                <p class="con-name">Emmanuel</p>
+                                <p class="cont-tel"><a href="tel:+9959364642"> 9959364642</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">Arpita</p>
+                                <p class="cont-tel"><a href="tel:+917226009343"> 7226009343</a></p>
+                            </div>
+                            <!-- <div class="confileds ">
+                                <p class="con-name">sandeep</p>
+                                <p class="cont-tel"><a href="tel:+919696619858"> +91 96-96-619858</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">rushi</p>
+                                <p class="cont-tel"><a href="tel:+919503959358"> +91 95-03-959358</a></p>
+                            </div>
+                            <div class="confileds ">
+                                <p class="con-name">bhaskar</p>
+                                <p class="cont-tel"><a href="tel:+919550501094"> +91 95-50-501094</a></p>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div>
+                            <figure class="btn-sunflower">
+                                <img src="assets/images/sunflower-banner.png" alt="Flowers">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <span class="cm-seprator typ-contact"></span>
+            </div>
+        </section>
+        <?php
+// all required variables defined here
+$nameError = $emailError = $phoneErr = $enquiryErr = "";
+$name = $email = $enquiry = $phone = $enquiryErr = "";
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  if (empty($_POST["name"])) {
+    $nameError = "Name is mandatory";
+  } else {
+    $name = test_input($_POST["name"]);
+    // check if name only contains letters and whitespace
+    if (!preg_match("/^[a-zA-Z-' ]*$/",$name)) {
+      $nameError = "Only letters allowed";
+    }
+  }
+
+  if (empty($_POST["phone"])) {
+    $phoneErr = "Phone is mandatory";
+  } else {
+    $phone = test_input($_POST["phone"]);
+    // check if phone only contains letters and whitespace
+    if (!preg_match("/^[+]?[1-9][0-9]{9,14}$/",$phone)) {
+      $phoneErr = "Only number allowed";
+    }
+  }
+  
+  if (empty($_POST["email"])) {
+    $emailError = "Email is mandatory";
+  } else {
+    $email = test_input($_POST["email"]);
+    // check if e-mail address is well-formed
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+      $emailError = "Invalid email format";
+    }
+  }
+    
+  if (empty($_POST["enquiry"])) {
+    $enquiryErr = "Enquiry is mandatory";
+  } else {
+    $enquiry = test_input($_POST["enquiry"]);
+  }
+
+  $to = "hello@onefineday.co.in";
+  $headers = "From: itsme@gmail.com\r\n";
+  $subject = "Contact Form";
+  $body="";
+  $body .= "Name: ".$name."\r\n";
+  $body .= "Email: ".$email."\r\n";
+  $body .= "Mobile No.: ".$phone."\r\n";
+  $body .= "Message ".$enquiry."\r\n";
+
+  mail($to,$subject,$body);
+
+  if(empty($nameError) || empty($phoneErr) || empty($emailError) || empty($enquiryErr))
+  {
+    echo '
+    <script type="text/javascript">
+    $(document).ready(function(){
+      swal({
+        position: "top-end",
+        type: "success",
+        title: "Form submitted",
+        showConfirmButton: false,
+        timer: 90000
+      })
+    });
+    </script>
+    ';
+  }
+  else
+  {
+    echo '
+    <script type="text/javascript">
+        $(document).ready(function () {
+            swal({
+                position: "top-end",
+                type: "error",
+                title: "Error",
+                showConfirmButton: false,
+                timer: 90000
+            })
+        });
+    </script>
+    ';
+    }
+
+}
+
+function test_input($data) {
+  $data = trim($data);   
+  $data = stripslashes($data);
+  $data = htmlspecialchars($data);
+  return $data;
+}
+?>
+        <section class="lyt-section typ-contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="mod-chat-box">
+                            <p>Feeling chatty? <br>We're all ears! </p>
+                            <!-- <p><span class="errorColor">* mandatory field</span></p> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="bs-form typ-contact-form">
+                            <form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>"
+                                id="contact-form" name="contact">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" placeholder="Your Name">
+                                    <span class="errorColor">
+                                        *   <?php echo $nameError;?>
+                                    </span>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Email address">
+                                    <span class="errorColor">
+                                        *   <?php echo $emailError;?>
+                                    </span>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="phone" class="form-control" placeholder="Mobile no.">
+                                    <span class="errorColor">
+                                        *   <?php echo $phoneErr;?>
+                                    </span>
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" name="enquiry" rows="3"
+                                        placeholder="Message"></textarea>
+                                    <span class="errorColor">
+                                        *   <?php echo $enquiryErr;?>
+                                    </span>
+                                </div>
+                                <button type="submit" value="submit" class="bs-btn typ-submit">Submit</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- section bottom start -->
+        <section class="lyt-section btm-sticky">
+            <figure class="btm-vector typ-cont-btm-vector">
+                <img src="assets/images/sunflower.png" alt="Flowers">
+            </figure>
+        </section>
+        <!-- section bottom end -->
+
+
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

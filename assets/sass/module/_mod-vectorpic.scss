@@ -1,0 +1,165 @@
+.vector1{
+    position: absolute;
+    left: 0;
+    top: 32%;
+}
+.vector2{
+    position: absolute;
+    right: 0;
+    top: -29px;
+    // top: -42px;
+}
+.vector5{
+    position: absolute;
+    left: 0;
+    top: 30%;
+}
+.vector3{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.vector4{
+    position: absolute;
+    right: 0;
+    bottom: 5%;
+    z-index: 1;
+}
+.fixedtxt{
+    position: absolute;
+    left: -12%;
+    transform: rotate(-90deg);
+    font-size: 15px;
+    font-family: $fnt2;
+    font-weight: $font-light;
+    color: $clr-theme;
+    letter-spacing: 8px;
+    margin: 0;
+    top: 50px;
+    &.typ-btm-start{
+        bottom: 0;
+        top: inherit;
+    }
+    &.typ-bg-img{
+        left: 10%;
+        top: 35%;
+        font-size: 12px;
+    }
+    &.fst-text{
+        top: -50px;
+    }
+}
+.vector6{
+    position: absolute;
+    right: 0;
+    top: 0;
+    &.typ-films-listing{
+        top: 35%;
+    }
+}
+.vector7{
+    position: absolute;
+    left: 0;
+    top: -50%;
+    &.typ-blog-detail{
+        top: inherit;
+        bottom: 5%;
+    }
+}
+.fullbnnr-btm-vector{
+    // margin-top: -196px;
+    margin-top: -313px;
+    width: 650px;
+}
+.vector-flow{
+    // position: absolute;
+    // bottom:- 40%;
+    // left: 0;
+    // z-index: -1;
+    position: absolute;
+    top: 14%;
+    left: -7%;
+    z-index: 1;
+    width: 620px;
+}
+.short-video{
+    position: absolute;
+    left: -15%;
+    top: -32%;
+}
+@media only screen and (min-width: $lgdesktop-breakpoint) { 
+    .vector-flow{
+        position: absolute;
+        top:33px;
+        left: -10%;
+        z-index: 1;
+        width: 900px;
+    }
+}
+@media only screen and (max-width: $desktop-breakpoint) { 
+    .fixedtxt {
+        &.typ-bg-img{
+            left: 0px;
+        }
+    }
+    .vector7{
+        top: -35%;
+    }
+    .vector-flow {
+        position: absolute;
+        top: 17%;
+        left: -9%;
+        z-index: 1;
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: $tablet-breakpoint) {
+    .vector2{
+        top: 10px;
+    }
+    .fixedtxt {
+        top: -55%;
+        &.fst-text{
+            top: 20px;
+            left: -222px;
+        }
+        &.typ-bg-img{
+            left: -15px;
+            &.md-none{
+                display: none;
+            }
+        }
+        &.typ-btm-start{
+            bottom: 60px;
+        }
+    }
+   .vector1, .vector7{
+        display: none;
+    }
+    .vector-flow{
+        top:26%;
+        left: -10%;
+        width: 342px;
+    }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) { 
+     .vector6,.vector5,.vector4, .vector3, .vector2 .vector1,.vector-flow, .short-video{
+        display: none;
+    }
+    .vector3{
+        top: 26%;
+    } 
+    .fixedtxt{
+        top: -60%;
+        left: -25%;
+        &.fst-text{
+            top: 0;
+            left: -53%;
+        }
+    }   
+    .fullbnnr-btm-vector{
+        margin-top: -190px;
+    }
+}

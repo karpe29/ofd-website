@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+    <!-- header start -->
+    <!--#include virtual="view/brands-header.html" -->
+    <!-- header end -->
+    <meta name="google-site-verification" content="hj9V9bv83TZlSK-iixYy_bp9WVIkv6CEEhyj5D-AqAs" />
+</head>
+
+<body class="wh-min home">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <main class="brands">
+        <section class="lyt-section typ-white typ-brand brand-top typ-center" data-color="mariner">
+            <div class="container">
+                <!-- <h2 class="bs-heading typ-brands typ-fnt6">
+                    ofd for brands
+                </h2> -->
+                <p class="cm-para typ-conttext typ-fnt6">
+                    <i>“How you do anything is how you do everything”</i> <br>
+                    As an artist collective, we’ve developed a nuanced approach in showcasing brands & representing their core values, visually with our videos.
+                    Over the years, in our journey as a collective, we take joy and cherish dearly, the long standing collaborations. Our love for the craft, the challenge to ideate and disrupt, prowess to work in the unstructured, drive us to do what we do.
+                    We believe stories are all about perspective and we’re eager to know yours!
+                </p>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white typ-video-box">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-12">
+                        <div>
+                            <h2 class="bs-heading typ-brands typ-medium">
+                                The Spirit of FLAME
+                            </h2>
+                        </div>
+                        <div class="video-popup typ-top">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="assets/images/brands/the-spirit-of-flame.jpg">
+                                <img src="assets/images/brands/the-spirit-of-flame.jpg" alt="flame" style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                                    data-src="https://player.vimeo.com/video/85327439?h=4acb0a87cf"
+                                    data-target="#myModal"><i class="icon icon-play-button"></i></a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white typ-video-box">
+            <div class="container">
+                <div class="row align-items-center mob-reverse">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <h2 class="bs-heading typ-brands typ-medium">
+                            FLAME <br>
+                            Discover India Program
+                        </h2>
+                    </div>
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="video-popup">
+                            <picture>
+                                <source media="(max-width:767px)"
+                                    srcset="assets/images/brands/discover-india-program.jpg">
+                                <img src="assets/images/brands/discover-india-program.jpg" alt="flame"
+                                    style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                                    data-src="https://player.vimeo.com/video/206589827?h=c6ede0edb7&title=0&byline=0&portrait=0"
+                                    data-target="#myModal"><i class="icon icon-play-button"></i></a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white typ-video-box">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <h2 class="bs-heading typ-brands typ-medium typ-right">
+                            FLAME <br>
+                            School of Communication
+                        </h2>
+                    </div>
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                        <div class="video-popup">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="assets/images/brands/flame-2.jpg">
+                                <img src="assets/images/brands/flame-2.jpg" alt="flame" style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                                    data-src="https://player.vimeo.com/video/189261403?h=314a474589&title=0&byline=0&portrait=0"
+                                    data-target="#myModal"><i class="icon icon-play-button"></i></a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white typ-video-box">
+            <div class="video-popup typ-top">
+                <picture>
+                    <source media="(max-width:767px)" srcset="assets/images/brands/serves-tasty-food.jpg">
+                    <img src="assets/images/brands/serves-tasty-food.jpg" alt="flame" style="width:100%;">
+                </picture>
+                <div>
+                    <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                        data-src="https://player.vimeo.com/video/211064122?h=e339679428" data-target="#myModal">
+                        <span class="btn-txt txt-top">Le Plaisir</span>
+                        <i class="icon icon-play-button"></i>
+                        <span class="btn-txt txt-btm">Serves Tasty Food</span>
+                    </a>
+
+                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="" id="video"
+                                            allowscriptaccess="always"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-3 col-md-4 col-sm-12 align-right">
+                        <div>
+                            <img src="assets/images/brands/arts-of-hindostan.jpg" alt="">
+                        </div>
+                        <div class="p-t-30">
+                            <!-- <p class="cm-para typ-conttext typ-fnt6">
+                                <span>
+                                    some info about Arts of <br>
+                                    Hindostan vertical videos
+                                </span>
+                            </p> -->
+                            <p class="cm-para typ-fnt6">
+                                <span class="gold-txt">
+                                    Voices of <br>
+                                    Inspiration
+                                </span>
+                            </p>
+                            <!-- <p class="cm-para typ-conttext typ-fnt6">
+                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam viverra. Cras euismod,
+                                erat vel viverra suscipit, eros libero tristique turpis.
+                            </p> -->
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-12">
+                        <div>
+                            <div class="video-popup typ-top typ-m-pt-30">
+                                <picture>
+                                    <source media="(max-width:767px)" srcset="assets/images/brands/nomadic-painter.jpg">
+                                    <img src="assets/images/brands/nomadic-painter.jpg" alt="flame" style="width:100%;">
+                                </picture>
+                                <div>
+                                    <a href="https://www.instagram.com/tv/CGaNNN0gg4u/?utm_medium=copy_link"
+                                        target="_blank" class="icon-btn video-btn">
+                                        <i class="icon icon-play-button"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="video-popup typ-top typ-card-btm">
+                                <picture>
+                                    <source media="(max-width:767px)" srcset="assets/images/brands/magic-deccan.jpg">
+                                    <img src="assets/images/brands/magic-deccan.jpg" alt="flame" style="width:100%;">
+                                </picture>
+                                <div>
+                                    <a href="https://www.instagram.com/tv/CE7EwKzAooy/?utm_medium=copy_link"
+                                        target="_blank" class="icon-btn video-btn">
+                                        <i class="icon icon-play-button"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-12">
+                        <div>
+                            <div class="video-popup typ-top typ-m-pt-30">
+                                <picture>
+                                    <source media="(max-width:767px)" srcset="assets/images/brands/tricking-eye.jpg">
+                                    <img src="assets/images/brands/tricking-eye.jpg" alt="flame" style="width:100%;">
+                                </picture>
+                                <div>
+                                    <a href="https://www.instagram.com/tv/CGSYu7Egftc/?utm_medium=copy_link"
+                                        target="_blank" class="icon-btn video-btn">
+                                        <i class="icon icon-play-button"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="video-popup typ-top typ-card-btm">
+                                <picture>
+                                    <source media="(max-width:767px)" srcset="assets/images/brands/lady-tanpura.jpg">
+                                    <img src="assets/images/brands/lady-tanpura.jpg" alt="flame" style="width:100%;">
+                                </picture>
+                                <div>
+                                    <a href="https://www.instagram.com/tv/CDTq8GOgIQI/?utm_medium=copy_link"
+                                        target="_blank" class="icon-btn video-btn">
+                                        <i class="icon icon-play-button"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-theme-dark">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-12">
+                        <div class="video-popup typ-top">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="assets/images/brands/flipkar-video.jpg">
+                                <img src="assets/images/brands/flipkar-video.jpg" alt="flame" style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn inline-txt" data-toggle="modal"
+                                    data-src="https://www.youtube.com/embed/c_nAqlPchQw"
+                                    data-target="#myModal"><span>flipkart Video</span><i
+                                        class="icon icon-play-button"></i></a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white fullbnnr t-pb-0 m-pb-0">
+            <div class="video-popup typ-reels">
+                <picture>
+                    <source media="(max-width:767px)" srcset="assets/images/brands/show-reels.jpg">
+                    <img src="assets/images/brands/show-reels.jpg" alt="flame" style="width:100%;">
+                </picture>
+                <div>
+                    <a href="#" class="icon-btn video-btn inline-txt" data-toggle="modal"
+                        data-src="//player.vimeo.com/video/225666333?h=e6df913990&portfolio_id=797237"
+                        data-target="#myModal">
+                        <span>show <br>
+                            reel</span>
+                        <i class="icon icon-play-button"></i></a>
+
+                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                        aria-labelledby="videoModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="" id="video"
+                                            allowscriptaccess="always"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="lyt-section typ-white typ-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <div>
+
+                            <img src="assets/images/brands/good-earth.jpg" alt="">
+                        </div>
+                        <div>
+                            <p class="cm-para typ-conttext typ-fnt6">
+                                Bosporus ‘21
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row p-t-30">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="video-popup typ-top">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="assets/images/brands/card-1.jpg">
+                                <img src="assets/images/brands/card-1.jpg" alt="flame" style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                                    data-src="https://www.youtube.com/embed/JMHTVz-phvg" data-target="#myModal">
+                                    <i class="icon icon-play-button"></i>
+                                </a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="video-popup typ-top typ-m-pt-30">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="assets/images/brands/card-2.jpg">
+                                <img src="assets/images/brands/card-2.jpg" alt="flame" style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                                    data-src="https://www.youtube.com/embed/s5cqaldEnuQ" data-target="#myModal">
+                                    <i class="icon icon-play-button"></i>
+                                </a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                        <div class="video-popup typ-top typ-m-pt-30">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="assets/images/brands/card-3.jpg">
+                                <img src="assets/images/brands/card-3.jpg" alt="flame" style="width:100%;">
+                            </picture>
+                            <div>
+                                <a href="#" class="icon-btn video-btn" data-toggle="modal"
+                                    data-src="https://www.youtube.com/embed/2L0Ugz1lIis" data-target="#myModal">
+                                    <i class="icon icon-play-button"></i>
+                                </a>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
+                                    aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video"
+                                                        allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/brands-footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+.bs-divider {
+  // Base Divider class
+  .divider {
+    display: flex;
+
+    &:before,
+    &:after {
+      content: "";
+      flex: 1;
+    }
+  }
+
+  // Base line
+  .line {
+    align-items: center;
+    margin: 0 -1em;
+    color: $clr-theme;
+    font-size: 30px;
+    // margin: 1em -1em;
+
+    &:before,
+    &:after {
+      height: 1px;
+      margin: 0 0.5em;
+    }
+  }
+
+  .one-line {
+    &:before,
+    &:after {
+      background: $clr-theme;
+    }
+  }
+}
+
+@media only screen and (max-width: $mobile-breakpoint) {
+  .bs-divider {
+    .line {
+      border-top: 1px solid $clr-theme;
+      padding-top: 10px;
+    }
+  }
+}

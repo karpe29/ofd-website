@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lekton:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italiana:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Expanded:wght@400;500;600;700;800;900&display=swap');
+
+$clr-white:#ffffff;
+$clr-theme:#d2ab67;
+$clr-theme-dark:#996633;
+$clr-black:#000000;
+$clr-base: #f2f0f0;
+$clr-red:#f0596e;
+$clr-dark: #77551b;
+$clr-gray:#817a76;
+$clr-darkbrown:#2f2108;
+$clr-default:#bb964e;
+$clr-conttext: #666666;
+/* font weight */
+$font-light:300;
+$font-regular:400;
+$font-medium:500;
+$font-semibold:600;
+$font-bold:700;
+$font-black:900;
+
+$fnt1:'Lekton', sans-serif;
+$fnt2:'Lato', sans-serif;
+$fnt3:'Italiana', sans-serif;
+$fnt4:'FoglihtenNo07', sans-serif;
+$fnt5:'IM Fell Double Pica', serif;
+$fnt6:'Encode Sans Semi Expanded', sans-serif;
+
+/* breakpoints */
+$smlmobile-breakpoint: 320px;
+$mobile-breakpoint: 767px;
+$tablet-breakpoint:992px;
+$desktop-breakpoint:1024px;
+$lgdesktop-breakpoint:1600px;

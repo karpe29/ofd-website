@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Monisha & Monish</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mob-mt-150">
+                                    <img src="assets/images/blog/monishamonish/popup/monisha-monish075.jpg" />
+                                    <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                    <!-- <a href="#" class="bs-btn typ-view bann-btn video-btn" data-toggle="modal" src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>view <i class="icon icon-down-arrow"></i></span></a> -->
+                                </div>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish001.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish001.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish002.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish002.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish003.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish003.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish004.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish004.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish005.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish005.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish006.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish006.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish007.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish007.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish008.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish008.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish009.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish009.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish010.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish010.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish011.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish011.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish012.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish012.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish013.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish013.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish014.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish014.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish015.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish015.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish016.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish016.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish017.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish017.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish018.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish018.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish019.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish019.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish020.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish020.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish021.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish021.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish022.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish022.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish023.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish023.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish024.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish024.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish025.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish025.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish026.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish026.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish027.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish027.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish028.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish028.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish029.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish029.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish030.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish030.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish031.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish031.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish032.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish032.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish033.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish033.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish034.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish034.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish035.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish035.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish036.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish036.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish037.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish037.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish038.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish038.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish039.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish039.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish040.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish040.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish041.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish041.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish042.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish042.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish043.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish043.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish044.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish044.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish045.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish045.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish046.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish046.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish047.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish047.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish048.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish048.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish049.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish049.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish050.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish050.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish051.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish051.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish052.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish052.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish053.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish053.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish054.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish054.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish055.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish055.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish056.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish056.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish057.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish057.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish058.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish058.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish059.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish059.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish060.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish060.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish061.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish061.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish062.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish062.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish063.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish063.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish064.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish064.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish065.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish065.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish066.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish066.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish067.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish067.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish068.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish068.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish069.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish069.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish070.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish070.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish071.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish071.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish072.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish072.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish073.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish073.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish074.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish074.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish075.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish075.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/monishamonish/popup/monisha-monish076.jpg" class="img-popup">
+                                        <img src="assets/images/blog/monishamonish/thumnail/monisha-monish076.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="center-para">
+                <p>Photographs:
+                    <span class="mob-newline">
+                        Purushottam, Vishakha, Shashank, Naman
+                    </span>
+                </p>
+                <p>
+                    Wedding Portraits:
+                    <span>
+                        Apeksha - House of Pixels
+                    </span>
+                </p>
+                <p>
+                    Outfits:
+                    <span>
+                        Gaurav Gupta, Anamika Khanna, Tarun
+                        Tahiliani, Kshitij Jalori
+                    </span>
+                </p>
+                <p>
+                    Makeup:
+                    <span>
+                        Deepa Verma
+                    </span>
+                </p>
+                <p>
+                    Entertainment:
+                    <span>
+                        Sukhbir, Dj AJ
+                    </span>
+                </p>
+            </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post1.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post2.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post3.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->    
+    <!-- js group end -->
+</body>
+
+</html>

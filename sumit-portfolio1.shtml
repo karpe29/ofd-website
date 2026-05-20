@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>One fine day Wedding</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+</head>
+
+<body class="wh-min">
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+
+    <main>
+
+        <section class="lyt-section typ-blog typ-section-one">
+            <img src="assets/images/vector7.png" alt="img" class="vector7 typ-blog-detail">
+            <div class="container">
+                <div class="bs-banner typ-blog-bnnr">
+                    <div class="bs-breadcrum">
+                        <div class="container">
+                            <a href="blog-landing.html"><i class="icon icon-back"></i>Back</a>
+                        </div>
+                    </div>
+                    <h2 class="bs-heading typ-white">Sumit & Portfolio</h2>
+                </div>
+                <div class="bs-masonary">
+                    <!-- begin masonry grid-->
+                    <div id="masonryGrid">
+                        <div class="grid">
+                            <div class="grid-item large-pic">
+                                <div class="inner-element typ-mob-mt-150">
+                                    <img src="assets/images/blog/sumitportfolio/popup/sumit-portfolio019.jpg" />
+                                    <!-- <a href="#" class="bs-btn"><span>play <i class="icon icon-down-arrow"></i></span></a> -->
+                                    <a href="#" class="bs-btn typ-view bann-btn video-btn" data-toggle="modal" src="https://www.youtube.com/embed/MzBLwLckxX8" data-target="#myModal"><span>view <i class="icon icon-down-arrow"></i></span></a>
+                                </div>
+
+                                <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <div class="embed-responsive embed-responsive-16by9">
+                                                    <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio001.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio001.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio002.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio002.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio003.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio003.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio004.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio004.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio005.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio005.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio006.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio006.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio007.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio007.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio008.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio008.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio009.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio009.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio010.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio010.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio011.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio011.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio012.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio012.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio013.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio013.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio014.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio014.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio015.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio015.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio016.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio016.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio017.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio017.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio018.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio018.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio019.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio019.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio020.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio020.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio021.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio021.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio022.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio022.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio023.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio023.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio024.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio024.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio025.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio025.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio026.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio026.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio027.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio027.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio028.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio028.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio029.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio029.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio030.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio030.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio031.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio031.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio032.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio032.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio033.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio033.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio034.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio034.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio035.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio035.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio036.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio036.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio037.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio037.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio038.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio038.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio039.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio039.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio040.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio040.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio041.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio041.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio042.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio042.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio043.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio043.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio044.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio044.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio045.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio045.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio046.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio046.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio047.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio047.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio048.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio048.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio049.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio049.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio050.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio050.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio051.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio051.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio052.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio052.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio053.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio053.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio054.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio054.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio055.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio055.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio056.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio056.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio057.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio057.jpg" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio058.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio058.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio059.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio059.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio060.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio060.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio061.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio061.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio062.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio062.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio063.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio063.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio064.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio064.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio065.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio065.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio066.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio066.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio067.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio067.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio068.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio068.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio069.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio069.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio070.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio070.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio071.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio071.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio072.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio072.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio073.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio073.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio074.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio074.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio075.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio075.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio076.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio076.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio077.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio077.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio078.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio078.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio079.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio079.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio080.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio080.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio081.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio081.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio082.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio082.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio083.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio083.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio084.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio084.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio085.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio085.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio086.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio086.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio087.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio087.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio088.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio088.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio089.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio089.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio090.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio090.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio091.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio091.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio092.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio092.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio093.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio093.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio094.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio094.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio095.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio095.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio096.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio096.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio097.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio097.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio098.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio098.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio099.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio099.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio100.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio100.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio101.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio101.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio102.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio102.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio103.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio103.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio104.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio104.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio105.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio105.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio106.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio106.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio107.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio107.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio108.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio108.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio109.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio109.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio110.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio110.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio111.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio111.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio111.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio111.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="inner-element">
+                                    <a href="assets/images/blog/sumitportfolio/popup/sumit-portfolio112.jpg" class="img-popup">
+                                        <img src="assets/images/blog/sumitportfolio/thumnail/sumit-portfolio112.jpg" />
+                                        <!-- <img src="assets/images/blog-banners/Servani Shiva1.jpg"/> -->
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="center-para">
+                <p>Photographs:
+                    <span class="mob-newline">
+                        Purushottam, Vishakha, Shashank, Naman
+                    </span>
+                </p>
+                <p>
+                    Wedding Portraits:
+                    <span>
+                        Apeksha - House of Pixels
+                    </span>
+                </p>
+                <p>
+                    Outfits:
+                    <span>
+                        Gaurav Gupta, Anamika Khanna, Tarun
+                        Tahiliani, Kshitij Jalori
+                    </span>
+                </p>
+                <p>
+                    Makeup:
+                    <span>
+                        Deepa Verma
+                    </span>
+                </p>
+                <p>
+                    Entertainment:
+                    <span>
+                        Sukhbir, Dj AJ
+                    </span>
+                </p>
+            </div> -->
+            </div>
+        </section>
+
+        <!-- section blog post start -->
+        <section class="lyt-section mob-padding-0 typ-social">
+            <div class="container">
+                <!-- <div class="bs-divider">
+                    <h2 class="divider line one-line">have a look at these too...</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">film</p>
+                            <h2 class="name">manvitha sanjith</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post1.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya
+                                    <a href="#" class="bs-btn typ-link">Read more....</a>
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">wedding story</p>
+                            <h2 class="name">mangal- snanam</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post2.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="bs-cards">
+                            <p class="sec-title">director’s cut</p>
+                            <h2 class="name">beautiful brides</h2>
+                            <figure class="pics">
+                                <img src="assets/images/post3.jpg" alt="img">
+                            </figure>
+                            <article class="description">
+                                <p>We just clicked, it was a feeling I had never experienced before; it was practically magic.” -Neev</p>
+                                <p>”Being with Neev is a blessing and the wedding we had was truly magical!“- Tanya <a href="#" class="bs-btn typ-link">Read more....</a></p>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+                <figure class="btm-vector">
+                    <img src="assets/images/blog-btm-vector.png" alt="Flowers">
+                </figure>
+            </div>
+        </section>
+        <!-- section blog post end -->
+    </main>
+
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+
+    <!-- js group start -->
+<!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+</body>
+
+</html>
