@@ -1,4 +1,9 @@
 module.exports = function(grunt) {
+    // GitHub Pages artifacts should stay under ~1 GB. The blog image tree is ~1.2 GB alone.
+    var omitBlogForPages =
+        process.env.CI_PAGES_OMIT_BLOG === '1' ||
+        process.env.CI_PAGES_OMIT_BLOG === 'true';
+
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
         ssi: {
@@ -120,7 +125,7 @@ module.exports = function(grunt) {
             images: {
                 expand: true,
                 cwd: 'assets/images/',
-                src: '**',
+                src: omitBlogForPages ? ['**', '!blog/**'] : '**',
                 dest: 'build/assets/images/'
             },
             fonts: {

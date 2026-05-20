@@ -36,7 +36,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # Omit blog gallery images (~1.2 GB) so the Pages artifact stays under GitHub's ~1 GB limit.
       - name: Build site
+        env:
+          CI_PAGES_OMIT_BLOG: "true"
         run: npm run build
 
       - name: Add .nojekyll
