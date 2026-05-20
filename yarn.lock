@@ -1739,13 +1739,6 @@ grunt-sass@^3.1.0:
   resolved "https://registry.npmjs.org/grunt-sass/-/grunt-sass-3.1.0.tgz"
   integrity sha512-90s27H7FoCDcA8C8+R0GwC+ntYD3lG6S/jqcavWm3bn9RiJTmSfOvfbFa1PXx4NbBWuiGQMLfQTj/JvvqT5w6A==
 
-grunt-ssi@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/grunt-ssi/-/grunt-ssi-0.2.1.tgz"
-  integrity sha512-cNzp/HB541FWU7JgtyFKVzw0Pe8YDq5mrDAUMqXiCW1IaTRee03T34G6Ri9fAMMfrOB6SQp906t57zbg0VXnJA==
-  dependencies:
-    node.extend "~1.0.9"
-
 grunt-tinypng@^0.7.0:
   version "0.7.0"
   resolved "https://registry.npmjs.org/grunt-tinypng/-/grunt-tinypng-0.7.0.tgz"
@@ -1768,7 +1761,7 @@ grunt-usemin@^3.1.1:
     lodash "^3.6.0"
     path-exists "^1.0.0"
 
-grunt@^1.6.1:
+grunt@^1.6.1, grunt@>=0.4.0, grunt@>=0.4.2, grunt@>=0.4.5, grunt@>=1:
   version "1.6.1"
   resolved "https://registry.npmjs.org/grunt/-/grunt-1.6.1.tgz"
   integrity sha512-/ABUy3gYWu5iBmrUSRBP97JLpQUm0GgVveDCp6t3yRNIoltIYw7rEj3g5y1o2PGPR2vfTRGa7WC/LZHLTXnEzA==
@@ -2186,11 +2179,6 @@ is-wsl@^1.1.0:
   version "1.1.0"
   resolved "https://registry.npmjs.org/is-wsl/-/is-wsl-1.1.0.tgz"
   integrity sha512-gfygJYZ2gLTDlmbWMI0CE2MwnFzSN/2SZfkMlItC4K/JBlsWVDB0bO6XhqcY13YXE7iMcAJnzTCJjPiTeJJ0Mw==
-
-is@~0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npmjs.org/is/-/is-0.3.0.tgz"
-  integrity sha512-WS0SSOCjAYLmQyBSKutk8y2UecAHFwKqI5zRlTskSUwI7ZG8RRO+yLGyCQPlnC8l/BrGy+76wG9FbKAxzz3B4Q==
 
 isarray@~1.0.0:
   version "1.0.0"
@@ -2762,13 +2750,6 @@ node-gyp@~3.6.0:
 
 node-uuid@~1.4.7:
   version "1.4.7"
-
-node.extend@~1.0.9:
-  version "1.0.10"
-  resolved "https://registry.npmjs.org/node.extend/-/node.extend-1.0.10.tgz"
-  integrity sha512-JKrWcPkV4WXDwiBowNu0UW79nc7YuYPvVWiUnWsuWWas15VAC8FJgIfXj5XHPxgHoWddixj3uGvt0cYltZck0w==
-  dependencies:
-    is "~0.3.0"
 
 nopt@^8.0.0:
   version "8.0.0"

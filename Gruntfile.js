@@ -168,9 +168,6 @@ module.exports = function(grunt) {
         },
     });
 
-    var ssi = require("ssi");
-
-    grunt.loadNpmTasks('grunt-ssi');
     grunt.loadNpmTasks('grunt-sass');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-usemin');

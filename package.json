@@ -19,7 +19,6 @@
   },
   "dependencies": {
     "grunt-contrib-clean": "^2.0.1",
-    "grunt-ssi": "^0.2.1",
     "jquery": "^3.7.1",
     "jquery-lazy": "^1.7.11",
     "latest": "^0.2.0",
