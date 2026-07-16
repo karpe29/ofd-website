@@ -24,10 +24,19 @@ Git is the source of truth. Photos live on shared S3 `weddings/media/`. The live
 7. Commit **JSON + shtml** only — never staging photos or `.env`.
 8. Push `dev` for Pages preview, `main` for S3 site.
 
-## Homepage carousel
+## Content sources (edit these)
 
-Edit `data/homepage.json` (`carousel` array order = slide order).  
-To put a slide image on S3: `content:upload -- --home-slot N --file …` then `--execute` when confirmed.
+| Area | File(s) |
+|------|---------|
+| Homepage (carousel, collage, letter, album, films, artists, insta) | `data/homepage.json` |
+| Blog landing cards | `data/blog-landing.json` |
+| Masonry galleries (couples + nandi/sumit) | `data/blogs/<slug>.json` |
+| Stack portfolios (Chinmayee, wedding-portfolio, photo-projects) | `data/portfolios/<slug>.json` |
+| Films landing | `data/films-landing.json` |
+| Films listing | `data/films-listing.json` |
+
+Image **order** in galleries = array order in JSON.
+
 
 ## Rules for agents
 

@@ -5,6 +5,7 @@
     "build": "grunt build",
     "content:upload": "node scripts/content-upload.js",
     "content:gc": "node scripts/content-gc.js",
+    "content:migrate-media": "node scripts/migrate-assets-to-s3.js",
     "json2html": "node scripts/json2html.js"
   },
   "devDependencies": {

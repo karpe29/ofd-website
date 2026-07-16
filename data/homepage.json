@@ -21,5 +21,164 @@
       "title": "Akshitha Yudish",
       "href": "films-landing.html"
     }
+  ],
+  "collage": [
+    {
+      "id": "sec-01",
+      "layout": "default",
+      "title": "saloni ~ rishabh",
+      "dataContent": "saloni ~ rishabh",
+      "href": "saloni-rishab1.html",
+      "images": {
+        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic1.jpg",
+        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic2.jpg",
+        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic3.jpg"
+      }
+    },
+    {
+      "id": "sec-02",
+      "layout": "reverse",
+      "title": "akhila ~ ram",
+      "dataContent": "akhila ~ ram",
+      "href": "akhila-ram1.html",
+      "images": {
+        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic5.jpg",
+        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic6.jpg",
+        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic4.jpg"
+      }
+    },
+    {
+      "id": "sec-03",
+      "layout": "updown",
+      "title": "natasha ~ kanishk",
+      "dataContent": "natasha ~ kanishk",
+      "href": "natasha-kanishk1.html",
+      "images": {
+        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic7.jpg",
+        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic9.jpg",
+        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic8.jpg"
+      }
+    }
+  ],
+  "letterBanner": {
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/fullbnnr.jpg",
+    "mobileImage": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/mob-bnnr.jpg",
+    "subtitle": "A letter to the bride",
+    "title": "dharani dhruva",
+    "videoUrl": "https://www.youtube.com/embed/c_nAqlPchQw"
+  },
+  "albumRows": [
+    {
+      "layout": "right",
+      "title": "akhila ~ ram",
+      "href": "akhila-ram1.html",
+      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic4.jpg",
+      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic5.jpg",
+      "smallClass": "shreya"
+    },
+    {
+      "layout": "left",
+      "title": "manisha ~ raj",
+      "href": "manisha-raj1.html",
+      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic4.jpg",
+      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic3.jpg",
+      "smallClass": "shiva"
+    },
+    {
+      "layout": "right",
+      "title": "dharani ~ dhruva",
+      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic5.jpg",
+      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic6.jpg"
+    }
+  ],
+  "albumCta": {
+    "text": "a decade spanning collection <span class=\"mob\">of our wedding pictures</span>",
+    "href": "blog-landing.html",
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/spreadpatchone.png"
+  },
+  "filmTiles": [
+    {
+      "side": "left",
+      "label": "wedding film",
+      "titleHtml": "akhila <br>ram",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic10.jpg",
+      "alt": "akhila ram",
+      "videoUrl": "https://www.youtube.com/embed/6-ajXzWqN8U"
+    },
+    {
+      "side": "right",
+      "label": "wedding film",
+      "titleHtml": "akhila <br>ram",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic10.jpg",
+      "alt": "akhila ram",
+      "videoUrl": "https://www.youtube.com/embed/6-ajXzWqN8U"
+    }
+  ],
+  "filmCta": {
+    "text": "a collection of our <span>heart-winning wedding film</span>",
+    "href": "films-landing.html",
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/spreadpatchone.png"
+  },
+  "artists": [
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists1.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists2.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists3.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists4.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists5.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists6.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists7.png"
+  ],
+  "instagram": [
+    {
+      "href": "https://www.instagram.com/p/DPYyt3fkzf7/",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/insta1.jpg"
+    },
+    {
+      "href": "https://www.instagram.com/p/DKmxcM1z0An/",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_02.jpg"
+    },
+    {
+      "href": "https://www.instagram.com/p/DXEqcuVE1Z8/",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_03.jpg"
+    },
+    {
+      "href": "https://www.instagram.com/p/DXcDZvVE8Mi/",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_04.jpg"
+    },
+    {
+      "href": "https://www.instagram.com/reel/DRCrMwBE8hd/",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_05.jpg"
+    },
+    {
+      "href": "https://www.instagram.com/p/DXUOxw5jLIO/",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_06.jpg"
+    }
+  ],
+  "socialLinks": [
+    {
+      "href": "https://www.youtube.com/channel/UC2asBqlzDvxdFRXMMx4jylw",
+      "class": "typ-ytube",
+      "icon": "icon-icon_YT"
+    },
+    {
+      "href": "https://www.instagram.com/onefinedaypictures/",
+      "class": "typ-insta",
+      "icon": "icon-icon_insta"
+    },
+    {
+      "href": "https://www.facebook.com/OneFineDayArtistCollective",
+      "class": "typ-fb",
+      "icon": "icon-icon_fb"
+    },
+    {
+      "href": "https://twitter.com/OneFineDay_in",
+      "class": "typ-twitter",
+      "icon": "icon-icon_tw"
+    },
+    {
+      "href": "https://in.linkedin.com/company/onefineday",
+      "class": "typ-linkedin",
+      "icon": "icon-icon_linkedin"
+    }
   ]
 }

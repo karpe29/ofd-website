@@ -4,7 +4,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "monisha monish",
-      "image": "assets/images/blog-landing/monishamonish.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/monishamonish.jpg",
       "href": "monisha-monish1.html",
       "size": "large"
     },
@@ -12,34 +12,55 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "deepika chaitanya",
-      "image": "assets/images/blog-landing/deepikachaitanya.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/deepikachaitanya.jpg",
       "href": "deepika-chaitanya1.html",
       "size": "normal"
     },
     {
       "type": "hashtags",
       "tags": [
-        { "class": "tag1", "html": "wedding films" },
-        { "class": "tag2", "html": "sound-design" },
-        { "class": "tag3", "html": "<span>origami</span> collage art couple shoot   <span> bts</span>" },
-        { "class": "tag4", "html": "ofdspaces    ofdpeople" },
-        { "class": "tag5", "html": "<span>abstract</span> <span class=\"two\">cinema</span> <span>travel</span>" },
-        { "class": "tag6", "html": "film-editing" },
-        { "class": "tag7", "html": "Director’s cut" }
+        {
+          "class": "tag1",
+          "html": "wedding films"
+        },
+        {
+          "class": "tag2",
+          "html": "sound-design"
+        },
+        {
+          "class": "tag3",
+          "html": "<span>origami</span> collage art couple shoot   <span> bts</span>"
+        },
+        {
+          "class": "tag4",
+          "html": "ofdspaces    ofdpeople"
+        },
+        {
+          "class": "tag5",
+          "html": "<span>abstract</span> <span class=\"two\">cinema</span> <span>travel</span>"
+        },
+        {
+          "class": "tag6",
+          "html": "film-editing"
+        },
+        {
+          "class": "tag7",
+          "html": "Director’s cut"
+        }
       ]
     },
     {
       "type": "film",
       "secTitle": "film",
       "title": "dharani-dhurva",
-      "image": "assets/images/blog-landing/dharnidhruva.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/dharnidhruva.jpg",
       "videoUrl": "https://www.youtube.com/embed/c_nAqlPchQw"
     },
     {
       "type": "post",
       "secTitle": "The tale of",
       "title": "servani- siva",
-      "image": "assets/images/blog-landing/servanisiva.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/servanisiva.jpg",
       "href": "servani-siva1.html",
       "size": "normal"
     },
@@ -47,7 +68,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "resham- wadhah",
-      "image": "assets/images/blog-landing/reshamwadhah.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/reshamwadhah.jpg",
       "href": "resham-wadhah1.html",
       "size": "normal"
     },
@@ -55,7 +76,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "navya- bhargav",
-      "image": "assets/images/blog-landing/navyabhargav.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/navyabhargav.jpg",
       "href": "navya-bhargav1.html",
       "size": "normal"
     },
@@ -63,7 +84,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "akhila-ram",
-      "image": "assets/images/blog-landing/akhilaram.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/akhilaram.jpg",
       "href": "akhila-ram1.html",
       "size": "normal"
     },
@@ -71,7 +92,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "natasha-kanishk",
-      "image": "assets/images/blog-landing/natashakaniksh.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/natashakaniksh.jpg",
       "href": "natasha-kanishk1.html",
       "size": "normal"
     },
@@ -79,7 +100,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "manisha-raj",
-      "image": "assets/images/blog-landing/manisharaj.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/manisharaj.jpg",
       "href": "manisha-raj1.html",
       "size": "normal"
     },
@@ -87,7 +108,7 @@
       "type": "post",
       "secTitle": "",
       "title": "Wedding Portfolio",
-      "image": "assets/images/images-two/OFD_North_Indian_Portfolio_Final001.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/images-two/OFD_North_Indian_Portfolio_Final001.jpg",
       "href": "wedding-portfolio.html",
       "size": "normal"
     },
@@ -95,7 +116,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "photo project 1",
-      "image": "assets/images/blog-landing/deepikachaitanya.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/deepikachaitanya.jpg",
       "href": "photo-project-1.html",
       "size": "normal"
     },
@@ -103,7 +124,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "photo project 2",
-      "image": "assets/images/blog-landing/navyabhargav.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/navyabhargav.jpg",
       "href": "photo-project-2.html",
       "size": "normal"
     },
@@ -111,7 +132,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "photo project 3",
-      "image": "assets/images/blog-landing/reshamwadhah.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/reshamwadhah.jpg",
       "href": "photo-project-3.html",
       "size": "normal"
     },
@@ -119,7 +140,7 @@
       "type": "post",
       "secTitle": "The tale of",
       "title": "photo project 4",
-      "image": "assets/images/blog-landing/servanisiva.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/blog-landing/servanisiva.jpg",
       "href": "photo-project-4.html",
       "size": "normal"
     },
@@ -127,7 +148,7 @@
       "type": "post",
       "secTitle": "",
       "title": "Chinmayee Portfolio",
-      "image": "assets/images/images-three/Chinmayee_Portfolio_001.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/images-three/Chinmayee_Portfolio_001.jpg",
       "href": "Chinmayee.html",
       "size": "normal"
     }

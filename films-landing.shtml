@@ -50,18 +50,7 @@
 
         <!-- section full banner start -->
         <section class="lyt-section mob-padding-0 fullbnnr">
-            <div id="hidediv" class="bs-banner typ-full set-bg" data-img="assets/images/fullbnnr.jpg"
-                data-mob-img="assets/images/mob-bnnr.jpg">
-                <div class="container">
-                    <div class="titlebx">
-                        <h2 class="bs-heading typ-big">ishaan <br>katie</h2>
-                        <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
-                            data-src="https://player.vimeo.com/video/1174259415?h=9a59a4749a" data-target="#myModal"><span>play<i
-                                    class="icon icon-down-arrow"></i></span></a>
-                        <!-- <button class="button button--dione"><span>Resize</span></button> -->
-                    </div>
-                </div>
-            </div>
+            <!--#include virtual="view/generated/films-landing-hero.html" -->
         </section>
         <!-- section full banner end -->
 
@@ -87,99 +76,7 @@
             <div class="container-fluid ctm-containerfluid">
                 <img src="assets/images/vector6.png" alt="img" class="vector6" data-500-top="transform:translateY(100px)"
                     data-0-top="transform:translateY(0px)">
-                <div class="mod-borderbox">
-                    <div class="seperator"></div>
-                    <div class="row bs-img-txt align-items-center">
-                        <div class="col-7 col-lg-6 albumpic first-img">
-                            <p class="fixedtxt typ-bg-img">wedding film</p>
-                            <img src="assets/images/films-nidhi-ranjeev.jpg" alt="Nidhi Ranjeev" data-500-top="transform:translateY(160px)"
-                                data-0-top="transform:translateY(0px)">
-                            <h2 class="bs-heading typ-white">nidhi <br>ranjeev</h2>
-                        </div>
-                        <div class="col-5 col-lg-6">
-                            <div class="container">
-                                <div class="action-btn left-align">
-                                    <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
-                                        data-src="https://player.vimeo.com/video/864778224"
-                                        data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
-
-                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
-                                        aria-labelledby="videoModalLabel" aria-hidden="true">
-                                        <div class="modal-dialog modal-dialog-centered" role="document">
-                                            <div class="modal-content">
-                                                <div class="modal-body">
-                                                    <button type="button" class="close" data-dismiss="modal"
-                                                        aria-label="Close">
-                                                        <span aria-hidden="true">&times;</span>
-                                                    </button>
-                                                    <div class="embed-responsive embed-responsive-16by9">
-                                                        <iframe class="embed-responsive-item" src="" id="video"
-                                                            allowscriptaccess="always"></iframe>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row bs-img-txt align-items-center">
-                        <div class="col-5 col-lg-6">
-                            <div class="container">
-                                <p class="fixedtxt typ-bg-img md-none">wedding film</p>
-                                <div class="action-btn rightalign">
-                                    <a href="#" class="bs-btn typ-view video-btn" data-toggle="modal"
-                                        data-src="https://player.vimeo.com/video/1032267387?h=9d88b5abda"
-                                        data-target="#myModal"><span>play<i class="icon icon-down-arrow"></i></span></a>
-
-                                    <div class="bs-modal modal fade" id="myModal" tabindex="-1" role="dialog"
-                                        aria-labelledby="videoModalLabel" aria-hidden="true">
-                                        <div class="modal-dialog modal-dialog-centered" role="document">
-                                            <div class="modal-content">
-                                                <div class="modal-body">
-                                                    <button type="button" class="close" data-dismiss="modal"
-                                                        aria-label="Close">
-                                                        <span aria-hidden="true">&times;</span>
-                                                    </button>
-                                                    <div class="embed-responsive embed-responsive-16by9">
-                                                        <iframe class="embed-responsive-item" src="" id="video"
-                                                            allowscriptaccess="always"></iframe>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-7 col-lg-6 albumpic sec-img">
-                            <img src="assets/images/films-kaajal-utkarsh.jpg" alt="Kaajal Utkarsh" data-500-top="transform:translateY(170px)"
-                                data-0-top="transform:translateY(0px)">
-                            <h2 class="bs-heading typ-white typ-reverse brder-div">kaajal <br>utkarsh</h2>
-                        </div>
-                    </div>
-                </div>
-                <!-- <div class="mod-spread-patch typ-small typ-films">
-                    <div class="container">
-                        <div class="inner-sec set-bg" data-img="assets/images/spreadpatchtwo.png">
-                            <div class="content">
-                                <a href="films-listing.html" class="bs-btn typ-view typ-large"><span>view all films<i
-                                            class="icon icon-down-arrow"></i></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- <div class="mod-spread-patch typ-small">
-                            <div class="container">
-                                <div class="inner-sec set-bg" data-img="assets/images/spreadpatchtwo.png">
-                                    <div class="content">
-                                        <p>have a look at<span> more wedding films</span></p>
-                                        <a href="#" class="bs-btn typ-view"><span>view <i class="icon icon-down-arrow"></i></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
+                <!--#include virtual="view/generated/films-landing-tiles.html" -->
             </div>
         </section>
         <!-- section weeding films end -->
@@ -264,34 +161,7 @@
                     </div>
                     <div class="col-lg-8 col-md-7">
                         <div class="row typ-teasers-grid">
-                            <div class="col-6 ctm-cols">
-                                <div class="popup-gallery mb-20">
-                                    <a href="https://vimeo.com/888594256" class="video">
-                                        <img src="assets/images/teasers/sravya-siddharath.jpg" alt="Sravya Siddharath">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-6 ctm-cols">
-                                <div class="popup-gallery mb-20">
-                                    <a href="https://vimeo.com/888594256" class="video">
-                                        <img src="assets/images/teasers/katherine-ishaan.jpg" alt="Katherine Ishaan">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-6 ctm-cols">
-                                <div class="popup-gallery mb-20">
-                                    <a href="https://vimeo.com/888594256" class="video">
-                                        <img src="assets/images/teasers/kaajal-utkarsh.jpg" alt="Kaajal Utkarsh">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-6 ctm-cols">
-                                <div class="popup-gallery mb-20">
-                                    <a href="https://vimeo.com/888594256" class="video">
-                                        <img src="assets/images/teasers/nidhi-ranjeev.jpg" alt="Nidhi Ranjeev">
-                                    </a>
-                                </div>
-                            </div>
+                            <!--#include virtual="view/generated/films-landing-teasers.html" -->
                         </div>
                     </div>
                 </div>
@@ -305,34 +175,7 @@
                 <div class="bs-swiper typ-microvid popup-gallery">
                     <div class="swiper-container video-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <a href="https://vimeo.com/968638491" class="video">
-                                    <figure>
-                                        <img src="assets/images/reels/kaajal-utkarsh-1.png" alt="Kaajal Utkarsh">
-                                    </figure>
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="https://vimeo.com/968638223" class="video">
-                                    <figure>
-                                        <img src="assets/images/reels/kaajal-utkarsh-2.png" alt="Kaajal Utkarsh">
-                                    </figure>
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="https://vimeo.com/788244226" class="video">
-                                    <figure>
-                                        <img src="assets/images/reels/namrata-pahal.png" alt="Namrata Pahal">
-                                    </figure>
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="https://vimeo.com/788244704" class="video">
-                                    <figure>
-                                        <img src="assets/images/reels/samyukta-marcel.png" alt="Samyukta Marcel">
-                                    </figure>
-                                </a>
-                            </div>
+                            <!--#include virtual="view/generated/films-landing-reels.html" -->
                         </div>
                     </div>
                     <div class="swiper-button-next"><i class="icon icon-down-arrow"></i></div>
@@ -355,28 +198,7 @@
                             creative guys</span></h1>
                     <div class="swiper-container artists-swiper">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists1.png" alt="img">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists2.png" alt="artists">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists3.png" alt="artists">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists4.png" alt="artists">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists5.png" alt="artists">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists6.png" alt="artists">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/images/artists7.png" alt="artists">
-                            </div>
+                            <!--#include virtual="view/generated/films-landing-artists.html" -->
                         </div>
 
                     </div>

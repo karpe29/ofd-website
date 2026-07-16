@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/fullbnnr.jpg",
+    "mobileImage": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/mob-bnnr.jpg",
+    "titleHtml": "ishaan <br>katie",
+    "videoUrl": "https://player.vimeo.com/video/1174259415?h=9a59a4749a"
+  },
+  "films": [
+    {
+      "side": "left",
+      "label": "wedding film",
+      "titleHtml": "nidhi <br>ranjeev",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/films-nidhi-ranjeev.jpg",
+      "alt": "Nidhi Ranjeev",
+      "videoUrl": "https://player.vimeo.com/video/864778224"
+    },
+    {
+      "side": "right",
+      "label": "wedding film",
+      "titleHtml": "kaajal <br>utkarsh",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/films-kaajal-utkarsh.jpg",
+      "alt": "Kaajal Utkarsh",
+      "videoUrl": "https://player.vimeo.com/video/1032267387?h=9d88b5abda"
+    }
+  ],
+  "teasers": [
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/sravya-siddharath.jpg",
+      "alt": "Sravya Siddharath",
+      "videoHref": "https://vimeo.com/888594256"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/katherine-ishaan.jpg",
+      "alt": "Katherine Ishaan",
+      "videoHref": "https://vimeo.com/888594256"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/kaajal-utkarsh.jpg",
+      "alt": "Kaajal Utkarsh",
+      "videoHref": "https://vimeo.com/888594256"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/nidhi-ranjeev.jpg",
+      "alt": "Nidhi Ranjeev",
+      "videoHref": "https://vimeo.com/888594256"
+    }
+  ],
+  "reels": [
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/kaajal-utkarsh-1.png",
+      "alt": "Kaajal Utkarsh",
+      "videoHref": "https://vimeo.com/968638491"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/kaajal-utkarsh-2.png",
+      "alt": "Kaajal Utkarsh",
+      "videoHref": "https://vimeo.com/968638223"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/namrata-pahal.png",
+      "alt": "Namrata Pahal",
+      "videoHref": "https://vimeo.com/788244226"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/samyukta-marcel.png",
+      "alt": "Samyukta Marcel",
+      "videoHref": "https://vimeo.com/788244704"
+    }
+  ],
+  "artists": [
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists1.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists2.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists3.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists4.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists5.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists6.png",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists7.png"
+  ]
+}
