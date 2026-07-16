@@ -1,0 +1,25 @@
+{
+  "carousel": [
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-0.png",
+      "alt": "Kaajal Utkarsh wedding",
+      "subtitle": "a wedding film",
+      "title": "Kaajal Utkarsh",
+      "href": "films-listing.html"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-1.png",
+      "alt": "Nidhi Ranjeev wedding",
+      "subtitle": "a wedding film",
+      "title": "Nidhi Ranjeev",
+      "href": "films-landing.html"
+    },
+    {
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-2.png",
+      "alt": "Akshitha Yudish wedding",
+      "subtitle": "a wedding photo story",
+      "title": "Akshitha Yudish",
+      "href": "films-landing.html"
+    }
+  ]
+}

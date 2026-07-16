@@ -52,3 +52,10 @@ Thumbs.db
 .sass-cache
 
 .git-rewrite/
+
+# Content system
+.env
+content/staging/**
+!content/staging/.gitkeep
+view/generated/**
+!view/generated/.gitkeep

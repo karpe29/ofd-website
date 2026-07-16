@@ -35,36 +35,7 @@
                 <div class="bs-swiper typ-bnnr">
                     <div class="swiper-container bnnr-swiper">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="bs-banner">
-                                    <figure>
-                                        <img src="assets/images/weddingpic12.jpg" alt="Wedding" class="homebnnr">
-                                    </figure>
-                                    <div class="titlebx">
-                                        <div class="content-wrapper">
-                                            <p class="subtitle">a wedding photo story</p>
-                                            <h2 class="bs-heading">Natasha kanishk</h2>
-                                            <a href="blog-landing.html" class="bs-btn typ-view bann-btn"><span>view <i
-                                                        class="icon icon-down-arrow"></i></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="bs-banner">
-                                    <figure>
-                                        <img src="assets/images/weddingpic13.jpg" alt="Wedding" class="homebnnr">
-                                    </figure>
-                                    <div class="titlebx">
-                                        <div class="content-wrapper">
-                                            <p class="subtitle">a wedding film</p>
-                                            <h2 class="bs-heading">Dharani Dhruva</h2>
-                                            <a href="blog-landing.html" class="bs-btn typ-view bann-btn"><span>view <i
-                                                        class="icon icon-down-arrow"></i></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <!--#include virtual="view/generated/home-carousel.html" -->
                         </div>
                         <!-- Add Pagination -->
                         <div class="swiper-pagination"></div>

@@ -193,6 +193,22 @@ module.exports = function(grunt) {
         files.compile();
 
     });
+
+    grunt.registerTask('json2html', 'Generate SSI fragments from data/*.json', function() {
+        var done = this.async();
+        var child = require('child_process').spawn(
+            process.execPath,
+            [require('path').join(__dirname, 'scripts', 'json2html.js')],
+            { stdio: 'inherit' }
+        );
+        child.on('exit', function(code) {
+            if (code) {
+                grunt.fail.fatal('json2html failed with exit code ' + code);
+            }
+            done();
+        });
+    });
+
     grunt.registerTask('default', ['browserSync', 'watch']);
-    grunt.registerTask('build', ['sass', 'ssi', 'copy', 'usemin', 'cssmin', 'uglify', 'clean']);
+    grunt.registerTask('build', ['sass', 'json2html', 'ssi', 'copy', 'usemin', 'cssmin', 'uglify', 'clean']);
 }
