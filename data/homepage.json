@@ -1,21 +1,21 @@
 {
   "carousel": [
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-0.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-0.webp",
       "alt": "Kaajal Utkarsh wedding",
       "subtitle": "a wedding film",
       "title": "Kaajal Utkarsh",
       "href": "films-listing.html"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-1.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-1.webp",
       "alt": "Nidhi Ranjeev wedding",
       "subtitle": "a wedding film",
       "title": "Nidhi Ranjeev",
       "href": "films-landing.html"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-2.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/home/carousel-2.webp",
       "alt": "Akshitha Yudish wedding",
       "subtitle": "a wedding photo story",
       "title": "Akshitha Yudish",
@@ -30,9 +30,9 @@
       "dataContent": "saloni ~ rishabh",
       "href": "saloni-rishab1.html",
       "images": {
-        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic1.jpg",
-        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic2.jpg",
-        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic3.jpg"
+        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic1.webp",
+        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic2.webp",
+        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic3.webp"
       }
     },
     {
@@ -42,9 +42,9 @@
       "dataContent": "akhila ~ ram",
       "href": "akhila-ram1.html",
       "images": {
-        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic5.jpg",
-        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic6.jpg",
-        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic4.jpg"
+        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic5.webp",
+        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic6.webp",
+        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic4.webp"
       }
     },
     {
@@ -54,15 +54,15 @@
       "dataContent": "natasha ~ kanishk",
       "href": "natasha-kanishk1.html",
       "images": {
-        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic7.jpg",
-        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic9.jpg",
-        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic8.jpg"
+        "picone": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic7.webp",
+        "pictwo": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic9.webp",
+        "picthree": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic8.webp"
       }
     }
   ],
   "letterBanner": {
-    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/fullbnnr.jpg",
-    "mobileImage": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/mob-bnnr.jpg",
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/fullbnnr.webp",
+    "mobileImage": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/mob-bnnr.webp",
     "subtitle": "A letter to the bride",
     "title": "dharani dhruva",
     "videoUrl": "https://www.youtube.com/embed/c_nAqlPchQw"
@@ -72,36 +72,36 @@
       "layout": "right",
       "title": "akhila ~ ram",
       "href": "akhila-ram1.html",
-      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic4.jpg",
-      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic5.jpg",
+      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic4.webp",
+      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic5.webp",
       "smallClass": "shreya"
     },
     {
       "layout": "left",
       "title": "manisha ~ raj",
       "href": "manisha-raj1.html",
-      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic4.jpg",
-      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic3.jpg",
+      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic4.webp",
+      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic3.webp",
       "smallClass": "shiva"
     },
     {
       "layout": "right",
       "title": "dharani ~ dhruva",
-      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic5.jpg",
-      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic6.jpg"
+      "imageLarge": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic5.webp",
+      "imageSmall": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/albumpic6.webp"
     }
   ],
   "albumCta": {
     "text": "a decade spanning collection <span class=\"mob\">of our wedding pictures</span>",
     "href": "blog-landing.html",
-    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/spreadpatchone.png"
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/spreadpatchone.webp"
   },
   "filmTiles": [
     {
       "side": "left",
       "label": "wedding film",
       "titleHtml": "akhila <br>ram",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic10.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic10.webp",
       "alt": "akhila ram",
       "videoUrl": "https://www.youtube.com/embed/6-ajXzWqN8U"
     },
@@ -109,7 +109,7 @@
       "side": "right",
       "label": "wedding film",
       "titleHtml": "akhila <br>ram",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic10.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/pic10.webp",
       "alt": "akhila ram",
       "videoUrl": "https://www.youtube.com/embed/6-ajXzWqN8U"
     }
@@ -117,41 +117,41 @@
   "filmCta": {
     "text": "a collection of our <span>heart-winning wedding film</span>",
     "href": "films-landing.html",
-    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/spreadpatchone.png"
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/spreadpatchone.webp"
   },
   "artists": [
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists1.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists2.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists3.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists4.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists5.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists6.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists7.png"
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists1.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists2.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists3.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists4.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists5.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists6.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists7.webp"
   ],
   "instagram": [
     {
       "href": "https://www.instagram.com/p/DPYyt3fkzf7/",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/insta1.jpg"
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/insta1.webp"
     },
     {
       "href": "https://www.instagram.com/p/DKmxcM1z0An/",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_02.jpg"
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_02.webp"
     },
     {
       "href": "https://www.instagram.com/p/DXEqcuVE1Z8/",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_03.jpg"
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_03.webp"
     },
     {
       "href": "https://www.instagram.com/p/DXcDZvVE8Mi/",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_04.jpg"
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_04.webp"
     },
     {
       "href": "https://www.instagram.com/reel/DRCrMwBE8hd/",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_05.jpg"
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_05.webp"
     },
     {
       "href": "https://www.instagram.com/p/DXUOxw5jLIO/",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_06.jpg"
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/insta/instagram_06.webp"
     }
   ],
   "socialLinks": [

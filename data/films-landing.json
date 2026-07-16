@@ -1,7 +1,7 @@
 {
   "hero": {
-    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/fullbnnr.jpg",
-    "mobileImage": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/mob-bnnr.jpg",
+    "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/fullbnnr.webp",
+    "mobileImage": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/mob-bnnr.webp",
     "titleHtml": "ishaan <br>katie",
     "videoUrl": "https://player.vimeo.com/video/1174259415?h=9a59a4749a"
   },
@@ -10,7 +10,7 @@
       "side": "left",
       "label": "wedding film",
       "titleHtml": "nidhi <br>ranjeev",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/films-nidhi-ranjeev.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/films-nidhi-ranjeev.webp",
       "alt": "Nidhi Ranjeev",
       "videoUrl": "https://player.vimeo.com/video/864778224"
     },
@@ -18,62 +18,62 @@
       "side": "right",
       "label": "wedding film",
       "titleHtml": "kaajal <br>utkarsh",
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/films-kaajal-utkarsh.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/films-kaajal-utkarsh.webp",
       "alt": "Kaajal Utkarsh",
       "videoUrl": "https://player.vimeo.com/video/1032267387?h=9d88b5abda"
     }
   ],
   "teasers": [
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/sravya-siddharath.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/sravya-siddharath.webp",
       "alt": "Sravya Siddharath",
       "videoHref": "https://vimeo.com/888594256"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/katherine-ishaan.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/katherine-ishaan.webp",
       "alt": "Katherine Ishaan",
       "videoHref": "https://vimeo.com/888594256"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/kaajal-utkarsh.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/kaajal-utkarsh.webp",
       "alt": "Kaajal Utkarsh",
       "videoHref": "https://vimeo.com/888594256"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/nidhi-ranjeev.jpg",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/teasers/nidhi-ranjeev.webp",
       "alt": "Nidhi Ranjeev",
       "videoHref": "https://vimeo.com/888594256"
     }
   ],
   "reels": [
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/kaajal-utkarsh-1.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/kaajal-utkarsh-1.webp",
       "alt": "Kaajal Utkarsh",
       "videoHref": "https://vimeo.com/968638491"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/kaajal-utkarsh-2.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/kaajal-utkarsh-2.webp",
       "alt": "Kaajal Utkarsh",
       "videoHref": "https://vimeo.com/968638223"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/namrata-pahal.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/namrata-pahal.webp",
       "alt": "Namrata Pahal",
       "videoHref": "https://vimeo.com/788244226"
     },
     {
-      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/samyukta-marcel.png",
+      "image": "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/reels/samyukta-marcel.webp",
       "alt": "Samyukta Marcel",
       "videoHref": "https://vimeo.com/788244704"
     }
   ],
   "artists": [
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists1.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists2.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists3.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists4.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists5.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists6.png",
-    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists7.png"
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists1.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists2.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists3.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists4.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists5.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists6.webp",
+    "https://ofdweddingwebsite.s3.ap-south-1.amazonaws.com/weddings/media/artists7.webp"
   ]
 }

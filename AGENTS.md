@@ -24,7 +24,19 @@ Git is the source of truth. Photos live on shared S3 `weddings/media/`. The live
 7. Commit **JSON + shtml** only — never staging photos or `.env`.
 8. Push `dev` for Pages preview, `main` for S3 site.
 
-## Content sources (edit these)
+## Image delivery (consistent)
+
+All content images on S3 under `weddings/media/**` are **WebP**:
+
+| Role | Max long edge | WebP quality | Path pattern |
+|------|---------------|--------------|--------------|
+| Thumb / grid | 800px | 82 | `.../thumnail/*.webp` |
+| Full / popup / portfolio | 1800px | 85 | `.../popup/*.webp` or portfolio paths |
+| Home / films / landing tiles | 1200px | 85 | flat or section folders |
+
+Re-optimize everything: `npm run content:optimize -- --execute`  
+New uploads via `content:upload` use the same presets.
+
 
 | Area | File(s) |
 |------|---------|

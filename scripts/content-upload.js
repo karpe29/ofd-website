@@ -61,8 +61,30 @@ function contentType(file) {
 async function makeThumb(sharp, inputPath) {
   return sharp(inputPath)
     .rotate()
-    .resize({ width: 387, withoutEnlargement: true })
-    .jpeg({ quality: 80, mozjpeg: true })
+    .resize({ width: 800, withoutEnlargement: true })
+    .webp({ quality: 82, effort: 4 })
+    .toBuffer();
+}
+
+async function makeFull(sharp, inputPath) {
+  const meta = await sharp(inputPath, { failOn: 'none' }).metadata();
+  const long = Math.max(meta.width || 0, meta.height || 0);
+  let pipeline = sharp(inputPath, { failOn: 'none' }).rotate();
+  if (long > 1800) {
+    if ((meta.width || 0) >= (meta.height || 0)) {
+      pipeline = pipeline.resize({ width: 1800, withoutEnlargement: true });
+    } else {
+      pipeline = pipeline.resize({ height: 1800, withoutEnlargement: true });
+    }
+  }
+  return pipeline.webp({ quality: 85, effort: 4 }).toBuffer();
+}
+
+async function makeTile(sharp, inputPath) {
+  return sharp(inputPath, { failOn: 'none' })
+    .rotate()
+    .resize({ width: 1200, withoutEnlargement: true })
+    .webp({ quality: 85, effort: 4 })
     .toBuffer();
 }
 
@@ -122,17 +144,18 @@ async function uploadBlog(args) {
     const name = files[i];
     const fullPath = path.join(staging, name);
     const base = path.basename(name, path.extname(name));
-    const fullKey = cfg.mediaPrefix + '/blogs/' + slug + '/popup/' + base + path.extname(name).toLowerCase();
-    const thumbKey = cfg.mediaPrefix + '/blogs/' + slug + '/thumnail/' + base + '.jpg';
+    // Match existing media layout: weddings/media/blog/<slug>/...
+    const fullKey = cfg.mediaPrefix + '/blog/' + slug + '/popup/' + base + '.webp';
+    const thumbKey = cfg.mediaPrefix + '/blog/' + slug + '/thumnail/' + base + '.webp';
 
     console.log('  full  -> s3://' + cfg.bucket + '/' + fullKey);
     console.log('  thumb -> s3://' + cfg.bucket + '/' + thumbKey);
 
     if (execute) {
-      const fullBody = fs.readFileSync(fullPath);
+      const fullBody = await makeFull(sharp, fullPath);
       const thumbBody = await makeThumb(sharp, fullPath);
-      await uploadBuffer(s3mod, client, cfg, fullKey, fullBody, contentType(name));
-      await uploadBuffer(s3mod, client, cfg, thumbKey, thumbBody, 'image/jpeg');
+      await uploadBuffer(s3mod, client, cfg, fullKey, fullBody, 'image/webp');
+      await uploadBuffer(s3mod, client, cfg, thumbKey, thumbBody, 'image/webp');
     }
 
     images.push({
@@ -180,12 +203,12 @@ async function uploadHomeSlot(args) {
     throw new Error('homepage.json has no carousel[' + slotIndex + ']');
   }
 
-  const ext = path.extname(abs).toLowerCase() || '.jpg';
-  const key = cfg.mediaPrefix + '/home/carousel-' + slotIndex + ext;
+  const key = cfg.mediaPrefix + '/home/carousel-' + slotIndex + '.webp';
   console.log(execute ? 'UPLOADING…' : 'DRY-RUN…');
   console.log('  -> s3://' + cfg.bucket + '/' + key);
 
   if (execute) {
+    const sharp = await getSharp();
     const s3mod = await getS3();
     const client = new s3mod.S3Client({
       region: cfg.region,
@@ -194,7 +217,8 @@ async function uploadHomeSlot(args) {
         secretAccessKey: cfg.secretAccessKey
       }
     });
-    await uploadBuffer(s3mod, client, cfg, key, fs.readFileSync(abs), contentType(abs));
+    const body = await makeTile(sharp, abs);
+    await uploadBuffer(s3mod, client, cfg, key, body, 'image/webp');
   }
 
   homepage.carousel[slotIndex].image = publicUrl(cfg, key);
