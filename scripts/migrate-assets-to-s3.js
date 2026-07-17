@@ -15,6 +15,7 @@ const path = require('path');
 const {
   ROOT,
   getAwsConfig,
+  s3Credentials,
   publicUrl,
   parseArgs
 } = require('./content-lib');
@@ -135,10 +136,7 @@ async function main() {
   const { S3Client, PutObjectCommand, HeadObjectCommand } = require('@aws-sdk/client-s3');
   const client = new S3Client({
     region: cfg.region,
-    credentials: {
-      accessKeyId: cfg.accessKeyId,
-      secretAccessKey: cfg.secretAccessKey
-    }
+    credentials: s3Credentials(cfg)
   });
 
   const CONCURRENCY = 8;

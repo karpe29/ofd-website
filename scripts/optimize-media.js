@@ -21,6 +21,7 @@ const path = require('path');
 const {
   ROOT,
   getAwsConfig,
+  s3Credentials,
   publicUrl,
   parseArgs,
   collectReferencedUrls,
@@ -173,10 +174,7 @@ async function main() {
   const s3mod = require('@aws-sdk/client-s3');
   const client = new s3mod.S3Client({
     region: cfg.region,
-    credentials: {
-      accessKeyId: cfg.accessKeyId,
-      secretAccessKey: cfg.secretAccessKey
-    }
+    credentials: s3Credentials(cfg)
   });
 
   const urls = Array.from(collectReferencedUrls()).filter(function (u) {

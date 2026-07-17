@@ -11,6 +11,7 @@
 
 const {
   getAwsConfig,
+  s3Credentials,
   collectReferencedUrls,
   urlToKey,
   parseArgs
@@ -31,10 +32,7 @@ async function main() {
   const { S3Client, ListObjectsV2Command, DeleteObjectsCommand } = require('@aws-sdk/client-s3');
   const client = new S3Client({
     region: cfg.region,
-    credentials: {
-      accessKeyId: cfg.accessKeyId,
-      secretAccessKey: cfg.secretAccessKey
-    }
+    credentials: s3Credentials(cfg)
   });
 
   const referenced = collectReferencedUrls();

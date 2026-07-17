@@ -30,6 +30,7 @@ function loadEnvFile() {
 function getAwsConfig() {
   loadEnvFile();
   const cfg = {
+    profile: process.env.AWS_PROFILE,
     accessKeyId: process.env.AWS_ACCESS_KEY_ID,
     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
     region: process.env.AWS_REGION || 'ap-south-1',
@@ -37,13 +38,24 @@ function getAwsConfig() {
     mediaPrefix: (process.env.S3_MEDIA_PREFIX || 'weddings/media').replace(/^\/+|\/+$/g, '')
   };
   const missing = [];
-  if (!cfg.accessKeyId) missing.push('AWS_ACCESS_KEY_ID');
-  if (!cfg.secretAccessKey) missing.push('AWS_SECRET_ACCESS_KEY');
+  // Either an SSO profile (preferred) or static access keys (legacy fallback) must be present.
+  if (!cfg.profile && !(cfg.accessKeyId && cfg.secretAccessKey)) {
+    missing.push('AWS_PROFILE (or AWS_ACCESS_KEY_ID/AWS_SECRET_ACCESS_KEY)');
+  }
   if (!cfg.bucket) missing.push('S3_BUCKET_NAME');
   if (missing.length) {
     throw new Error('Missing env: ' + missing.join(', ') + ' (set in .env — see .env.example)');
   }
   return cfg;
+}
+
+function s3Credentials(cfg) {
+  if (cfg.accessKeyId && cfg.secretAccessKey) {
+    return { accessKeyId: cfg.accessKeyId, secretAccessKey: cfg.secretAccessKey };
+  }
+  // Falls back to the default provider chain (picks up AWS_PROFILE / SSO cache).
+  const { defaultProvider } = require('@aws-sdk/credential-provider-node');
+  return defaultProvider({ profile: cfg.profile });
 }
 
 function publicUrl(cfg, key) {
@@ -124,6 +136,7 @@ module.exports = {
   ROOT,
   loadEnvFile,
   getAwsConfig,
+  s3Credentials,
   publicUrl,
   collectReferencedUrls,
   urlToKey,

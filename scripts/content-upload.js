@@ -17,6 +17,7 @@ const path = require('path');
 const {
   ROOT,
   getAwsConfig,
+  s3Credentials,
   publicUrl,
   parseArgs
 } = require('./content-lib');
@@ -130,10 +131,7 @@ async function uploadBlog(args) {
   const client = execute
     ? new s3mod.S3Client({
         region: cfg.region,
-        credentials: {
-          accessKeyId: cfg.accessKeyId,
-          secretAccessKey: cfg.secretAccessKey
-        }
+        credentials: s3Credentials(cfg)
       })
     : null;
 
@@ -212,10 +210,7 @@ async function uploadHomeSlot(args) {
     const s3mod = await getS3();
     const client = new s3mod.S3Client({
       region: cfg.region,
-      credentials: {
-        accessKeyId: cfg.accessKeyId,
-        secretAccessKey: cfg.secretAccessKey
-      }
+      credentials: s3Credentials(cfg)
     });
     const body = await makeTile(sharp, abs);
     await uploadBuffer(s3mod, client, cfg, key, body, 'image/webp');
